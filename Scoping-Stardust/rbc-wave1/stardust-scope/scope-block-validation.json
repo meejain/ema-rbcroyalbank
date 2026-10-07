@@ -1,0 +1,3934 @@
+[
+ {
+  "id": "footer-global",
+  "type": "footer",
+  "instances": 1,
+  "pages": 1,
+  "coverage": 1,
+  "mappedTo": {
+   "chrome: footer block + /nav,/footer documents": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/_global/footer.jpg"
+ },
+ {
+  "id": "header-global",
+  "type": "header",
+  "instances": 1,
+  "pages": 1,
+  "coverage": 1,
+  "mappedTo": {
+   "chrome: header block + /nav,/footer documents": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/_global/header.jpg"
+ },
+ {
+  "id": "v_3281a8ce9b13",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.86,
+  "mappedTo": {
+   "cards (promo) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com--e34e1dcc/blocks/ec99add.jpg",
+  "description": "heading + text + 26 CTAs + 11 images"
+ },
+ {
+  "id": "v_4860c636d8e8",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 7,
+  "instances": 7,
+  "measured": 5,
+  "imageOnly": 2,
+  "coverage": 1,
+  "mappedTo": {
+   "columns [section: band]": 2,
+   "default content [section: article]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com--e34e1dcc/blocks/6ae454ad.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_fd6ff71155de",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.92,
+  "mappedTo": {
+   "accordion (moments) [section: help]": 1,
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com--e34e1dcc/blocks/558bd73e.jpg",
+  "description": "heading + 1 CTAs + 4 images + list"
+ },
+ {
+  "id": "v_70ee1c9fba9e",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 15,
+  "instances": 15,
+  "measured": 14,
+  "imageOnly": 1,
+  "coverage": 0.98,
+  "mappedTo": {
+   "cards (articles (featured)": 1,
+   "default content": 8,
+   "cards (features) [section: band]": 3,
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com--e34e1dcc/blocks/49b05eab.jpg",
+  "description": "heading + text + 1 CTAs"
+ },
+ {
+  "id": "v_42446be820dd",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "cards (recognition) [section: awards]": 1,
+   "accordion (legal) [section: legal]": 1,
+   "cards (partners) [section: band]": 1,
+   "cards (tiles)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com--e34e1dcc/blocks/338c9eeb.jpg",
+  "description": "heading + text + 2 images"
+ },
+ {
+  "id": "v_aebfc1415389",
+  "type": "search",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "search (branch)": 1,
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com--e34e1dcc/blocks/48635cfe.jpg",
+  "description": "heading + 1 CTAs"
+ },
+ {
+  "id": "v_e8edbd34c141",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 11,
+  "instances": 11,
+  "measured": 7,
+  "imageOnly": 4,
+  "coverage": 0.93,
+  "mappedTo": {
+   "cards (offers) [section: band]": 5,
+   "hero": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_activate_index_html--ff36e03c/blocks/423685f1.jpg",
+  "description": "heading + text + 1 CTAs + image + list"
+ },
+ {
+  "id": "v_5a1baf680bb1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 27,
+  "instances": 27,
+  "measured": 27,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 27
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/60072792.jpg",
+  "description": "heading + 1 CTAs + 3 images + list"
+ },
+ {
+  "id": "v_81120c754c54",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.84,
+  "mappedTo": {
+   "cards (offers)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/54320286.jpg",
+  "description": "text + 7 CTAs"
+ },
+ {
+  "id": "v_b25574a76eae",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 12,
+  "instances": 12,
+  "measured": 4,
+  "imageOnly": 8,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 2,
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/5e5cacc5.jpg",
+  "description": "1 CTAs"
+ },
+ {
+  "id": "v_b6c4d25136f9",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 16,
+  "instances": 16,
+  "measured": 16,
+  "imageOnly": 0,
+  "coverage": 0.87,
+  "mappedTo": {
+   "cards (offers)": 2,
+   "accordion (legal) [section: legal]": 2,
+   "cards (offers) [section: band]": 12
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/1ee1d126.jpg",
+  "description": "heading + 5 CTAs + 2 images"
+ },
+ {
+  "id": "v_94a2448023bb",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 12,
+  "instances": 12,
+  "measured": 12,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "cards (offers)": 2,
+   "cards (list) [section: band]": 2,
+   "cards (offers) [section: band]": 6,
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/1ee1d183.jpg",
+  "description": "heading + 5 CTAs + image"
+ },
+ {
+  "id": "v_029337078746",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/3bc53af3.jpg",
+  "description": "heading + 1 CTAs"
+ },
+ {
+  "id": "v_42300e8a4652",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 36,
+  "instances": 36,
+  "measured": 34,
+  "imageOnly": 2,
+  "coverage": 0.91,
+  "mappedTo": {
+   "cards (icons) [section: band]": 10,
+   "accordion (legal) [section: legal]": 12,
+   "cards (icons)": 6,
+   "cards (stats)": 4,
+   "cards (compare)": 1,
+   "accordion [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_all-credit-cards_html--d96bebdf/blocks/1bfb0639.jpg",
+  "description": "heading + text + 3 images"
+ },
+ {
+  "id": "v_b60563452670",
+  "type": "breadcrumbs",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.75,
+  "mappedTo": {
+   "hero (typeled)": 3,
+   "cards (tiles)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_annual-fee-comparison_index_html--3c6a13dd/blocks/488704ca.jpg",
+  "description": "heading"
+ },
+ {
+  "id": "v_6a4cf54cedf6",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_annual-fee-comparison_index_html--3c6a13dd/blocks/7c84134.jpg",
+  "description": "heading + text + 5 CTAs + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_5a1baf680bb1-1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 53,
+  "instances": 53,
+  "measured": 53,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 31,
+   "default content": 15,
+   "default content [section: band]": 7
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_award-winning-credit-cards_html--575ab70c/blocks/60072792.jpg",
+  "description": "heading + 1 CTAs"
+ },
+ {
+  "id": "v_58c552daf8d2",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 2,
+  "imageOnly": 4,
+  "coverage": 0.96,
+  "mappedTo": {
+   "hero": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_award-winning-credit-cards_html--575ab70c/blocks/659c45bf.jpg",
+  "description": "heading + text + 2 images"
+ },
+ {
+  "id": "v_bbe571541b9c",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.82,
+  "mappedTo": {
+   "hero": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_award-winning-credit-cards_html--575ab70c/blocks/16dc9a8e.jpg",
+  "description": "4 CTAs + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "cards (why)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_award-winning-credit-cards_html--575ab70c/blocks/4b2325cf.jpg",
+  "description": "heading + text + 41 images"
+ },
+ {
+  "id": "v_824ce0b8439d",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 2,
+  "imageOnly": 2,
+  "coverage": 0.77,
+  "mappedTo": {
+   "cards (tiles)": 1,
+   "columns [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_award-winning-credit-cards_html--575ab70c/blocks/3c266636.jpg",
+  "description": "heading + 4 CTAs + 4 images"
+ },
+ {
+  "id": "v_d1a119baa551",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 0.88,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_award-winning-credit-cards_html--575ab70c/blocks/4b5c4444.jpg",
+  "description": "text + 1 CTAs"
+ },
+ {
+  "id": "v_58c552daf8d2-1",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 28,
+  "instances": 28,
+  "measured": 24,
+  "imageOnly": 4,
+  "coverage": 0.96,
+  "mappedTo": {
+   "hero": 11,
+   "hero (typeled)": 12,
+   "hero (back)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_campaign_balanceprotector_index_html--f4e5e9f8/blocks/659c45bf.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_80d7b826f848",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (icons)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_campaign_balanceprotector_index_html--f4e5e9f8/blocks/7c84115.jpg",
+  "description": "heading + text + 3 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_1485444c2d08",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 3,
+  "imageOnly": 1,
+  "coverage": 0.96,
+  "mappedTo": {
+   "default content": 2,
+   "default content [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_campaign_balanceprotector_index_html--f4e5e9f8/blocks/7c84153.jpg",
+  "description": "heading + text + 3 CTAs + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_609afad1c975",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 11,
+  "instances": 11,
+  "measured": 5,
+  "imageOnly": 6,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 5
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_campaign_balanceprotector_index_html--f4e5e9f8/blocks/7c84191.jpg",
+  "description": "heading + text + 6 CTAs + list"
+ },
+ {
+  "id": "v_5a1baf680bb1-2",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 10,
+  "instances": 10,
+  "measured": 10,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 10
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholder-resources_html--7c647138/blocks/60072792.jpg",
+  "description": "heading + 2 CTAs + 3 images + list"
+ },
+ {
+  "id": "v_e87b1a8f5397",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholder-resources_html--7c647138/blocks/7548ceb2.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_414eb716bbb5",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 4,
+  "imageOnly": 2,
+  "coverage": 0.95,
+  "mappedTo": {
+   "cards (stats) [section: band]": 1,
+   "cards (stats)": 1,
+   "accordion (legal) [section: legal]": 1,
+   "cards (features)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholder-resources_html--7c647138/blocks/b90e6b4.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_5a1baf680bb1-3",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 35,
+  "instances": 35,
+  "measured": 35,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 35
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_add-user_html--2e8ab632/blocks/60072792.jpg",
+  "description": "heading + 2 CTAs + 4 images + list"
+ },
+ {
+  "id": "v_58c552daf8d2-2",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 22,
+  "instances": 22,
+  "measured": 22,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (typeled)": 2,
+   "hero": 20
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_add-user_html--2e8ab632/blocks/659c45bf.jpg",
+  "description": "heading"
+ },
+ {
+  "id": "v_aa6cd8a9b595",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 96,
+  "instances": 96,
+  "measured": 66,
+  "imageOnly": 30,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 6,
+   "columns": 15,
+   "cards (features)": 10,
+   "default content [section: band]": 7,
+   "default content [section: takeaways]": 28
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_add-user_html--2e8ab632/blocks/4444f5f3.jpg",
+  "description": "content"
+ },
+ {
+  "id": "v_2fee0ad806d2",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "cards (features)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_add-user_html--2e8ab632/blocks/127e1abb.jpg",
+  "description": "heading + text + 2 CTAs + 14 images + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d-1",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_credit-card-transaction-help_html--b5d9b2f4/blocks/4b2325cf.jpg",
+  "description": "text + 6 images"
+ },
+ {
+  "id": "v_56cd1b867c67",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.89,
+  "mappedTo": {
+   "columns (intro)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_documentation_html--1b582793/blocks/42368610.jpg",
+  "description": "heading + text + 1 CTAs + 4 images + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_c8e40ca1854e",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "columns": 1,
+   "cards (list) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_estatements-frequently-asked-questions_html--fe08bcbd/blocks/6b0d98a2.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d-2",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion": 2,
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_credit-limit-and-fees_html--7e80e815/blocks/4b2325cf.jpg",
+  "description": "heading + text + 10 CTAs + list"
+ },
+ {
+  "id": "v_3f9c0d447208",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 12,
+  "instances": 12,
+  "measured": 12,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 10,
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_credit-limit-and-fees_html--7e80e815/blocks/5413807f.jpg",
+  "description": "1 CTAs"
+ },
+ {
+  "id": "v_234118ddc9f7",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "accordion": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_credit-limit-and-fees_html--7e80e815/blocks/54138022.jpg",
+  "description": "1 CTAs + list"
+ },
+ {
+  "id": "v_5b1b78c27014",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 20,
+  "instances": 20,
+  "measured": 20,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "accordion": 3,
+   "accordion (legal) [section: legal]": 17
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_credit-limit-and-fees_html--7e80e815/blocks/2e5c8e5f.jpg",
+  "description": "text + 1 CTAs"
+ },
+ {
+  "id": "v_caba9dfe4f29",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 42,
+  "instances": 42,
+  "measured": 0,
+  "imageOnly": 42,
+  "coverage": null,
+  "mappedTo": {},
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_credit-limit-and-fees_html--7e80e815/blocks/52140ec9.jpg",
+  "description": "content"
+ },
+ {
+  "id": "v_a0d14ad23f5d-3",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_features-and-benefits_html--3b2567f5/blocks/4b2325cf.jpg",
+  "description": "heading + 7 CTAs + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d-4",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_general-questions_html--0b683d78/blocks/4b2325cf.jpg",
+  "description": "heading + text + 8 CTAs + list"
+ },
+ {
+  "id": "v_234118ddc9f7-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 12,
+  "instances": 12,
+  "measured": 10,
+  "imageOnly": 2,
+  "coverage": 0.95,
+  "mappedTo": {
+   "accordion": 6,
+   "accordion (legal) [section: legal]": 3,
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_general-questions_html--0b683d78/blocks/54138022.jpg",
+  "description": "heading + text + 1 CTAs + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d-5",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_payments_html--77f26407/blocks/4b2325cf.jpg",
+  "description": "heading + text + 13 CTAs + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d-6",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.89,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_frequently-asked-questions_protecting-my-card_html--37b86879/blocks/4b2325cf.jpg",
+  "description": "heading + text + 12 CTAs + list"
+ },
+ {
+  "id": "v_4cd661396f2f",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "columns": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_how-to-protect-from-credit-card-fraud_html--11dcb7f6/blocks/31406d6.jpg",
+  "description": "text + 5 images"
+ },
+ {
+  "id": "v_7a9954292bbf",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 5,
+  "instances": 5,
+  "measured": 5,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "columns": 5
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_how-to-protect-from-credit-card-fraud_html--11dcb7f6/blocks/1d4c1bdc.jpg",
+  "description": "heading + list"
+ },
+ {
+  "id": "v_5a1baf680bb1-4",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_html--47c60553/blocks/60072792.jpg",
+  "description": "heading + 1 CTAs + 4 images + list"
+ },
+ {
+  "id": "v_a1abbc0951d8",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.67,
+  "mappedTo": {
+   "accordion": 1,
+   "hero (typeled)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_html--47c60553/blocks/21e069d.jpg",
+  "description": "heading + text + 3 CTAs + image + list"
+ },
+ {
+  "id": "v_b8cd1c46f628",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 22,
+  "instances": 22,
+  "measured": 22,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "accordion": 13,
+   "accordion [section: band]": 9
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_html--47c60553/blocks/646c3425.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_522ef8c958fc",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_html--47c60553/blocks/7c841cf.jpg",
+  "description": "heading + text + 5 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_1679e321c58a",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 14,
+  "instances": 14,
+  "measured": 13,
+  "imageOnly": 1,
+  "coverage": 0.97,
+  "mappedTo": {
+   "cards (why)": 2,
+   "columns": 1,
+   "default content": 4,
+   "default content [section: article]": 1,
+   "cards (stats)": 1,
+   "cards (features)": 2,
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_html--47c60553/blocks/6eb3e067.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_609afad1c975-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 16,
+  "instances": 16,
+  "measured": 12,
+  "imageOnly": 4,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 10,
+   "accordion (details) [section: band]": 1,
+   "accordion [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_instant-use-with-apple-pay_html--ce9eb32a/blocks/7c84191.jpg",
+  "description": "heading + text + 3 CTAs"
+ },
+ {
+  "id": "v_19fd63195c88",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_instant-use-with-apple-pay_html--ce9eb32a/blocks/22620363.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_80d7b826f848-1",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 1,
+   "columns (intro)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_lost-or-stolen-credit-card_html--6a05cd86/blocks/7c84115.jpg",
+  "description": "heading + text + 2 images + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_0086ed3d51af",
+  "type": "breadcrumbs",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 8,
+  "imageOnly": 0,
+  "coverage": 0.76,
+  "mappedTo": {
+   "hero (typeled)": 4,
+   "hero (card (typeled)": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_moi-information-sharing_html--ca552eb1/blocks/5c1f3ed2.jpg",
+  "description": "3 images + list"
+ },
+ {
+  "id": "v_6a4cf54cedf6-1",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "default content": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_moi-information-sharing_html--ca552eb1/blocks/7c84134.jpg",
+  "description": "heading + 6 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_9c85a3f2d235",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 7,
+  "instances": 7,
+  "measured": 7,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "default content [section: band]": 5,
+   "columns (intro)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_moi-information-sharing_html--ca552eb1/blocks/7c84172.jpg",
+  "description": "heading + text + image",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_17cfc590e1e5",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "columns": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_moi-information-sharing_html--ca552eb1/blocks/68510095.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_ac76e87637ce",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_moi-information-sharing_html--ca552eb1/blocks/7c841b0.jpg",
+  "description": "heading + text + 13 CTAs + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_e90777a88dd1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.89,
+  "mappedTo": {
+   "cards (icons)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_optional-add-on-services_html--849df76c/blocks/4b1d7d30.jpg",
+  "description": "heading + text + 4 images"
+ },
+ {
+  "id": "v_7ca3b41171d4",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 15,
+  "instances": 15,
+  "measured": 11,
+  "imageOnly": 4,
+  "coverage": 0.92,
+  "mappedTo": {
+   "cards (features) [section: band]": 3,
+   "cards (why) [section: band]": 2,
+   "cards (stats) [section: band]": 1,
+   "cards (features)": 4,
+   "default content [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_optional-add-on-services_identity-credit-theft-protection_html--968f4440/blocks/e6c9150.jpg",
+  "description": "text"
+ },
+ {
+  "id": "v_1485444c2d08-1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.82,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_optional-add-on-services_rbc-additional-travel-insurance_html--6fd50151/blocks/7c84153.jpg",
+  "description": "heading + text + 3 CTAs + 3 images + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_609afad1c975-2",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 16,
+  "instances": 16,
+  "measured": 12,
+  "imageOnly": 4,
+  "coverage": 0.99,
+  "mappedTo": {
+   "accordion [section: band]": 8,
+   "accordion": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_optional-add-on-services_rbc-additional-travel-insurance_html--6fd50151/blocks/7c84191.jpg",
+  "description": "heading + text + 7 CTAs + list"
+ },
+ {
+  "id": "v_ac76e87637ce-1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 5,
+  "instances": 5,
+  "measured": 3,
+  "imageOnly": 2,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 2,
+   "columns": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_optional-add-on-services_rbc-additional-travel-insurance_html--6fd50151/blocks/7c841b0.jpg",
+  "description": "heading + text + 1 CTAs + list"
+ },
+ {
+  "id": "v_236d6f09f8e8",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 1,
+  "imageOnly": 2,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (features) [section: article]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_optional-add-on-services_rbc-road-assist_html--ca2b6eaf/blocks/218bfc7f.jpg",
+  "description": "text"
+ },
+ {
+  "id": "v_dd765d4a9c75",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/6675a903.jpg",
+  "description": "content"
+ },
+ {
+  "id": "v_16394c5a258e",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.86,
+  "mappedTo": {
+   "cards (tiles)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/774b7248.jpg",
+  "description": "heading + text + 4 CTAs + 15 images + list"
+ },
+ {
+  "id": "v_e78fff7aebd5",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (tiles)": 2,
+   "hero (card (typeled)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/54c35b87.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_1bc5730e2413",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.82,
+  "mappedTo": {
+   "cards (tiles)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/54c35b85.jpg",
+  "description": "heading + text + 7 CTAs + 11 images + list"
+ },
+ {
+  "id": "v_2581a597dd86",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.6,
+  "mappedTo": {
+   "cards (tiles)": 1
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/read-your-credit-card-statement.html",
+    "coverage": 60,
+    "sample": "credit card statement definitions select category letter annual fee your any for",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/a322468.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/a322468.jpg",
+  "description": "heading + text + 11 CTAs + list"
+ },
+ {
+  "id": "v_8f813d97b241",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_read-your-credit-card-statement_html--3cd680cb/blocks/60b9d05.jpg",
+  "description": "heading + text + 16 CTAs + list"
+ },
+ {
+  "id": "v_fdd79eddf8b3",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.69,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_westjet-rewards-program-updates_html--0f7bcd71/blocks/248a54d3.jpg",
+  "description": "text + 2 CTAs + list"
+ },
+ {
+  "id": "v_0e1d9057da17",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cardholders_westjet-rewards-program-updates_html--0f7bcd71/blocks/4eea7251.jpg",
+  "description": "heading + text + 18 CTAs"
+ },
+ {
+  "id": "v_e74ee53f1e59",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 18,
+  "instances": 18,
+  "measured": 18,
+  "imageOnly": 0,
+  "coverage": 0.76,
+  "mappedTo": {
+   "cards (partners)": 2,
+   "default content [section: plate]": 2,
+   "accordion": 4,
+   "accordion (legal) [section: legal]": 4,
+   "cards (offers) [section: band]": 5,
+   "cards (why)": 1
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses.html",
+    "coverage": 56,
+    "sample": "quel type carte credit avez vous besoin une valeur courante aux primes",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_recompenses_html--80b0eea5/blocks/6962242b.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/6962242b.jpg",
+  "description": "heading + text + 9 CTAs + 9 images"
+ },
+ {
+  "id": "v_552e77179a03",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.72,
+  "mappedTo": {
+   "table": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/3c5225ec.jpg",
+  "description": "heading + text + 12 CTAs + 2 images"
+ },
+ {
+  "id": "v_2895861f820a",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/10d36ff7.jpg",
+  "description": "heading + text + 3 images + list"
+ },
+ {
+  "id": "v_bd6417e2b305",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 2,
+  "imageOnly": 2,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (tiles) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/24f01ce9.jpg",
+  "description": "heading + text + 2 images"
+ },
+ {
+  "id": "v_b9dd25b1ea05",
+  "type": "table",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "table": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/7c841ee.jpg",
+  "description": "heading + text + 1 CTAs + 2 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_4c212f55612a",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.85,
+  "mappedTo": {
+   "accordion [section: band]": 1,
+   "cards (features) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/28122057.jpg",
+  "description": "heading + 3 CTAs"
+ },
+ {
+  "id": "v_39a92ac612bf",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.85,
+  "mappedTo": {
+   "cards (partners)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/21a7463d.jpg",
+  "description": "heading + text + 2 CTAs + 9 images"
+ },
+ {
+  "id": "v_0e1d9057da17-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 8,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 6,
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_html--f7205add/blocks/4eea7251.jpg",
+  "description": "heading + text + 4 CTAs + list"
+ },
+ {
+  "id": "v_8c3da60f62c7",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 9,
+  "instances": 9,
+  "measured": 9,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 5,
+   "default content": 3,
+   "default content [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-cashback-mastercard_html--382c4045/blocks/64f41a9c.jpg",
+  "description": "heading + text + 2 CTAs + image + list"
+ },
+ {
+  "id": "v_2a983d161de2",
+  "type": "form",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.85,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-cashback-mastercard_html--382c4045/blocks/8f971a8.jpg",
+  "description": "heading + text + 1 CTAs"
+ },
+ {
+  "id": "v_9bcabd0023cb",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.79,
+  "mappedTo": {
+   "columns [section: band]": 2,
+   "columns": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-cashback-mastercard_html--382c4045/blocks/73c61632.jpg",
+  "description": "heading + text + 6 CTAs + 13 images + list"
+ },
+ {
+  "id": "v_0e1d9057da17-2",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 2,
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-cashback-mastercard_html--382c4045/blocks/4eea7251.jpg",
+  "description": "heading + text + 5 CTAs + list"
+ },
+ {
+  "id": "v_6256761c78a1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-preferred-world-elite-mastercard_html--51770b26/blocks/47c4926f.jpg",
+  "description": "heading + text + 4 images"
+ },
+ {
+  "id": "v_97d085fe0529",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 34,
+  "instances": 34,
+  "measured": 30,
+  "imageOnly": 4,
+  "coverage": 0.96,
+  "mappedTo": {
+   "cards (icons) [section: band]": 2,
+   "cards (why) [section: band]": 18,
+   "cards (why)": 10
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-preferred-world-elite-mastercard_html--51770b26/blocks/40e60b1d.jpg",
+  "description": "heading + text + 3 images"
+ },
+ {
+  "id": "v_b60935042f47",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 0,
+  "imageOnly": 2,
+  "coverage": null,
+  "mappedTo": {},
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-preferred-world-elite-mastercard_html--51770b26/blocks/3c20376c.jpg",
+  "description": "content"
+ },
+ {
+  "id": "v_a8d26a73f097",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_cash-back_rbc-preferred-world-elite-mastercard_html--51770b26/blocks/3d9b4a1c.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_5a1baf680bb1-5",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/60072792.jpg",
+  "description": "heading + 1 CTAs + 2 images + list"
+ },
+ {
+  "id": "v_166b91eedb0a",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "hero": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/62132ec4.jpg",
+  "description": "heading + text + 4 CTAs + image"
+ },
+ {
+  "id": "v_609afad1c975-3",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.88,
+  "mappedTo": {
+   "cards (offers)": 1,
+   "cards (offers) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/7c84191.jpg",
+  "description": "heading + text + 17 CTAs + 7 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_51131086fdcb",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.75,
+  "mappedTo": {
+   "accordion [section: band]": 1,
+   "cards (tiles) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/5d513ca7.jpg",
+  "description": "heading + 15 CTAs + 6 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_9824dd466344",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 8,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "cards (families)": 1,
+   "accordion (legal) [section: legal]": 2,
+   "cards (tiles)": 3,
+   "cards (tiles) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/54af1714.jpg",
+  "description": "heading + text + 4 images + list"
+ },
+ {
+  "id": "v_5f96de5597a1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "columns [section: band]": 1,
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/ec02115.jpg",
+  "description": "heading + text + 7 images",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_6d25f891081b",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 6,
+  "imageOnly": 2,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 3,
+   "accordion [section: band]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_index_html--91a2e6fa/blocks/ec020d7.jpg",
+  "description": "heading + text + 8 CTAs + list"
+ },
+ {
+  "id": "v_5a1baf680bb1-6",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_html--ca0e3f43/blocks/60072792.jpg",
+  "description": "heading + 2 CTAs + 7 images + list"
+ },
+ {
+  "id": "v_58c552daf8d2-3",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 6,
+  "imageOnly": 2,
+  "coverage": 0.97,
+  "mappedTo": {
+   "default content [section: band]": 2,
+   "cards (offers) [section: band]": 3,
+   "hero": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_html--ca0e3f43/blocks/659c45bf.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_b2590a35ea3f",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 13,
+  "instances": 13,
+  "measured": 13,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "cards (icons)": 1,
+   "accordion (legal) [section: legal]": 6,
+   "cards (why)": 2,
+   "cards (partners) [section: band]": 1,
+   "cards (partners)": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_html--ca0e3f43/blocks/40a91405.jpg",
+  "description": "heading + text + 3 images"
+ },
+ {
+  "id": "v_374d390bc93d",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 12,
+  "instances": 12,
+  "measured": 12,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "cards (features) [section: band]": 2,
+   "accordion (legal) [section: legal]": 10
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_html--ca0e3f43/blocks/5dee10a5.jpg",
+  "description": "heading + text + 2 images"
+ },
+ {
+  "id": "v_5f96de5597a1-1",
+  "type": "table",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_html--ca0e3f43/blocks/ec02115.jpg",
+  "description": "heading + text + 1 CTAs",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_2a8cc5489592",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 24,
+  "instances": 24,
+  "measured": 22,
+  "imageOnly": 2,
+  "coverage": 0.97,
+  "mappedTo": {
+   "cards (partners)": 6,
+   "cards (partners) [section: band]": 13,
+   "accordion (legal) [section: legal]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_rbc-visa-classic-low-rate_html--3b5d3aef/blocks/18c929c9.jpg",
+  "description": "heading + text + 4 images"
+ },
+ {
+  "id": "v_7b3c81cd9f9e",
+  "type": "embed",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.94,
+  "mappedTo": {
+   "cards (features)": 2,
+   "cards (features) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_rbc-visa-classic-low-rate_html--3b5d3aef/blocks/3e78b6fb.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_3f36606afa9c",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 29,
+  "instances": 29,
+  "measured": 29,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 18,
+   "default content [section: band]": 7,
+   "columns (apply)": 1,
+   "cards (features) [section: band]": 2,
+   "cards (why)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_low-interest_rbc-visa-classic-low-rate_html--3b5d3aef/blocks/335d220d.jpg",
+  "description": "heading + text + 6 CTAs + image"
+ },
+ {
+  "id": "v_e244230efd25",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (features) [section: band]": 2,
+   "default content": 2,
+   "cards (list) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_mastercard_html--967bb800/blocks/3ae3b396.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_68e1de4e2201",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 5,
+  "imageOnly": 1,
+  "coverage": 0.97,
+  "mappedTo": {
+   "cards (icons)": 4,
+   "accordion (legal) [section: legal]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_no-fee_html--1c5601ba/blocks/5c9d50e6.jpg",
+  "description": "heading + text + 3 images"
+ },
+ {
+  "id": "v_456779ec4097",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 2,
+  "imageOnly": 2,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (tiles)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_no-fee_html--1c5601ba/blocks/b59b855.jpg",
+  "description": "heading + text + 6 images"
+ },
+ {
+  "id": "v_fdd79eddf8b3-1",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 5,
+  "instances": 5,
+  "measured": 5,
+  "imageOnly": 0,
+  "coverage": 0.92,
+  "mappedTo": {
+   "table [section: band]": 3,
+   "cards (offers) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_no-fee_html--1c5601ba/blocks/248a54d3.jpg",
+  "description": "text + 1 CTAs"
+ },
+ {
+  "id": "v_1b0324741b85",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 34,
+  "instances": 34,
+  "measured": 34,
+  "imageOnly": 0,
+  "coverage": 0.44,
+  "mappedTo": {
+   "table [section: band]": 1,
+   "cards (offers) [section: band]": 4,
+   "cards (why) [section: band]": 4,
+   "none": 6,
+   "default content": 3,
+   "default content [section: band]": 7,
+   "columns [section: band]": 1,
+   "columns": 1,
+   "accordion [section: band]": 1,
+   "accordion (legal) [section: legal]": 3,
+   "accordion": 2,
+   "cards (why)": 1
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/aucuns-frais/visa-platine-rbc.html",
+    "coverage": 20,
+    "sample": "voir avis non responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_aucuns-frais_visa-platine-rbc_html--2ae15be8/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/campaign/protectionsolde/index.html",
+    "coverage": 0,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_campaign_protectionsolde_index_html--39fbb07c/blocks/ecca310.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/outils/calculatrice-de-remise-en-argent/",
+    "coverage": 0,
+    "sample": "afficher deni responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_outils_calculatrice-de-remise-en-argent--d5806fff/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/moi-rbc-visa.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_recompenses_moi-rbc-visa_html--19c760b0/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/more-rewards-rbc-visa-infinite.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_recompenses_more-rewards-rbc-visa-infinite_html--f2dee5de/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/more-rewards-rbc-visa.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_recompenses_more-rewards-rbc-visa_html--f58a9bc5/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/visa-rbc-ion-plus.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilite cacher",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_recompenses_visa-rbc-ion-plus_html--9daec563/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/visa-rbc-ion.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilite cacher",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_recompenses_visa-rbc-ion_html--a6b49740/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/remise-en-argent/remise-en-argent-mastercard-rbc.html",
+    "coverage": 50,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_remise-en-argent_remise-en-argent-mastercard-rbc_html--865a9712/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/remise-en-argent/remise-en-argent-preference-world-elite-mastercard.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_remise-en-argent_remise-en-argent-preference-world-elite-mastercard_html--04f3fa47/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/taux-reduit/visa-classique-rbc-taux-reduit.html",
+    "coverage": 20,
+    "sample": "voir avis non responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_taux-reduit_visa-classique-rbc-taux-reduit_html--0dbdee6b/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/ajouter-utilisateur.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_ajouter-utilisateur_html--32232d8f/blocks/699eb831.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/mises-a-jour-du-programme-de-recompenses-westjet.html",
+    "coverage": 0,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_mises-a-jour-du-programme-de-recompenses-westjet_html--33d48fd9/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/releve-electronique.html",
+    "coverage": 0,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_releve-electronique_html--2bb46bfd/blocks/ecca310.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/services-complementaires-facultatifs/assurance-protection-solde-carte-de-credit.html",
+    "coverage": 0,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_services-complementaires-facultatifs_assurance-protection-solde-carte-de-credit_html--cc9818b5/blocks/ecca310.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/utilisation-instantanee-avec-apple-pay.html",
+    "coverage": 25,
+    "sample": "afficher deni responsabiliteafficher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_utilisation-instantanee-avec-apple-pay_html--9de9b5d4/blocks/ecca310.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/cartes-de-credit-westjet-rbc.html",
+    "coverage": 0,
+    "sample": "afficher deni responsabilitecacher responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_cartes-de-credit-westjet-rbc_html--20656e67/blocks/ecca310.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/visa-infinite-british-airways-rbc.html",
+    "coverage": 50,
+    "sample": "afficher deni responsabilite cacher",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_visa-infinite-british-airways-rbc_html--f07f2d37/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/visa-or-en-dollars-us-rbc.html",
+    "coverage": 20,
+    "sample": "voir avis non responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_visa-or-en-dollars-us-rbc_html--36cec9e7/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/visa-platine-voyage-rbc.html",
+    "coverage": 20,
+    "sample": "voir avis non responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_visa-platine-voyage-rbc_html--08104b05/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/westjet-mastercard-rbc.html",
+    "coverage": 20,
+    "sample": "voir avis non responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_westjet-mastercard-rbc_html--423ad608/blocks/9b24222.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/westjet-world-elite-mastercard-rbc.html",
+    "coverage": 40,
+    "sample": "voir avis non responsabilitemasquer responsabilite",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_westjet-world-elite-mastercard-rbc_html--5621c737/blocks/9b24222.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_no-fee_html--1c5601ba/blocks/72584380.jpg",
+  "description": "content"
+ },
+ {
+  "id": "v_0e1d9057da17-3",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_no-fee_html--1c5601ba/blocks/4eea7251.jpg",
+  "description": "heading + 3 CTAs"
+ },
+ {
+  "id": "v_5a1baf680bb1-7",
+  "type": "breadcrumbs",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 8,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 8
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_a-students-guide-to-choosing-the-right-credit-card_html--1bebd147/blocks/60072792.jpg",
+  "description": "1 CTAs + 6 images + list"
+ },
+ {
+  "id": "v_d75c2a8934f4",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 22,
+  "instances": 22,
+  "measured": 22,
+  "imageOnly": 0,
+  "coverage": 0.94,
+  "mappedTo": {
+   "default content [section: article]": 22
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/maximize-international-sports-travel-credit-card-points.html",
+    "coverage": 33,
+    "sample": "click share opens new window tweet facebook post linkedin email copy url",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-international-sports-travel-credit-card-points_html--101b8088/blocks/26ae0192.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/what-is-a-credit-card.html",
+    "coverage": 27,
+    "sample": "click share opens new window tweet facebook post linkedin email copy url",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_what-is-a-credit-card_html--bf75fdfc/blocks/26ae0192.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_a-students-guide-to-choosing-the-right-credit-card_html--1bebd147/blocks/26ae0192.jpg",
+  "description": "1 CTAs + 5 images"
+ },
+ {
+  "id": "v_847be70cfa8f",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_a-students-guide-to-choosing-the-right-credit-card_html--1bebd147/blocks/5beada42.jpg",
+  "description": "heading + text + 1 CTAs"
+ },
+ {
+  "id": "v_d375d1e77371",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 30,
+  "instances": 30,
+  "measured": 30,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "default content": 26,
+   "default content [section: article]": 4
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/maximize-international-sports-travel-credit-card-points.html",
+    "coverage": 29,
+    "sample": "share this article click opens new window tweet facebook post linkedin email",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-international-sports-travel-credit-card-points_html--101b8088/blocks/4b09d9dd.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/what-is-a-credit-card.html",
+    "coverage": 43,
+    "sample": "share this article click opens new window tweet facebook post linkedin email",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_what-is-a-credit-card_html--bf75fdfc/blocks/4b09d9dd.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/optimisez-les-points-de-carte-de-credit-voyages-sportifs-internationaux.html",
+    "coverage": 20,
+    "sample": "partager cet article click share opens new window tweet facebook poste linkedin",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_conseils-sur-les-produits_optimisez-les-points-de-carte-de-credit-voyages-sportifs-internationaux_html--5b85cc51/blocks/4b09d9dd.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_a-students-guide-to-choosing-the-right-credit-card_html--1bebd147/blocks/4b09d9dd.jpg",
+  "description": "text + 1 CTAs + 5 images"
+ },
+ {
+  "id": "v_824ce0b8439d-1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 18,
+  "instances": 18,
+  "measured": 18,
+  "imageOnly": 0,
+  "coverage": 0.86,
+  "mappedTo": {
+   "default content": 1,
+   "default content [section: article]": 10,
+   "cards (list) [section: article]": 2,
+   "columns [section: band]": 5
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_html--0ad5b0a7/blocks/3c266636.jpg",
+  "description": "heading + 4 CTAs + 4 images"
+ },
+ {
+  "id": "v_3b301f6c2dad",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 18,
+  "instances": 18,
+  "measured": 18,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "cards (features) [section: article]": 2,
+   "cards (why)": 8,
+   "default content [section: article]": 3,
+   "cards (links) [section: band]": 1,
+   "cards (list) [section: article]": 1,
+   "cards (articles)": 1,
+   "cards (why) [section: band]": 1,
+   "table [section: article]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_a-students-guide-to-choosing-the-right-credit-card_html--1bebd147/blocks/771beabd.jpg",
+  "description": "heading + 3 images"
+ },
+ {
+  "id": "v_5a1baf680bb1-8",
+  "type": "breadcrumbs",
+  "model": "standalone",
+  "pages": 14,
+  "instances": 14,
+  "measured": 14,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 14
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_html--0ad5b0a7/blocks/60072792.jpg",
+  "description": "1 CTAs + 3 images + list"
+ },
+ {
+  "id": "v_9d8d58255380",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 6
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_credit-card-safety-travel-checklist_html--cd8d0c50/blocks/78daa36c.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_ad6b27c2afa2",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "default content [section: article]": 6
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_credit-card-safety-travel-checklist_html--cd8d0c50/blocks/5fa3b3b0.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_872e5087885b",
+  "type": "table",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "default content [section: article]": 4,
+   "table [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_credit-card-safety-travel-checklist_html--cd8d0c50/blocks/5463a465.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_5746671f2b4f",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 22,
+  "instances": 22,
+  "measured": 22,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (features) [section: article]": 8,
+   "default content [section: article]": 10,
+   "cards (list) [section: article]": 3,
+   "accordion [section: article]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_credit-card-safety-travel-checklist_html--cd8d0c50/blocks/26cf8a9d.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_8282ef990e8e",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 0,
+  "imageOnly": 2,
+  "coverage": null,
+  "mappedTo": {},
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/240e1163.jpg",
+  "description": "2 images"
+ },
+ {
+  "id": "v_49157c773890",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "columns (intro) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/1a24e69.jpg",
+  "description": "heading + image + list"
+ },
+ {
+  "id": "v_98404102fd5c",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 1,
+  "imageOnly": 1,
+  "coverage": 0.93,
+  "mappedTo": {
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/87aed9.jpg",
+  "description": "text",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_a5c45d96ab8b",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.88,
+  "mappedTo": {
+   "columns (intro) [section: band]": 1,
+   "cards (features)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/430f3002.jpg",
+  "description": "heading + image"
+ },
+ {
+  "id": "v_6c20d059a323",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (list) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/e399023.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_fb746d0a69da",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.91,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/37ea4c1f.jpg",
+  "description": "heading + text + 2 CTAs + 9 images + list"
+ },
+ {
+  "id": "v_4e6bc3a0eeaa",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.92,
+  "mappedTo": {
+   "cards (icons) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/65960b2c.jpg",
+  "description": "heading + text + 6 images + list"
+ },
+ {
+  "id": "v_93340b8640b7",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (features)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/4b4f3987.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_7b840e62bb19",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.88,
+  "mappedTo": {
+   "default content [section: band]": 1,
+   "columns [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-cashback-credit-cards-work_html--78f7b94a/blocks/2fb07ccd.jpg",
+  "description": "heading + 4 CTAs + 4 images"
+ },
+ {
+  "id": "v_5a1baf680bb1-9",
+  "type": "breadcrumbs",
+  "model": "standalone",
+  "pages": 10,
+  "instances": 10,
+  "measured": 10,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 10
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-travel-credit-cards-work_html--ead133ac/blocks/60072792.jpg",
+  "description": "1 CTAs + 4 images + list"
+ },
+ {
+  "id": "v_2ddbecb8a96a",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (features) [section: article]": 3,
+   "default content [section: article]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-do-travel-credit-cards-work_html--ead133ac/blocks/4ded9942.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_3e3227018439",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_how-to-apply-for-a-credit-card_html--49864589/blocks/4693d33f.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_a98d14b950b8",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_html--0ad5b0a7/blocks/14b52dae.jpg",
+  "description": "text + 3 CTAs"
+ },
+ {
+  "id": "v_6b04e385928d",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_is-a-low-interest-rate-credit-card-right-for-you_index_html--dd647351/blocks/31901ba1.jpg",
+  "description": "heading + text + 1 CTAs + list"
+ },
+ {
+  "id": "v_91efb89675f6",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "cards (list) [section: article]": 5,
+   "default content [section: article]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_is-a-low-interest-rate-credit-card-right-for-you_index_html--dd647351/blocks/1ae480fe.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_a2c8cc22330e",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (list) [section: article]": 3,
+   "default content [section: article]": 1,
+   "cards (features)": 1,
+   "cards (features) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_is-a-low-interest-rate-credit-card-right-for-you_index_html--dd647351/blocks/62f82786.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_385568610b4d",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_is-a-low-interest-rate-credit-card-right-for-you_index_html--dd647351/blocks/5524e322.jpg",
+  "description": "heading + text + 1 CTAs"
+ },
+ {
+  "id": "v_7d58cc18fd3c",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "default content [section: article]": 2,
+   "cards (tiles)": 3,
+   "cards (tiles) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-international-sports-travel-credit-card-points_html--101b8088/blocks/6204a75c.jpg",
+  "description": "heading + text + 1 CTAs + 2 images"
+ },
+ {
+  "id": "v_75e70aabe28e",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 8,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "default content [section: article]": 4,
+   "cards (list) [section: article]": 2,
+   "cards (tiles) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-international-sports-travel-credit-card-points_html--101b8088/blocks/6016169a.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_69d3877a6553",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-travel-credit-card-benefits_html--0ed61ce5/blocks/6711ea06.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_1cb622237068",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-travel-credit-card-benefits_html--0ed61ce5/blocks/5c9ce326.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_3166eb231e79",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_maximize-travel-credit-card-benefits_html--0ed61ce5/blocks/28899e9f.jpg",
+  "description": "heading + text + image + list"
+ },
+ {
+  "id": "v_9cabc64259c8",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 7,
+  "instances": 7,
+  "measured": 7,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "default content [section: article]": 5,
+   "cards (tiles)": 1,
+   "cards (tiles) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_safe-ways-to-buy-international-event-tickets-online_html--bc76f06d/blocks/70257249.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_583819db1605",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_what-is-a-cash-advance_html--fc544df3/blocks/7b316fc.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_6be2b3109c27",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "default content [section: article]": 1,
+   "default content [section: band]": 1,
+   "hero (card (typeled)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_product-advice_what-is-a-credit-card_html--bf75fdfc/blocks/221d3a04.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_fe42ae1d3a2f",
+  "type": "table",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "cards (offers) [section: band]": 2,
+   "table [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_html--195db828/blocks/ec02134.jpg",
+  "description": "heading + text + 3 CTAs + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_0e1d9057da17-4",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_html--195db828/blocks/4eea7251.jpg",
+  "description": "heading + 4 CTAs"
+ },
+ {
+  "id": "v_8c3da60f62c7-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 7,
+  "instances": 7,
+  "measured": 7,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 7
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_moi-rbc-visa_html--c7733e54/blocks/64f41a9c.jpg",
+  "description": "heading + text + 2 CTAs + 3 images"
+ },
+ {
+  "id": "v_31b36224a29f",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "default content [section: dark]": 1,
+   "accordion (legal) [section: legal]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_moi-rbc-visa_html--c7733e54/blocks/108e2395.jpg",
+  "description": "heading + text + 2 images"
+ },
+ {
+  "id": "v_2a983d161de2-1",
+  "type": "form",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "default content [section: band]": 2,
+   "default content [section: dark]": 2,
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_more-rewards-rbc-visa-infinite_html--d31870d0/blocks/8f971a8.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_f2b81d564755",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "columns (intro) [section: dark]": 3,
+   "columns (intro)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_more-rewards-rbc-visa-infinite_html--d31870d0/blocks/70783469.jpg",
+  "description": "text + 7 images"
+ },
+ {
+  "id": "v_5a1baf680bb1-10",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_rbc-ion-plus-visa_html--1fac0f33/blocks/60072792.jpg",
+  "description": "heading + text + 3 CTAs + 4 images + list"
+ },
+ {
+  "id": "v_466ad746d266",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 13,
+  "instances": 13,
+  "measured": 13,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 9,
+   "card-highlights [section: plate]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_rbc-ion-plus-visa_html--1fac0f33/blocks/15c306b8.jpg",
+  "description": "text + 2 CTAs + 2 images + list"
+ },
+ {
+  "id": "v_bdfd3fa1c966",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 7,
+  "instances": 7,
+  "measured": 7,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "hero (card (typeled)": 6,
+   "columns (intro)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_rbc-ion-plus-visa_html--1fac0f33/blocks/11a72f.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_63e5a8e1e887",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 9,
+  "instances": 9,
+  "measured": 9,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "default content [section: band]": 8,
+   "cards (features)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_rbc-ion-plus-visa_html--1fac0f33/blocks/d1b720.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_2a983d161de2-2",
+  "type": "form",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "default content [section: band]": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_rewards_rbc-ion-plus-visa_html--1fac0f33/blocks/8f971a8.jpg",
+  "description": "heading + text + 1 CTAs + 3 images"
+ },
+ {
+  "id": "v_b3268057520c",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "hero (typeled)": 4
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_services_chip-and-pin-technology_html--7f53557a/blocks/38167b9e.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_9c85a3f2d235-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 2,
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_services_chip-and-pin-technology_html--7f53557a/blocks/7c84172.jpg",
+  "description": "heading + 12 CTAs",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_cc8446d2311a",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (icons)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_services_contactless-payments_html--a5d32b63/blocks/629f7052.jpg",
+  "description": "heading + text + 5 images"
+ },
+ {
+  "id": "v_58c552daf8d2-4",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "cards (offers) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_student_html--70e22479/blocks/659c45bf.jpg",
+  "description": "heading + text + 1 CTAs + 2 images"
+ },
+ {
+  "id": "v_29463d3fa20d",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 4,
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_student_html--70e22479/blocks/30c89ffa.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_56cd1b867c67-1",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.76,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_choose-a-credit-card_html--3b75bb22/blocks/42368610.jpg",
+  "description": "heading + text + 3 CTAs",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_9208fecdeb4c",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.24,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/tools/compare-credit-cards.html",
+    "coverage": 25,
+    "sample": "add new credit card compare another apply now view details benefits earn",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_compare-credit-cards_html--58160af8/blocks/38763f7a.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/outils/comparer-cartes-credit.html",
+    "coverage": 23,
+    "sample": "ajouter une autre carte credit dans comparaison faire demande view card details",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_outils_comparer-cartes-credit_html--1bb7b61f/blocks/38763f7a.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_compare-credit-cards_html--58160af8/blocks/38763f7a.jpg",
+  "description": "text + 15 CTAs + 3 images + list"
+ },
+ {
+  "id": "v_e6c100284dc1",
+  "type": "table",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.39,
+  "mappedTo": {
+   "table": 2
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/tools/compare-credit-cards.html",
+    "coverage": 45,
+    "sample": "add new credit card compare another apply now view details benefits earn",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_compare-credit-cards_html--58160af8/blocks/5e58ec4.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/outils/comparer-cartes-credit.html",
+    "coverage": 33,
+    "sample": "ajouter une autre carte credit dans comparaison faire demande view card details",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_outils_comparer-cartes-credit_html--1bb7b61f/blocks/5e58ec4.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_compare-credit-cards_html--58160af8/blocks/5e58ec4.jpg",
+  "description": "text + 15 CTAs + 3 images + list"
+ },
+ {
+  "id": "v_c7940b140842",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.71,
+  "mappedTo": {
+   "default content": 1,
+   "cards (links) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_compare-credit-cards_html--58160af8/blocks/4592d437.jpg",
+  "description": "heading + 3 images"
+ },
+ {
+  "id": "v_7cea5fdcc3a1",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.84,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_credit-card-cashback-calculator--55346283/blocks/12710426.jpg",
+  "description": "heading + text + 2 CTAs"
+ },
+ {
+  "id": "v_b8b277d1335f",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.91,
+  "mappedTo": {
+   "columns [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_credit-card-cashback-calculator--55346283/blocks/2bf23054.jpg",
+  "description": "heading + text + 2 CTAs + image + list"
+ },
+ {
+  "id": "v_6e3cb7661b0a",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.87,
+  "mappedTo": {
+   "cards (features)": 1,
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_credit-card-reward-points-calculator_index_html--120d4d84/blocks/3d4922bb.jpg",
+  "description": "heading + text + 2 CTAs + 2 images"
+ },
+ {
+  "id": "v_2271c15d629f",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.88,
+  "mappedTo": {
+   "cards (tiles)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_credit-card-reward-points-calculator_index_html--120d4d84/blocks/2497d501.jpg",
+  "description": "heading + text + 8 CTAs + 7 images + list"
+ },
+ {
+  "id": "v_0f81e423eb40",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_low-interest-credit-card-savings-calculator-offer_html--972acb22/blocks/3e30ff1.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_3d4d6c628fb0",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.87,
+  "mappedTo": {
+   "accordion [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_low-interest-credit-card-savings-calculator-offer_html--972acb22/blocks/61e35a09.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_8933f43a516d",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "accordion [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_tools_low-interest-credit-card-savings-calculator-offer_html--972acb22/blocks/1d2a6151.jpg",
+  "description": "heading + text + 1 CTAs"
+ },
+ {
+  "id": "v_058232a34b3d",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "cards (icons) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/416cbc7.jpg",
+  "description": "heading + text + 5 images"
+ },
+ {
+  "id": "v_89e305d3956a",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.89,
+  "mappedTo": {
+   "cards (offers)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/59b206fd.jpg",
+  "description": "heading + text + 18 CTAs + 10 images + list"
+ },
+ {
+  "id": "v_2a983d161de2-3",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.8,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/8f971a8.jpg",
+  "description": "heading + text + 32 CTAs + 46 images + list"
+ },
+ {
+  "id": "v_03a3a1e02148",
+  "type": "form",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.83,
+  "mappedTo": {
+   "default content": 3,
+   "accordion (details) [section: band]": 1
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html",
+    "coverage": 30,
+    "sample": "from alberta british columbia manitoba newfoundland and labrador new brunswick nova scotia",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite_html--d6a32baa/blocks/60c3dee1.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/60c3dee1.jpg",
+  "description": "content"
+ },
+ {
+  "id": "v_c85fd7f0ce9f",
+  "type": "carousel",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.54,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 3,
+   "cards (flights)": 1
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/credit-cards/travel/avion-rbc-credit-cards.html",
+    "coverage": 58,
+    "sample": "000 pts267 500 pts26 quick getawaystooltip potential destinations montreal new york not",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/55aef2f.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/avion-visa-infinite-rbc.html",
+    "coverage": 47,
+    "sample": "000 points267 500 points26 courtes escapadestooltip destinations potentielles montreal new york taxes",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_avion-visa-infinite-rbc_html--ffb486ee/blocks/55aef2f.jpg"
+   },
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/cartes-de-credit-avion-rbc.html",
+    "coverage": 47,
+    "sample": "000 points267 500 points26 courtes escapadestooltip destinations potentielles montreal new york taxes",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_cartes-de-credit-avion-rbc_html--e9738cdd/blocks/55aef2f.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/55aef2f.jpg",
+  "description": "heading + text + 1 CTAs"
+ },
+ {
+  "id": "v_a68c94ff2284",
+  "type": "table",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.93,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_avion-rbc-credit-cards_html--97d75758/blocks/540f6a51.jpg",
+  "description": "heading + text + 4 images"
+ },
+ {
+  "id": "v_58c552daf8d2-5",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "hero": 1,
+   "accordion (legal) [section: legal]": 1,
+   "cards (offers) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_html--0852ae7e/blocks/659c45bf.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_928c91d447be",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.99,
+  "mappedTo": {
+   "cards (why)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_html--0852ae7e/blocks/40dca205.jpg",
+  "description": "heading + text + 4 images"
+ },
+ {
+  "id": "v_2473d01b4bf7",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/3cc7c323.jpg",
+  "description": "heading + 2 images"
+ },
+ {
+  "id": "v_63e5a8e1e887-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 4,
+  "instances": 4,
+  "measured": 4,
+  "imageOnly": 0,
+  "coverage": 0.98,
+  "mappedTo": {
+   "default content": 1,
+   "cards (list) [section: band]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/d1b720.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_2a983d161de2-4",
+  "type": "form",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 0.76,
+  "mappedTo": {
+   "default content [section: band]": 1,
+   "earn-calculator [section: band]": 1,
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/8f971a8.jpg",
+  "description": "heading + text + 8 CTAs + 13 images + list"
+ },
+ {
+  "id": "v_23ebb085479b",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 8,
+  "instances": 8,
+  "measured": 8,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "cards (icons)": 5,
+   "cards (icons) [section: band]": 3
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/7e5ae9d0.jpg",
+  "description": "heading + text + 5 images"
+ },
+ {
+  "id": "v_3b9dcf103ab2",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 1,
+   "accordion (legal) [section: legal]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/7a53a823.jpg",
+  "description": "heading + text + 8 images"
+ },
+ {
+  "id": "v_316e1b6b2470",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/58d8cf6d.jpg",
+  "description": "heading + text + 3 CTAs + list"
+ },
+ {
+  "id": "v_8fa95da9fe6b",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite-privilege_html--0f9d0f66/blocks/4e4439d.jpg",
+  "description": "heading + 1 CTAs"
+ },
+ {
+  "id": "v_3b9dcf103ab2-1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.87,
+  "mappedTo": {
+   "default content": 1,
+   "accordion (legal) [section: legal]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-avion-visa-infinite_html--d6a32baa/blocks/7a53a823.jpg",
+  "description": "heading + text + 12 images"
+ },
+ {
+  "id": "v_8c3da60f62c7-2",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-british-airways-visa-infinite_html--b2f2ad88/blocks/64f41a9c.jpg",
+  "description": "heading + text + 2 CTAs + 2 images"
+ },
+ {
+  "id": "v_bdfd3fa1c966-1",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.95,
+  "mappedTo": {
+   "hero (card (typeled)": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_rbc-visa-platinum-avion_html--a8106ba2/blocks/11a72f.jpg",
+  "description": "heading + text + image"
+ },
+ {
+  "id": "v_707dc13cc204",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.78,
+  "mappedTo": {
+   "cards (offers) [section: band]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_westjet-rbc-credit-cards_html--7dad0d91/blocks/1be3eb09.jpg",
+  "description": "heading + text + 12 CTAs + 3 images + list"
+ },
+ {
+  "id": "v_8a7c29724a7e",
+  "type": "table",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.91,
+  "mappedTo": {
+   "table": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_westjet-rbc-credit-cards_html--7dad0d91/blocks/3da51edc.jpg",
+  "description": "heading + text + 2 CTAs + list"
+ },
+ {
+  "id": "v_2a983d161de2-5",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.83,
+  "mappedTo": {
+   "default content": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_westjet-rbc-mastercard_html--78c7e424/blocks/8f971a8.jpg",
+  "description": "heading + text + 4 CTAs + image + list"
+ },
+ {
+  "id": "v_bdfd3fa1c966-2",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion (legal) [section: legal]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_westjet-rbc-world-elite-mastercard_html--09d07be8/blocks/11a72f.jpg",
+  "description": "heading + image + list"
+ },
+ {
+  "id": "v_2a983d161de2-6",
+  "type": "form",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.82,
+  "mappedTo": {
+   "default content [section: band]": 1,
+   "accordion (legal) [section: legal]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_westjet-rbc-world-elite-mastercard_html--09d07be8/blocks/8f971a8.jpg",
+  "description": "heading + text + 8 CTAs + 11 images + list"
+ },
+ {
+  "id": "v_6cd483dc5eac",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_credit-cards_travel_westjet-rbc-world-elite-mastercard_html--09d07be8/blocks/117413.jpg",
+  "description": "heading + text + 9 CTAs"
+ },
+ {
+  "id": "v_d75c2a8934f4-1",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 6,
+  "instances": 6,
+  "measured": 6,
+  "imageOnly": 0,
+  "coverage": 0.88,
+  "mappedTo": {
+   "default content [section: article]": 6
+  },
+  "misses": [
+   {
+    "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/optimisez-les-points-de-carte-de-credit-voyages-sportifs-internationaux.html",
+    "coverage": 25,
+    "sample": "click share opens new window tweet facebook poste linkedin partager courriel copier",
+    "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_conseils-sur-les-produits_optimisez-les-points-de-carte-de-credit-voyages-sportifs-internationaux_html--5b85cc51/blocks/26ae0192.jpg"
+   }
+  ],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_conseils-sur-les-produits_comment-une-carte-de-credit-protege-les-fans-contre-une-escroquerie-aux-billets_html--6939edf7/blocks/26ae0192.jpg",
+  "description": "1 CTAs + 5 images"
+ },
+ {
+  "id": "v_89af438a150d",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_conseils-sur-les-produits_comment-une-carte-de-credit-protege-les-fans-contre-une-escroquerie-aux-billets_html--6939edf7/blocks/24a30ddd.jpg",
+  "description": "heading + text + list"
+ },
+ {
+  "id": "v_2650de366093",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: article]": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_conseils-sur-les-produits_demande-reglement-assurance-voyage-carte-de-credit_html--90a40e31/blocks/24a30dfc.jpg",
+  "description": "heading + text"
+ },
+ {
+  "id": "v_f17db0848935",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_conseils-sur-les-produits_est-ce-quune-carte-de-credit-a-taux-reduit-correspond-a-vos-besoins_index_html--492bc125/blocks/14200c46.jpg",
+  "description": "text + 2 CTAs",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_0e1d9057da17-5",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_etudiant_html--0954b1ac/blocks/4eea7251.jpg",
+  "description": "heading + 6 CTAs"
+ },
+ {
+  "id": "v_5e2c28ff38ed",
+  "type": "columns",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "default content [section: band]": 1,
+   "cards (icons)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_outils_calculatrice-deconomies-sur-carte-de-credit-a-interet-reduit-offre_html--2779499b/blocks/5dde52da.jpg",
+  "description": "heading + text + 1 CTAs + image"
+ },
+ {
+  "id": "v_b6c4d25136f9-1",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.9,
+  "mappedTo": {
+   "table": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_remise-en-argent_html--d7c30ec0/blocks/1ee1d126.jpg",
+  "description": "heading + text + 6 CTAs + image"
+ },
+ {
+  "id": "v_466ad746d266-1",
+  "type": "cards",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.92,
+  "mappedTo": {
+   "card-highlights [section: plate]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_remise-en-argent_remise-en-argent-preference-world-elite-mastercard_html--04f3fa47/blocks/15c306b8.jpg",
+  "description": "text + 2 CTAs + image + list"
+ },
+ {
+  "id": "v_a0d14ad23f5d-7",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 2,
+  "instances": 2,
+  "measured": 2,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion": 2
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_faq_caracteristiques-et-garanties_html--bac1681e/blocks/4b2325cf.jpg",
+  "description": "heading + 6 CTAs + list"
+ },
+ {
+  "id": "v_56cd1b867c67-2",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.86,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_faq_limite-de-credit-et-frais_html--fd4b7e94/blocks/42368610.jpg",
+  "description": "heading + 8 CTAs + 3 images + list",
+  "measuredFrom": "live page (selector did not resolve in captured DOM)"
+ },
+ {
+  "id": "v_a0d14ad23f5d-8",
+  "type": "tabs",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.96,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_faq_paiements_html--ddc23c50/blocks/4b2325cf.jpg",
+  "description": "heading + text + 9 CTAs + list"
+ },
+ {
+  "id": "v_4ad0c4e5ded0",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "default content [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_lire-votre-releve-de-carte-de-credit_html--b965dc2c/blocks/3314064e.jpg",
+  "description": "heading + 12 CTAs + list"
+ },
+ {
+  "id": "v_3ca1da01b59e",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_mises-a-jour-du-programme-de-recompenses-westjet_html--33d48fd9/blocks/4688d92b.jpg",
+  "description": "text + 18 CTAs"
+ },
+ {
+  "id": "v_909aa430401a",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "accordion": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_titulaires_releve-electronique-faq_html--87099c60/blocks/348f49cc.jpg",
+  "description": "heading + text + 18 CTAs + list"
+ },
+ {
+  "id": "v_5a1baf680bb1-11",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 1,
+  "mappedTo": {
+   "hero (breadcrumb + H1)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_toutes-cartes_html--baf5203f/blocks/60072792.jpg",
+  "description": "heading + 1 CTAs + 5 images + list"
+ },
+ {
+  "id": "v_2a983d161de2-7",
+  "type": "form",
+  "model": "standalone",
+  "pages": 3,
+  "instances": 3,
+  "measured": 3,
+  "imageOnly": 0,
+  "coverage": 0.76,
+  "mappedTo": {
+   "default content [section: band]": 1,
+   "accordion (legal) [section: legal]": 1,
+   "default content": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_avion-visa-infinite-privilege-rbc_html--877d1285/blocks/8f971a8.jpg",
+  "description": "heading + text + 7 CTAs + 11 images + list"
+ },
+ {
+  "id": "v_7d58cc18fd3c-1",
+  "type": "accordion",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.97,
+  "mappedTo": {
+   "cards (features) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_rbc-recompenses-privilege_html--553b588b/blocks/6204a75c.jpg",
+  "description": "heading + text + 1 CTAs + 2 images"
+ },
+ {
+  "id": "v_c7940b140842-1",
+  "type": "unknown",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.94,
+  "mappedTo": {
+   "cards (links)": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_cartes_voyages_rbc-recompenses-privilege_html--553b588b/blocks/4592d437.jpg",
+  "description": "heading + 4 images"
+ },
+ {
+  "id": "v_3281a8ce9b13-1",
+  "type": "hero",
+  "model": "standalone",
+  "pages": 1,
+  "instances": 1,
+  "measured": 1,
+  "imageOnly": 0,
+  "coverage": 0.78,
+  "mappedTo": {
+   "cards (promo) [section: band]": 1
+  },
+  "misses": [],
+  "screenshot": "catalog/.pages/www_rbcroyalbank_com_fr_personal_html--78c0c967/blocks/ec99add.jpg",
+  "description": "heading + text + 25 CTAs + 12 images"
+ }
+]

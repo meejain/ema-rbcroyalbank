@@ -1,0 +1,2397 @@
+{
+ "cohort": "business-commercial",
+ "host": "www.rbcroyalbank.com",
+ "prefixes": [
+  "/business/",
+  "/commercial/"
+ ],
+ "sheetCount": 252,
+ "crawledAt": "2026-10-07T18:25:59.200Z",
+ "pages": [
+  {
+   "url": "https://www.rbcroyalbank.com/commercial/index.html",
+   "status": 200,
+   "title": "Commercial Banking - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/index.html",
+   "status": 200,
+   "title": "Business Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/application/intro-fr.html",
+   "status": 200,
+   "title": "Forfait bancaire Choix numérique pour entreprise RBC - RBC Banque Royale",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/application/intro-fr.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/North-American-MarketSmart-GIC.html",
+   "status": 200,
+   "title": "RBC North American Market<em>Smart</em> GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/North-American-MarketSmart-GIC.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/agriinvest.html",
+   "status": 200,
+   "title": "AgriInvest Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/agriinvest.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/ESG-Market-linked.html",
+   "status": 200,
+   "title": "RBC ESG Market-Linked GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/ESG-Market-linked.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/business-trust-account.html",
+   "status": 200,
+   "title": "Business Trust Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/business-trust-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/business-essentials-savings-account.html",
+   "status": 200,
+   "title": "RBC Business Essentials Savings Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/business-essentials-savings-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/canadian-banking-marketsmart-gic.html",
+   "status": 200,
+   "title": "RBC Canadian Banking MarketSmart GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/canadian-banking-marketsmart-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/canadian-market-linked-gics.html",
+   "status": 200,
+   "title": "Canadian Market-Linked GICs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/canadian-market-linked-gics.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/application/intro.html",
+   "status": 200,
+   "title": "Open a Business Account Online - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/application/intro.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/canadian-utilities-marketsmart-gic.html",
+   "status": 200,
+   "title": "RBC Canadian Utilities MarketSmart GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/canadian-utilities-marketsmart-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/guaranteed-return-gics.html",
+   "status": 200,
+   "title": "Guaranteed Return GICs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/guaranteed-return-gics.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/flex-choice-business-account.html",
+   "status": 200,
+   "title": "RBC Flex Choice Business Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/flex-choice-business-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/gics.html",
+   "status": 200,
+   "title": "Guaranteed Investment Certificates for Business",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/gics.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/community-account.html",
+   "status": 200,
+   "title": "Royal Business Community Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/community-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/digital-choice-business-account.html",
+   "status": 200,
+   "title": "RBC Digital Choice Business Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/digital-choice-business-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/income-builder-gic.html",
+   "status": 200,
+   "title": "Income Builder GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/income-builder-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/index.html",
+   "status": 200,
+   "title": "Small Business and Corporate Bank Accounts - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/interest-linked-gics.html",
+   "status": 200,
+   "title": "Interest-Linked GICs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/interest-linked-gics.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/one-year-cashable-gic.html",
+   "status": 200,
+   "title": "One-Year Cashable GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/one-year-cashable-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/international-business-banking.html",
+   "status": 200,
+   "title": "International Business Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/international-business-banking.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/marketsmart-gics.html",
+   "status": 200,
+   "title": "RBC Equity-Linked GICs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/marketsmart-gics.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/non-redeemable-gic.html",
+   "status": 200,
+   "title": "Non-Redeemable and Redeemable GICs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/non-redeemable-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/savings-accounts.html",
+   "status": 200,
+   "title": "Business Savings Accounts – RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/savings-accounts.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/prime-linked-cashable-gic.html",
+   "status": 200,
+   "title": "Prime-Linked Cashable GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/prime-linked-cashable-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/premium-investment-account.html",
+   "status": 200,
+   "title": "Royal Business Premium Investment Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/premium-investment-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/rateadvantage-gic.html",
+   "status": 200,
+   "title": "RateAdvantage GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/rateadvantage-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/usd-business-account.html",
+   "status": 200,
+   "title": "U.S. Dollar Business Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/usd-business-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/usd-term-deposits.html",
+   "status": 200,
+   "title": "U.S. Dollar Term Deposits - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/usd-term-deposits.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/ultimate-business-account.html",
+   "status": 200,
+   "title": "RBC Ultimate Business Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/ultimate-business-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/us-marketsmart-gic.html",
+   "status": 200,
+   "title": "RBC U.S. MarketSmart GIC - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/us-marketsmart-gic.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/dealership-services.html",
+   "status": 200,
+   "title": "Dealership Services - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/dealership-services.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/corporate-client-group.html",
+   "status": 200,
+   "title": "Corporate Client Group - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/corporate-client-group.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/ag-succession-quiz.html",
+   "status": 200,
+   "title": "RBC Farm Succession Planning Guide\nReadiness Quiz",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/ag-succession-quiz.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/business-plan-builder/index.html",
+   "status": 200,
+   "title": "Business Plan Builder - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/business-plan-builder/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/blackentrepreneur.html",
+   "status": 200,
+   "title": "RBC Black Entrepreneur Program - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/blackentrepreneur.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/farm-expansion.html",
+   "status": 200,
+   "title": "Farm Expansion - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise.html",
+   "status": 200,
+   "title": "Industry Expertise - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/industry-expertise.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/growing-your-business.html",
+   "status": 200,
+   "title": "Growing Your Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/growing-your-business.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/farm-risk-management.html",
+   "status": 200,
+   "title": "Farm Risk Management - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/agriculture-videos.html",
+   "status": 200,
+   "title": "Women in Agriculture Video Series - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/agriculture-videos.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/index.html",
+   "status": 200,
+   "title": "Business Advice - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/divestitures.html",
+   "status": 200,
+   "title": "Divestitures - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/divestitures.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/index.html",
+   "status": 200,
+   "title": "The Agricultural Advantage - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/index.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/buyouts.html",
+   "status": 200,
+   "title": "Buyouts - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/buyouts.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/acquisitions.html",
+   "status": 200,
+   "title": "Acquisitions - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/acquisitions.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/index.html",
+   "status": 200,
+   "title": "RBC Mid-Market Mergers and Acquisitions - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/mergers-and-acquisitions/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/deferred-profit-sharing-plan.html",
+   "status": 200,
+   "title": "Deferred Profit Sharing Plan (DPSP) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/deferred-profit-sharing-plan.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-banking.html",
+   "status": 200,
+   "title": "Group Banking - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/defined-contribution-pension-plan.html",
+   "status": 200,
+   "title": "Defined Contribution Pension Plan - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/defined-contribution-pension-plan.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-mortgage-subsidy.html",
+   "status": 200,
+   "title": "Group Mortgage Subsidy - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-investment-account.html",
+   "status": 200,
+   "title": "Group Investment Account (GIA) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-investment-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/index.html",
+   "status": 200,
+   "title": "Registered Pension Plan and Group Retirement Savings for employers - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-tax-free-savings-plan.html",
+   "status": 200,
+   "title": "Group Tax-Free Savings Account Plan (GTFSA) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-tax-free-savings-plan.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/rbc-group-advantage.html",
+   "status": 200,
+   "title": "RBC Group Advantage - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/rbc-group-advantage.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-retirement-savings-plan.html",
+   "status": 200,
+   "title": "Group Registered Retirement Savings Plan (GRRSP) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-retirement-savings-plan.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/rbc-mortgage-relocation-program.html",
+   "status": 200,
+   "title": "RBC Mortgage Relocation Program - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/registered-pension-plan-and-group-retirement-savings.html",
+   "status": 200,
+   "title": "Registered Pension Plan and Group Retirement Savings for individuals - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/registered-pension-plan-and-group-retirement-savings.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/business-registration-and-incorporation.html",
+   "status": 200,
+   "title": "Business Registration and Incorporation",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/business-registration-and-incorporation.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/starting-a-business.html",
+   "status": 200,
+   "title": "Starting a Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/starting-a-business.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/go-digital/index.html",
+   "status": 200,
+   "title": "Digital Transformation - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/go-digital/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/index.html",
+   "status": 200,
+   "title": "RBC Beyond Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/voluntary-retirement-savings-plan.html",
+   "status": 200,
+   "title": "Voluntary Retirement Savings Plan (VRSP) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/voluntary-retirement-savings-plan.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/go-digital/assessment/index.html",
+   "status": 200,
+   "title": "Digital Readiness Tool - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/go-digital/assessment/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/document_forms_guides.html",
+   "status": 200,
+   "title": "Documents, Forms & Guides for Business Clients - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/document_forms_guides.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/insight-edge-for-small-business/index.html",
+   "status": 200,
+   "title": "Consumer Data Insights - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/insight-edge-for-small-business/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/managed-corporation.html",
+   "status": 200,
+   "title": "Managed Corporation Platform by Ownr - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/managed-corporation.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/find-trade-partners-markets.html",
+   "status": 200,
+   "title": "Find Trade Partners and Markets - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/find-trade-partners-markets.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/export-guarantee.html",
+   "status": 200,
+   "title": "Export Guarantee Program - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/export-guarantee.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/bank-guarantees.html",
+   "status": 200,
+   "title": "Bank Guarantees - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/bank-guarantees.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/articles-videos.html",
+   "status": 200,
+   "title": "International Trade Articles & Videos - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/articles-videos.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/exporting-services.html",
+   "status": 200,
+   "title": "Exporting Services - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/exporting-services.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/foreign-exchange-guarantee.html",
+   "status": 200,
+   "title": "Foreign Exchange Guarantee - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/foreign-exchange-guarantee.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/index.html",
+   "status": 200,
+   "title": "International Trade - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/importing-services.html",
+   "status": 200,
+   "title": "Importing Services - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/importing-services.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/global-trade-online-service.html",
+   "status": 200,
+   "title": "RBC Global Trade Online Service - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/global-trade-online-service.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/getting-ready-for-trade.html",
+   "status": 200,
+   "title": "Get Ready for International Trade - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/getting-ready-for-trade.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/global-connect.html",
+   "status": 200,
+   "title": "RBC Global Connect - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/global-connect.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/international-trade-solutions.html",
+   "status": 200,
+   "title": "International Trade Solutions - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/international-trade-solutions.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/performance-security-guarantee.html",
+   "status": 200,
+   "title": "Performance Security Guarantee - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/performance-security-guarantee.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-loan-calculator.html",
+   "status": 200,
+   "title": "Business Loan Calculator - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-loan-calculator.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/trade-accelerator-program.html",
+   "status": 200,
+   "title": "Trade Accelerator Program - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/trade-accelerator-program.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/trade-expansion-lending-program.html",
+   "status": 200,
+   "title": "Trade Expansion Lending Program - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/international-trade/trade-expansion-lending-program.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-credit-protection-selector.html",
+   "status": 200,
+   "title": "Business Credit Protection Selector - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-credit-protection-selector.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/canada-small-business-financing.html",
+   "status": 200,
+   "title": "Canada Small Business Financing Loan (CSBFL) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/canada-small-business-financing.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-loan-insurance.html",
+   "status": 200,
+   "title": "Business Loan Insurance Plan - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-loan-insurance.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-overdraft-protection.html",
+   "status": 200,
+   "title": "Royal Business Overdraft Protection - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-overdraft-protection.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-loan-insurance-claims.html",
+   "status": 200,
+   "title": "Making a Business Loan Insurance Plan Claim - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-loan-insurance-calculator.html",
+   "status": 200,
+   "title": "Business Loan Insurance Calculator - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-loan-insurance-calculator.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/equipment-leasing.html",
+   "status": 200,
+   "title": "Equipment Leasing for Your Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/equipment-leasing.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/canadian-agricultural-loans.html",
+   "status": 200,
+   "title": "Canadian Agricultural Loans Act (CALA) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/canadian-agricultural-loans.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/equipment-purchaseline.html",
+   "status": 200,
+   "title": "RBC Equipment PurchaseLine™ - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/equipment-purchaseline.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/commercial-mortgage.html",
+   "status": 200,
+   "title": "Commercial Mortgage - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/commercial-mortgage.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/financiere-agricole-du-quebec.html",
+   "status": 200,
+   "title": "La Financière Agricole du Québec (FADQ) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/financiere-agricole-du-quebec.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/farm-management-line-of-credit.html",
+   "status": 200,
+   "title": "Farm Management Line of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/farm-management-line-of-credit.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/index.html",
+   "status": 200,
+   "title": "Business Loans and Lines of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/term-loans.html",
+   "status": 200,
+   "title": "Business Term Loans - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/term-loans.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/operating-line-of-credit.html",
+   "status": 200,
+   "title": "Royal Business OperatingLine of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/operating-line-of-credit.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/royfarm-agriculture-mortgage.html",
+   "status": 200,
+   "title": "RoyFarm Agriculture Mortgage - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/royfarm-agriculture-mortgage.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/business-cash-flow-tool.html",
+   "status": 200,
+   "title": "Project your business cash flow with our cash flow calculator - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/business-cash-flow-tool.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/_assets-custom/includes/popup-video.html",
+   "status": 200,
+   "title": "Trade Solutions - RBC",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/onboarding/international-trade-finance/global-trade.html",
+   "status": 200,
+   "title": "Learn to use RBC Global Trade with these Training Videos, User Guides and FAQs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/foreign-exchange-services.html",
+   "status": 200,
+   "title": "Foreign Exchange for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/foreign-exchange-services.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/foreign-exchange-guarantee.html",
+   "status": 200,
+   "title": "Foreign Exchange Guarantee - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/faqs.html",
+   "status": 200,
+   "title": "FAQs for RBC PayEdge - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/faqs.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/monitor-accounts.html",
+   "status": 200,
+   "title": "Monitoring Business Accounts - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/monitor-accounts.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/index.html",
+   "status": 200,
+   "title": "Payment and Cash Management Solutions - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/interac-etransfer-for-business.html",
+   "status": 200,
+   "title": "Interac e-Transfer® for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/interac-etransfer-for-business.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/index.html",
+   "status": 200,
+   "title": "RBC PayEdge for Accounts Payable Automation - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/privacy-policy.html",
+   "status": 200,
+   "title": "Privacy Policy - RBC PayEdge - RBC",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/privacy-policy.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/help-and-support.html",
+   "status": 200,
+   "title": "Help and Support - RBC PayEdge - RBC",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/help-and-support.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/prohibited-businesses.html",
+   "status": 200,
+   "title": "Prohibited Businesses - RBC PayEdge - RBC",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/prohibited-businesses.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/security.html",
+   "status": 200,
+   "title": "Security - RBC PayEdge - RBC",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/security.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/terms-and-conditions.html",
+   "status": 200,
+   "title": "Terms of Service - RBC PayEdge - RBC",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/terms-and-conditions.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/online-business-banking.html",
+   "status": 200,
+   "title": "Online and Mobile Business Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/online-business-banking.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/index.html",
+   "status": 200,
+   "title": "Ways to Bank for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/commercial/industry-expertise.html",
+   "status": 200,
+   "title": "Industry Expertise - Commercial Banking - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/commercial/solutions.html",
+   "status": 200,
+   "title": "Commercial Banking Solutions - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/customer-service/index.html",
+   "status": 200,
+   "title": "Customer Service",
+   "canonical": "https://www.rbcroyalbank.com/business/customer-service/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre.html",
+   "status": 200,
+   "title": "Commercial Cards Service Centre - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/commercial/insights-client-stories.html",
+   "status": 200,
+   "title": "Commercial Insights and Client Stories - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/commercial/industry-expertise/agriculture.html",
+   "status": 200,
+   "title": "Agriculture - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/commercial-sustainable-finance-solutions.html",
+   "status": 200,
+   "title": "Commercial Sustainable Finance - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/commercial-sustainable-finance-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/commercial/industry-expertise/defence-and-security.html",
+   "status": 200,
+   "title": "Defence and Security - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial.html",
+   "status": 200,
+   "title": "Commercial Credit Cards - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/commercial.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/corporate-client-group/asset-based-lending.html",
+   "status": 200,
+   "title": "Asset Based Lending - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/corporate-client-group/asset-based-lending.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-express-online-banking.html",
+   "status": 200,
+   "title": "RBC Express Online Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-express-online-banking.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/business-owner-planning.html",
+   "status": 200,
+   "title": "Business Owner Planning - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/business-owner-planning.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/business-chequing-accounts.html",
+   "status": 200,
+   "title": "Business Chequing Accounts - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/business-chequing-accounts.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/customer-service/pledge.html",
+   "status": 200,
+   "title": "Pledge to Small and Medium Sized Businesses - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/customer-service/pledge.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/business-account-faqs.html",
+   "status": 200,
+   "title": "Business Accounts FAQs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/business-account-faqs.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/find-business-account.html",
+   "status": 200,
+   "title": "Find the Best Account for Your Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/find-business-account.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/estimate-business-account-fees.html",
+   "status": 200,
+   "title": "Estimate RBC Business Account Fees - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/estimate-business-account-fees.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/advice/index.html",
+   "status": 200,
+   "title": "Business Accounts Tips & Advice - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/advice/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/business-tool-and-calculators.html",
+   "status": 200,
+   "title": "Business Tool and Calculators – RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/business-tool-and-calculators.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/index.html",
+   "status": 200,
+   "title": "Apply for a Business Credit Card – Royal Bank Canada",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/manage-your-credit-card.html",
+   "status": 200,
+   "title": "Manage Your Business Credit Card - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
+   "status": 200,
+   "title": "RBC Avion Visa Infinite Business Card | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/avion-visa-infinite-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+   "status": 200,
+   "title": "Apply for WestJet RBC World Elite Mastercard for Business - Royal Bank Canada",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/westjet-rbc-world-elite-mastercard-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/visa-business.html",
+   "status": 200,
+   "title": "Apply for a Visa Business Card - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/visa-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/manage-my-avion-visa-infinite-business.html",
+   "status": 200,
+   "title": "My RBC Avion Visa Infinite Business - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-visa.html",
+   "status": 200,
+   "title": "Commercial Visa Card - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-visa.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-avion-visa.html",
+   "status": 200,
+   "title": "Commercial Avion Visa Card - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-avion-visa.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/advice/expense-management.html",
+   "status": 200,
+   "title": "Expense Management for Small Business – Royal Bank Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/visa-creditline.html",
+   "status": 200,
+   "title": "Visa CreditLine for Small Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/visa-creditline.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/advice/why-get-a-business-credit-card.html",
+   "status": 200,
+   "title": "Why Get a Business Credit Card – Royal Bank Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/business-cash-back-mastercard.html",
+   "status": 200,
+   "title": "Apply for a Business Cash Back Mastercard - Royal Bank Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-cash-back-visa.html",
+   "status": 200,
+   "title": "Commercial Cash Back Visa Card - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-cash-back-visa.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/virtual-credit-cards.html",
+   "status": 200,
+   "title": "Virtual Credit Cards - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/virtual-credit-cards.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-us-dollar-visa.html",
+   "status": 200,
+   "title": "Commercial U.S. Dollar Visa Card - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/commercial-us-dollar-visa.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/rewards-calculator.html",
+   "status": 200,
+   "title": "RBC Business and Commercial Credit Card Rewards Calculator - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/compare-credit-cards.html",
+   "status": 200,
+   "title": "Compare Credit Cards - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/business-choose-a-credit-card.html",
+   "status": 200,
+   "title": "Business Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/business-choose-a-credit-card.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-accelerator-loan-program.html",
+   "status": 200,
+   "title": "Business Loan Accelerator Program - RBC Royal Bank",
+   "canonical": " https://www.rbcroyalbank.com/business/loans/business-accelerator-loan-program.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-loans-equipment-financing.html",
+   "status": 200,
+   "title": "Business Loans and Equipment Financing - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-loans-equipment-financing.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/agriculture-loans-credit-lines.html",
+   "status": 200,
+   "title": "Agriculture Loans and Lines of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/agriculture-loans-credit-lines.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/business-lines-of-credit.html",
+   "status": 200,
+   "title": "Business Lines of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/business-lines-of-credit.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/canada-small-business-financing-line-of-credit.html",
+   "status": 200,
+   "title": "Canada Small Business Financing (CSBF) Line of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/canada-small-business-financing-line-of-credit.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/make-payments.html",
+   "status": 200,
+   "title": "Make Business Payments - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/make-payments.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/receive-payments.html",
+   "status": 200,
+   "title": "Receive Payments from Customers and Others - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/receive-payments.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/branch-atm-phone-banking.html",
+   "status": 200,
+   "title": "Branch, ATM and Telephone Banking for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/branch-atm-phone-banking.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/cheque-pro.html",
+   "status": 200,
+   "title": "Cheque-Pro for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/cheque-pro.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/mobile-cheque-deposit.html",
+   "status": 200,
+   "title": "Mobile Cheque Deposit for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/mobile-cheque-deposit.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/virtual-account-management.html",
+   "status": 200,
+   "title": "Virtual Account Management - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/virtual-account-management.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-online-banking-for-business.html",
+   "status": 200,
+   "title": "RBC Online Banking for Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-online-banking-for-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/celebrating-small-business/index.html",
+   "status": 200,
+   "title": "Small Business Month – RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/celebrating-small-business/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/how-to-calculate-revenue.html",
+   "status": 200,
+   "title": "Revenue Calculator - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/how-to-calculate-revenue.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/bipoc-emerging-producer-lending-program.html",
+   "status": 200,
+   "title": "BIPOC Emerging Producer Lending Program - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/bipoc-emerging-producer-lending-program.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/women-in-business/",
+   "status": 200,
+   "title": "Empowering Canadian Women in Business – RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/women-in-business/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/index.html",
+   "status": 200,
+   "title": "My Payments Playbook - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+   "status": 200,
+   "title": "RBC Avion Visa Business Card | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/profit-margin-calculator.html",
+   "status": 200,
+   "title": "Profit Margin Calculator - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/profit-margin-calculator.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/create-a-business-plan.html",
+   "status": 200,
+   "title": "Create a Business Plan - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/create-a-business-plan.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/payroll-hr-solutions.html",
+   "status": 200,
+   "title": "Payroll and HR Solutions - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/payroll-hr-solutions.html",
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/choose-a-business-structure.html",
+   "status": 200,
+   "title": "Choose the Right Type of Business Structure  - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/choose-a-business-structure.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/explore-business-financing.html",
+   "status": 200,
+   "title": "Explore Business Financing - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/explore-business-financing.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/freelance-jobs-and-new-clients.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/accounting-software.html",
+   "status": 200,
+   "title": "Accounting Software - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/accounting-software.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/campaign/mobile-app/feature-enhancement/index.html",
+   "status": 200,
+   "title": "Your business financial picture at-a-glance -RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/campaign/mobile-app/feature-enhancement/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/payment-processors-pos-systems.html",
+   "status": 200,
+   "title": "Payment Processors & POS Systems - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/payment-processors-pos-systems.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/mentorship-and-financing.html",
+   "status": 200,
+   "title": "Financing and Mentorship for Entrepreneurs - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/mentorship-and-financing.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/foreign-currency.html",
+   "status": 200,
+   "title": "Foreign Currency Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/foreign-currency.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/customer-service/changes-rbc-corporate-creditor-service.html",
+   "status": 200,
+   "title": "Changes to RBC Corporate Creditor Service - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/customer-service/changes-rbc-corporate-creditor-service.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/open-a-business-account.html",
+   "status": 200,
+   "title": "Open a Business Bank Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/open-a-business-account.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/equipment-purchaseline-ag.html",
+   "status": 200,
+   "title": "Equipment Purchase - Line - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/equipment-purchaseline-ag.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/",
+   "status": 200,
+   "title": "Business Banking - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/",
+   "status": 200,
+   "title": "Business Advice - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans//equipment-purchaseline.html",
+   "status": 200,
+   "title": "RBC Equipment PurchaseLine™ - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/equipment-purchaseline.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/franchise/franchise-assessment-tool/index.html",
+   "status": 200,
+   "title": "Franchise Assessment Tool - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/franchise/franchise-assessment-tool/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/customer-service/libor-transition-disclosure.html",
+   "status": 200,
+   "title": "LIBOR Transition Disclosure - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/",
+   "status": 200,
+   "title": "The Agricultural Advantage - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/national-client-group.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/women-in-business/index.html",
+   "status": 200,
+   "title": "Empowering Canadian Women in Business – RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/women-in-business/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/government-grants.html",
+   "status": 200,
+   "title": "Government Grants - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/government-grants.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/protect-your-business.html",
+   "status": 200,
+   "title": "Protect Your Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/protect-your-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/web-and-marketing-services.html",
+   "status": 200,
+   "title": "Web and Marketing Services - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/web-and-marketing-services.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/register-or-incorporate-your-business.html",
+   "status": 200,
+   "title": "Register or Incorporate Your Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/register-or-incorporate-your-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/hire-a-student.html",
+   "status": 200,
+   "title": "Hire a Student - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/hire-a-student.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/campaign/commercial/insightedge/index.html",
+   "status": 200,
+   "title": "Insight Edge - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/campaign/commercial/insightedge/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/medical-billing-software.html",
+   "status": 200,
+   "title": "Dr.Bill Medical Billing Software - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/medical-billing-software.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/legal-technology-software.html",
+   "status": 200,
+   "title": "Get Legal Technology Software - Clio",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/legal-technology-software.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/post-jobs-find-employees.html",
+   "status": 200,
+   "title": "Post Jobs & Find Employees - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/post-jobs-find-employees.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/mobility-and-internet.html",
+   "status": 200,
+   "title": "Mobility & Internet - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/protect-against-cyber-threats.html",
+   "status": 200,
+   "title": "Protect Against Cyber Threats - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/protect-against-cyber-threats.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/pay-invoices-bills.html",
+   "status": 200,
+   "title": "Pay Invoices and Bills from Vendors - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/pay-invoices-bills.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/pay-employees.html",
+   "status": 200,
+   "title": "Pay Employees - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/pay-employees.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/ap-automation-plans-pricing.html",
+   "status": 200,
+   "title": "AP Automation Plans and Pricing - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/ap-automation-plans-pricing.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/strategic-projects-assessment.html",
+   "status": 200,
+   "title": "Strategic Project Assessment - helloDARWIN",
+   "canonical": "https://www.rbcroyalbank.com/business/beyond-banking/strategic-projects-assessment.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/benefits-of-ap-automation.html",
+   "status": 200,
+   "title": "Benefits of AP Automation with RBC PayEdge - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/benefits-of-ap-automation.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/pay-business-payroll-taxes.html",
+   "status": 200,
+   "title": "Pay Business and Payroll Taxes Online - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/pay-business-payroll-taxes.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre-admin.html",
+   "status": 200,
+   "title": "Commercial Cards Service Centre for Program Administrators - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/fscontact/commercialcard.html",
+   "status": 200,
+   "title": "Have a specialist contact you - RBC",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/help-centre.html",
+   "status": 200,
+   "title": "RBC PayEdge Help Centre - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/help-centre.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/customer-service/swift-address-changes.html",
+   "status": 200,
+   "title": "Swift Address & MT101 Changes - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/customer-service/swift-address-changes.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre-cardholder.html",
+   "status": 200,
+   "title": "Commercial Cards Service Centre for Cardholders - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/faqs.html",
+   "status": 200,
+   "title": "Business Credit Card FAQs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/women-in-business/mentorship-and-community.html",
+   "status": 200,
+   "title": "Mentorship and Community for Women in Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/women-in-business/mentorship-and-community.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/decide-on-a-pricing-strategy.html",
+   "status": 200,
+   "title": "Decide on a Business Pricing Strategy - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/decide-on-a-pricing-strategy.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/advice/what-is-ap-automation.html",
+   "status": 200,
+   "title": "What Is AP Automation? - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/advice/what-is-ap-automation.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/women-in-business/starting-women-owned-business.html",
+   "status": 200,
+   "title": "Starting and Funding a Women-Owned Business - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/women-in-business/starting-women-owned-business.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/support-team-during-digital-transformation.html",
+   "status": 200,
+   "title": "Support Your Team During Digital Transformation - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/support-team-during-digital-transformation.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/working-capital-management.html",
+   "status": 200,
+   "title": "Your Guide to Working Capital Management - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/working-capital-management.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/professional-services-payment-solutions.html",
+   "status": 200,
+   "title": "Payment Solutions for Professional Services - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/professional-services-payment-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/common-ap-issues-and-solutions.html",
+   "status": 200,
+   "title": "10 Common Accounts Payable Issues & Solutions - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/common-ap-issues-and-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/ap-automation-supply-chain-operations.html",
+   "status": 200,
+   "title": "AP Automation in Supply Chain Operations - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/ap-automation-supply-chain-operations.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/cash-flow-101.html",
+   "status": 200,
+   "title": "Cash Flow 101: Forecasts, Planning, Statements and Strategy - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/cash-flow-101.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/residential-real-estate-payment-solutions.html",
+   "status": 200,
+   "title": "Payment Solutions and AP Automation for Residential Real Estate Pros - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/residential-real-estate-payment-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/accounts-payable-for-nonprofits.html",
+   "status": 200,
+   "title": "How Payments Platforms and AP Automation Empower Your Not-for-Profit’s Mission - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/accounts-payable-for-nonprofits.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/healthcare-payment-ap-solutions.html",
+   "status": 200,
+   "title": "Payment Solutions & AP Automation in Canadian Healthcare - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/healthcare-payment-ap-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/retail-payment-solutions.html",
+   "status": 200,
+   "title": "Payment Solutions for Retailers - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/retail-payment-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/ap-automation-software-benefits.html",
+   "status": 200,
+   "title": "Unlocking the Benefits of Accounts Payable Automation Software - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/ap-automation-software-benefits.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/agriculture-payment-solutions.html",
+   "status": 200,
+   "title": "How Payment Solutions Can Help in Agriculture - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/agriculture-payment-solutions.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/determine-startup-costs.html",
+   "status": 200,
+   "title": "Determine Start-Up Costs & Working Capital - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/determine-startup-costs.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/accounts-payable-guide.html",
+   "status": 200,
+   "title": "Go-to Guide on Accounts Payable Process - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/accounts-payable-guide.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/small-business-cash-flow-management.html",
+   "status": 200,
+   "title": "Small Business Guide to Cash Flow Management - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/my-payments-playbook/small-business-cash-flow-management.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/",
+   "status": 200,
+   "title": "Business Loans and Lines of Credit - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/how-to-perform-a-swot-analysis.html",
+   "status": 200,
+   "title": "Perform a SWOT Analysis - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/how-to-perform-a-swot-analysis.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/calculate-ap-automation-cost.html",
+   "status": 200,
+   "title": "Calculate Your AP Automation Cost - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/calculate-ap-automation-cost.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/advice/business-vs-personal-bank-account.html",
+   "status": 200,
+   "title": "Business Bank Account vs. Personal Bank Account - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/accounts/advice/business-vs-personal-bank-account.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/payments-statements/make-payment.html",
+   "status": 200,
+   "title": "How To Pay Your RBC Commercial Credit Card - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/validate-your-business-idea.html",
+   "status": 200,
+   "title": "Validate Your Business Idea - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/validate-your-business-idea.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/next-logic-digital-enhancements.html",
+   "status": 200,
+   "title": "NextLogic Digital Enhancements - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/how-to-start-a-business-in-12-steps.html",
+   "status": 200,
+   "title": "How to Start a Business in 12 Steps",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/how-to-start-a-business-in-12-steps.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/introduction-next-logic.html",
+   "status": 200,
+   "title": "Getting Started – Introduction to NextLogic – RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/how-to-create-a-template.html",
+   "status": 200,
+   "title": "RBC How to create-a-template",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/payments-statements/create-report.html",
+   "status": 200,
+   "title": "Create a Report",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/how-to-assign-to-a-user.html",
+   "status": 200,
+   "title": "Company Dashboards – How to assign to a user – RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/removing-dashboard-license-from-a-user.html",
+   "status": 200,
+   "title": "Company Dashboards – Removing a dashboard license from a user – RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/how-to-change-a-credit-limit.html",
+   "status": 200,
+   "title": "RBC How to change a Credit Limit",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/how-to-view-cardholder-account-details.html",
+   "status": 200,
+   "title": "RBC How to view cardholder account details",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/how-to-create-a-plastic-card.html",
+   "status": 200,
+   "title": "RBC How to create a plastic card",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/NextLogic-overview.html",
+   "status": 200,
+   "title": "Getting Started – NextLogic Overview – RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/how-to-view-declined-transactions-and-pending-authorizations.html",
+   "status": 200,
+   "title": "RBC How to view declined transactions and pending authorizations",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/how-to-view-a-statement.html",
+   "status": 200,
+   "title": "RBC How to view a statement",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/",
+   "status": 200,
+   "title": "RBC PayEdge for Accounts Payable Automation - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/making-rbc-nextlogic.html",
+   "status": 200,
+   "title": "Getting Started – Making the most of RBC NextLogic – RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/how-to-add-card-controls.html",
+   "status": 200,
+   "title": "RBC NextLogic Overview",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/",
+   "status": 200,
+   "title": "Apply for a Business Credit Card – Royal Bank Canada",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/getting-started/cardholder-video-tutorial.html",
+   "status": 200,
+   "title": "Getting Started – Cardholder video tutorial – RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/payment-processors-pos-systems-b.html",
+   "status": 200,
+   "title": "Payment Processors & POS Systems - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/create-a-cash-flow-forecast.html",
+   "status": 200,
+   "title": "Create a Cash Flow Forecast - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/commercial-cards-program/service-centre/how-to-edit-and-delete-card-controls.html",
+   "status": 200,
+   "title": "RBC NextLogic Overview",
+   "canonical": null,
+   "robots": "noindex,nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/how-to-set-up-your-payments.html",
+   "status": 200,
+   "title": "Set Up Your Payments and Other Systems - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/register-gst-pst-hst.html",
+   "status": 200,
+   "title": "Register for GST/PST/HST - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  }
+ ],
+ "redirects": [
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/operating-accounts.html",
+   "to": "https://www.rbcroyalbank.com/business/accounts/business-chequing-accounts.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/online-foreign-currency.html",
+   "to": "https://www.rbcroyalbank.com/business/accounts/foreign-currency.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/IBOR-transition-disclosure.html",
+   "to": "https://www.rbcroyalbank.com/business/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/CDOR-BA-transition-disclosure.html",
+   "to": "https://www.rbcroyalbank.com/business/advice/business-owner-planning.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/business-transition-planning.html",
+   "to": "https://www.rbcroyalbank.com/business/advice/business-owner-planning.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/libor-transition-disclosure.html",
+   "to": "https://www.rbcroyalbank.com/business/customer-service/libor-transition-disclosure.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/international-trade/webinar-series.html",
+   "to": "https://www.rbcroyalbank.com/business/international-trade/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/canada-emergency-business-account.html",
+   "to": "https://www.rbcroyalbank.com/business/loans/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/mid-long-term-loans.html",
+   "to": "https://www.rbcroyalbank.com/business/loans/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/short-term-operating-loans.html",
+   "to": "https://www.rbcroyalbank.com/business/loans/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/nextdoor/index.html",
+   "to": "https://www.rbcroyalbank.com/business/beyond-banking/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/making-payments.html",
+   "to": "https://www.rbcroyalbank.com/business/paying-and-receiving/make-payments.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/master-client-agreement.html",
+   "to": "https://www.rbcroyalbank.com/business/document_forms_guides.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/how-it-works.html",
+   "to": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/standard-online-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-online-banking-for-business.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/receiving-payments.html",
+   "to": "https://www.rbcroyalbank.com/business/paying-and-receiving/receive-payments.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/small-business-navigator/index.html",
+   "to": "https://www.rbcroyalbank.com/business/advice/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/premium-online-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-express-online-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/small-business-navigator/subscribe/signup.html",
+   "to": "https://www.rbcroyalbank.com/business/advice/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/online-business-banking/rbc-online-banking-for-business.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-online-banking-for-business.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-mobile-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/online-business-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/online-business-banking/premium-online-banking-with-rbc-express.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-express-online-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/branch-and-atm.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/branch-atm-phone-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-mobile-banking/premium-mobile-with-rbc-express-business-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-express-online-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-mobile-banking/rbc-mobile-banking-app.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-online-banking-for-business.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/telephone-business-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/branch-atm-phone-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/visa-business-platinum-avion.html",
+   "to": "https://www.rbcroyalbank.com/business/credit-cards/small-business-credit-cards/rbc-avion-visa-business.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/online-banking-for-business.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/online-business-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/exporting-services.html",
+   "to": "https://www.rbcroyalbank.com/business/international-trade/exporting-services.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/bank-guarantees.html",
+   "to": "https://www.rbcroyalbank.com/business/international-trade/bank-guarantees.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/international-trade-finance.html",
+   "to": "https://www.rbcroyalbank.com/business/international-trade/importing-services.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/group-benefits/rbc-group-advantage.html",
+   "to": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/rbc-group-advantage.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/services-beyond-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/beyond-banking/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/group-benefits/group-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/advice/registered-pension-plan-and-group-retirement-savings/group-banking.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/beyond-banking/invoicing-and-accounting.html",
+   "to": "https://www.rbcroyalbank.com/business/beyond-banking/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/accounts/six-dollar-business-account.html",
+   "to": "https://www.rbcroyalbank.com/business/accounts/flex-choice-business-account.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/premium-online-banking.html",
+   "to": "https://www.rbcroyalbank.com/business/ways-to-bank-for-business/rbc-express-online-banking.html",
+   "status": 200
+  }
+ ],
+ "errors": [
+  {
+   "url": "https://www.rbcroyalbank.com/business/financing/credit-cards.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/financing/cc-index.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/financing/business-credit-cards.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/advice/index.html",
+   "status": 404
+  }
+ ],
+ "canonicalDuplicates": [
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/women-in-business/",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/women-in-business/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/",
+   "canonical": "https://www.rbcroyalbank.com/business/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans//equipment-purchaseline.html",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/equipment-purchaseline.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/",
+   "canonical": "https://www.rbcroyalbank.com/business/advice/industry-expertise/agriculture/agricultural-advantage/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/loans/",
+   "canonical": "https://www.rbcroyalbank.com/business/loans/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/",
+   "canonical": "https://www.rbcroyalbank.com/business/paying-and-receiving/payedge/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/business/credit-cards/",
+   "canonical": "https://www.rbcroyalbank.com/business/credit-cards/index.html"
+  }
+ ],
+ "capped": false,
+ "sitemapUrls": 151
+}

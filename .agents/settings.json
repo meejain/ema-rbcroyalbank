@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "stardust@excat-extended": true,
+    "excat-block-library@excat-extended": true
+  }
+}

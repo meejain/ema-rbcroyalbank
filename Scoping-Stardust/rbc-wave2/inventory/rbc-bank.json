@@ -1,0 +1,509 @@
+{
+ "cohort": "rbc-bank",
+ "host": "www.rbcbank.com",
+ "prefixes": [
+  "/"
+ ],
+ "sheetCount": 104,
+ "crawledAt": "2026-10-07T18:27:13.983Z",
+ "pages": [
+  {
+   "url": "https://www.rbcbank.com/",
+   "status": 200,
+   "title": "Trusted Cross-Border Banking for Canadians | RBC Bank",
+   "canonical": "https://www.rbcbank.com",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-accounts.html",
+   "status": 200,
+   "title": "U.S. Bank Accounts for Canadians | No SSN Needed | RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-bank-accounts.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/index.html",
+   "status": 200,
+   "title": "Trusted Cross-Border Banking for Canadians | RBC Bank",
+   "canonical": "https://www.rbcbank.com",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/usbanking/index.html",
+   "status": 200,
+   "title": "Cross-Border Banking for Canadians – U.S. Credit Cards, U.S. Checking Accounts, U.S. Mortgages",
+   "canonical": "https://www.rbcbank.com/usbanking/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/customer-service.html",
+   "status": 200,
+   "title": "Customer Service - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/customer-service.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-promotions-perks.html",
+   "status": 200,
+   "title": "Cross-Border Banking Offers and Perks - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-promotions-perks.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/canadians-moving-to-the-us-s-or.html",
+   "status": 200,
+   "title": "Canadian Expats - Get No Annual Fee Cross-Border Banking for a Year – RBC Bank",
+   "canonical": "https://www.rbcbank.com/dms/cross-border/canadians-moving-to-the-us-s-or.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-accounts/preferred-money-market-savings.html",
+   "status": 200,
+   "title": "RBC U.S. Preferred Money Market Savings - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-bank-accounts/preferred-money-market-savings.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/canadians-travelling-to-the-us-i-or.html",
+   "status": 200,
+   "title": "Cross-Border Banking Bundle for Canadians Travelling to the U.S. - RBC Bank",
+   "canonical": "https://www.rbcbank.com/dms/cross-border/canadians-travelling-to-the-us-i-or.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-accounts/direct-checking.html",
+   "status": 200,
+   "title": "RBC U.S. Direct Checking - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-bank-accounts/direct-checking.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-banking-bundle-selector.html",
+   "status": 200,
+   "title": "Find the cross-border banking bundle that’s right for you - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-banking-bundle-selector.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-accounts/premium-checking.html",
+   "status": 200,
+   "title": "RBC U.S. Premium Checking - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-bank-accounts/premium-checking.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/canadians-golfing-in-the-us-i-or.html",
+   "status": 200,
+   "title": "Cross-Border Banking Bundle for Canadians Golfing in the U.S. - RBC Bank",
+   "canonical": "https://www.rbcbank.com/dms/cross-border/canadians-golfing-in-the-us-i-or.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-rates.html",
+   "status": 200,
+   "title": "U.S. Bank Interest Rates - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/canadian-students-in-the-us-s-or.html",
+   "status": 200,
+   "title": "Cross-Border Banking Bundle for Canadians Studying in the U.S. - RBC Bank",
+   "canonical": "https://www.rbcbank.com/dms/cross-border/canadian-students-in-the-us-s-or.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/canadian-vs-us-bank-accounts.html",
+   "status": 200,
+   "title": "How Canadian and U.S. Bank Accounts Stack Up - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/canadian-vs-us-bank-accounts.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-accounts/manage.html",
+   "status": 200,
+   "title": "Managing Your U.S. Bank Accounts - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-bank-accounts/manage.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cgi-bin/tools/cadusd-foreign-exchange-calculator/start.cgi",
+   "status": 200,
+   "title": "CAD ⇔ USD | USD ⇔ CAD Currency Converter – RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-credit-cards/visa-signature-black-card.html",
+   "status": 200,
+   "title": "Visa Signature Black U.S. Credit Card - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-credit-cards.html",
+   "status": 200,
+   "title": "U.S. Credit Cards for Canadians - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-credit-cards/visa-signature-black-plus-card.html",
+   "status": 200,
+   "title": "Visa Signature Black Plus U.S. Credit Card - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/canadian-vs-us-credit-cards.html",
+   "status": 200,
+   "title": "How Canadian and U.S. Credit Cards Stack Up - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/foreign-transaction-fee-savings-calculator.html",
+   "status": 200,
+   "title": "Foreign Transaction Fee Savings Calculator - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/foreign-transaction-fee-savings-calculator.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/disclosures.html",
+   "status": 200,
+   "title": "Disclosures",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgages/renewals.html",
+   "status": 200,
+   "title": "Making the Most of Your Renewal – RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-equity-refinance.html",
+   "status": 200,
+   "title": "U.S. Home Equity Solutions for Canadians - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-credit-cards/manage.html",
+   "status": 200,
+   "title": "Managing Your U.S. Credit Card - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-credit-cards/manage.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/prequalify/us-mortgage-prequal/src/index.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgages/rbc-us-homeplus.html",
+   "status": 200,
+   "title": "RBC U.S. HomePlus Advantage - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-mortgages/rbc-us-homeplus.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgages.html",
+   "status": 200,
+   "title": "U.S. Mortgage Options for Canadians - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-mortgages.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgage-process.html",
+   "status": 200,
+   "title": "The U.S. Mortgage Process for Canadians - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgages/us-cash-vs-financing-home-calculator.html",
+   "status": 200,
+   "title": "Cash versus Financing Your U.S. Home Calculator - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-mortgages/us-cash-vs-financing-home-calculator.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-home-equity-calculator.html",
+   "status": 200,
+   "title": "U.S. Home Equity Line of Credit (HELOC) and Refinance Calculator - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-home-equity-calculator.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgages/tax-legal-directory.html",
+   "status": 200,
+   "title": "Cross-Border Tax and Legal Experts - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/canadian-us-mortgage-differences.html",
+   "status": 200,
+   "title": "Canadian and U.S. Mortgages are Different - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/canadian-us-mortgage-differences.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgage-payment-calculator.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/free-instant-money-transfers-canada-usa.html",
+   "status": 200,
+   "title": "Free and Instant Money Transfers Between Canada and the U.S.",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgage-checklist.html",
+   "status": 200,
+   "title": "All the documentation Canadians need to purchase a U.S. home",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-lines-of-credit.html",
+   "status": 200,
+   "title": "U.S. Lines of Credit for Canadians - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/us-lines-of-credit.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/ways-to-bank-us.html",
+   "status": 200,
+   "title": "Ways for Canadians to Bank in the U.S. - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/ways-to-bank-us.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/index-i-or.html",
+   "status": 200,
+   "title": "Cross-Border Banking for Canadians – Credit Cards & Checking Accounts",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/client-forms-documents.html",
+   "status": 200,
+   "title": "Cross-Border Client Forms and Documents - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/equal-housing-lender.html",
+   "status": 200,
+   "title": "Equal Housing Lender - RBC",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/ccpa-info.html",
+   "status": 200,
+   "title": "Overview of the California Consumer Privacy Act - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/cra-info.html",
+   "status": 200,
+   "title": "Community Reinvestment Act (CRA) Public File - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/faqs.html",
+   "status": 200,
+   "title": "Cross-Border Banking FAQs - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/index-i-a.html",
+   "status": 200,
+   "title": "Enjoy premium U.S. checking and a cross-border credit card",
+   "canonical": "https://www.rbcbank.com/dms/cross-border/index-i-a.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/security.html",
+   "status": 200,
+   "title": "Protecting your information while banking online - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/atms/",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/business-banking.html",
+   "status": 200,
+   "title": "Cross-Border Business Banking - RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/business-banking.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/sending-a-wire-transfer-online.html",
+   "status": 200,
+   "title": "How to Send or Receive a Wire Transfer – RBC Bank",
+   "canonical": "https://www.rbcbank.com/cross-border/sending-a-wire-transfer-online.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/ccpa-consumer-privacy-request.html",
+   "status": 200,
+   "title": "Consumer Privacy Request - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/new-client/index.html",
+   "status": 200,
+   "title": "New Cross-Border Client Welcome Guide - RBC Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-mortgages/cb-events.html",
+   "status": 200,
+   "title": "U.S. Virtual Advice Events - RBC",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/external-site.html",
+   "status": 200,
+   "title": "Leaving Website Warning - RBC Bank",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcbank.com/search-rbcbank/index.html",
+   "status": 200,
+   "title": "Universal Search Public -  RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/oao-sc-i-e.html",
+   "status": 200,
+   "title": "Great! Let’s Get Your Cross-Border Bundle Opened - RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcbank.com/search-rbcbank/",
+   "status": 200,
+   "title": "Universal Search Public -  RBC Royal Bank",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcbank.com/dms/cross-border/oao-sc-i-p.html",
+   "status": 200,
+   "title": "A premium U.S. checking account and a cross-border credit card",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  }
+ ],
+ "redirects": [
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-loans.html",
+   "to": "https://www.rbcbank.com/cross-border/us-lines-of-credit.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcbank.com/atms",
+   "to": "https://www.rbcbank.com/atms/",
+   "status": 200
+  }
+ ],
+ "errors": [
+  {
+   "url": "https://www.rbcbank.com/cross-border/us-bank-rates.html;",
+   "status": 404
+  }
+ ],
+ "canonicalDuplicates": [
+  {
+   "url": "https://www.rbcbank.com/index.html",
+   "canonical": "https://www.rbcbank.com"
+  }
+ ],
+ "capped": false,
+ "sitemapUrls": 60
+}

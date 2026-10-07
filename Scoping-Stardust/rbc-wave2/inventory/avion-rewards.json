@@ -1,0 +1,338 @@
+{
+ "cohort": "avion-rewards",
+ "host": "www.avionrewards.com",
+ "prefixes": [
+  "/"
+ ],
+ "sheetCount": 31,
+ "crawledAt": "2026-10-07T18:27:18.256Z",
+ "pages": [
+  {
+   "url": "https://www.avionrewards.com/index.html",
+   "status": 200,
+   "title": "Avion Rewards - Avion Rewards members can have it all",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/become-a-member.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/travel/index.html",
+   "status": 200,
+   "title": "Book flights, hotel stays and more with points - Avion Rewards",
+   "canonical": "https://www.avionrewards.com/travel/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/shop.html",
+   "status": 200,
+   "title": "Redeem and Shop The Avion Rewards Catalogue - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/manage-points.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/membership.html",
+   "status": 200,
+   "title": "Avion Rewards membership | View all levels & benefits",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/redeem.html",
+   "status": 200,
+   "title": "Redeem your points for gift cards, merchandise, travel and more with Avion Rewards - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/terms-and-conditions.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/faq.html",
+   "status": 200,
+   "title": "Frequently Asked Questions - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/eligible-products.html",
+   "status": 200,
+   "title": "Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/avioner-benefits.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/moi-rewards/index.html",
+   "status": 200,
+   "title": "Avion Rewards x Moi Rewards – everyday savings on essentials",
+   "canonical": "https://www.avionrewards.com/partnerships/moi-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/login/sign-in.html",
+   "status": 200,
+   "title": "Sign In to Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/tickets/ticketmaster-canada/index.html",
+   "status": 200,
+   "title": "Avion Rewards X Live Nation: redeem points for tickets",
+   "canonical": "https://www.avionrewards.com/tickets/ticketmaster-canada/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/more-rewards/index.html",
+   "status": 200,
+   "title": "Earn 2X More Rewards points with RBC and Avion Rewards",
+   "canonical": "https://www.avionrewards.com/partnerships/more-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/login/join.html",
+   "status": 200,
+   "title": "Join Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/terms-and-conditions/index.html",
+   "status": 200,
+   "title": "Terms And Conditions - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/eligibility.html",
+   "status": 200,
+   "title": "Eligibility - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/travel/redemptionSchedule.html",
+   "status": 200,
+   "title": "See How Many Points You Need To Travel - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/",
+   "status": 200,
+   "title": "Get 3x† Canadian Tire Money®: RBC and Avion Rewards",
+   "canonical": "https://www.avionrewards.com/partnerships/triangle-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/how-to-join.html",
+   "status": 200,
+   "title": "How to join Avion Rewards - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/tickets/ticketmaster-canada/faq/index.html",
+   "status": 200,
+   "title": "How to redeem Avion points on Ticketmaster| Ticketmaster FAQ",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/moi-rewards/faq.html",
+   "status": 200,
+   "title": "Avion Rewards and Moi Linked Loyalty FAQ",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/more-rewards/faq.html",
+   "status": 200,
+   "title": "More Rewards FAQ",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/browserextension/",
+   "status": 200,
+   "title": "Shop savvy and save big with Avion Rewards ShopPlus - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/termsandconditions/",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/terms-and-conditions/",
+   "status": 200,
+   "title": "Terms And Conditions - Avion Rewards",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/participating-locations/",
+   "status": 200,
+   "title": "3X CT Money:  link your eligible RBC Card",
+   "canonical": "https://www.avionrewards.com/partnerships/triangle-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/ticketmaster-ca-terms/",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/index.html",
+   "status": 200,
+   "title": "Get 3x† Canadian Tire Money®: RBC and Avion Rewards",
+   "canonical": "https://www.avionrewards.com/partnerships/triangle-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/faq/",
+   "status": 200,
+   "title": "Avion Rewards and Triangle Rewards | FAQ",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/moi-rewards/",
+   "status": 200,
+   "title": "Avion Rewards x Moi Rewards – everyday savings on essentials",
+   "canonical": "https://www.avionrewards.com/partnerships/moi-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/more-rewards/",
+   "status": 200,
+   "title": "Earn 2X More Rewards points with RBC and Avion Rewards",
+   "canonical": "https://www.avionrewards.com/partnerships/more-rewards/index.html",
+   "robots": null,
+   "inSitemap": false
+  }
+ ],
+ "redirects": [
+  {
+   "url": "https://www.avionrewards.com/",
+   "to": "https://www.avionrewards.com/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards",
+   "to": "https://www.avionrewards.com/partnerships/triangle-rewards/",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/terms-and-conditions",
+   "to": "https://www.avionrewards.com/terms-and-conditions/",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/termsandconditions",
+   "to": "https://www.avionrewards.com/termsandconditions/",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/browserextension",
+   "to": "https://www.avionrewards.com/browserextension/",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/ticketmaster-ca-terms",
+   "to": "https://www.avionrewards.com/ticketmaster-ca-terms/",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/moi-rewards",
+   "to": "https://www.avionrewards.com/partnerships/moi-rewards/",
+   "status": 200
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/faq",
+   "to": "https://www.avionrewards.com/partnerships/triangle-rewards/faq/",
+   "status": 200
+  }
+ ],
+ "errors": [],
+ "canonicalDuplicates": [
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/",
+   "canonical": "https://www.avionrewards.com/partnerships/triangle-rewards/index.html"
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/triangle-rewards/participating-locations/",
+   "canonical": "https://www.avionrewards.com/partnerships/triangle-rewards/index.html"
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/moi-rewards/",
+   "canonical": "https://www.avionrewards.com/partnerships/moi-rewards/index.html"
+  },
+  {
+   "url": "https://www.avionrewards.com/partnerships/more-rewards/",
+   "canonical": "https://www.avionrewards.com/partnerships/more-rewards/index.html"
+  }
+ ],
+ "capped": false,
+ "sitemapUrls": 10
+}

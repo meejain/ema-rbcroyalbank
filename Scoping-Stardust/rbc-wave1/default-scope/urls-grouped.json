@@ -1,0 +1,676 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-10-05T00:55:05.337Z",
+    "urlGroupings": 24,
+    "locales": {
+      "en": 90,
+      "fr": 91
+    },
+    "groups": {
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/"
+          }
+        ]
+      },
+      "/credit-cards": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/all-credit-cards.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/award-winning-credit-cards.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholder-resources.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cash-back.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/low-interest.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/mastercard.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/no-fee.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/rewards.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/student.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/activate/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/annual-fee-comparison/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/campaign/balanceprotector/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/low-interest/rbc-visa-classic-low-rate.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/no-fee/rbc-visa-platinum.html"
+          }
+        ]
+      },
+      "/credit-cards/cardholders": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/add-user.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/credit-card-glossary.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/credit-card-transaction-help.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/documentation.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/estatements-frequently-asked-questions.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/estatements.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/how-to-protect-from-credit-card-fraud.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/how-to-reduce-credit-card-interest.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/instant-use-with-apple-pay.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/lost-or-stolen-credit-card.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/manage-your-accounts-online.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/moi-information-sharing.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/optional-add-on-services.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/pay-your-credit-card-bill.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/protection.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/read-your-credit-card-statement.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/westjet-information-sharing.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/westjet-rewards-program-updates.html"
+          }
+        ]
+      },
+      "/credit-cards/cardholders/frequently-asked-questions": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/frequently-asked-questions/credit-limit-and-fees.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/frequently-asked-questions/features-and-benefits.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/frequently-asked-questions/general-questions.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/frequently-asked-questions/payments.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/frequently-asked-questions/protecting-my-card.html"
+          }
+        ]
+      },
+      "/credit-cards/cardholders/optional-add-on-services": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/optional-add-on-services/balance-protector-credit-card-insurance.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/optional-add-on-services/identity-credit-theft-protection.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/optional-add-on-services/rbc-additional-travel-insurance.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cardholders/optional-add-on-services/rbc-road-assist.html"
+          }
+        ]
+      },
+      "/credit-cards/cash-back": {
+        "confidence": "75%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-cashback-mastercard.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/cash-back/rbc-preferred-world-elite-mastercard.html"
+          }
+        ]
+      },
+      "/credit-cards/credit-card-information-and-questions": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/credit-card-information-and-questions/card-benefits.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/credit-card-information-and-questions/how-to-use-credit-cards-to-improve-credit-score.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/credit-card-information-and-questions/manage-finances.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/credit-card-information-and-questions/managing-my-credit.html"
+          }
+        ]
+      },
+      "/credit-cards/product-advice": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/a-students-guide-to-choosing-the-right-credit-card.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/credit-card-safety-travel-checklist.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/file-credit-card-travel-insurance-claim.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/how-credit-cards-protect-fans-from-ticket-scams.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/how-do-cashback-credit-cards-work.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/how-do-travel-credit-cards-work.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/how-to-apply-for-a-credit-card.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/how-to-choose-best-no-annual-fee-credit-card.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/maximize-international-sports-travel-credit-card-points.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/maximize-travel-credit-card-benefits.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/safe-ways-to-buy-international-event-tickets-online.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/using-credit-cards-abroad.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/what-is-a-cash-advance.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/what-is-a-credit-card.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/product-advice/is-a-low-interest-rate-credit-card-right-for-you/index.html"
+          }
+        ]
+      },
+      "/credit-cards/rewards": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/rewards/moi-rbc-visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/rewards/more-rewards-rbc-visa-infinite.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/rewards/more-rewards-rbc-visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/rewards/rbc-ion-plus-visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/rewards/rbc-ion-visa.html"
+          }
+        ]
+      },
+      "/credit-cards/services": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/services/chip-and-pin-technology.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/services/contactless-payments.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/services/visa-checkout.html"
+          }
+        ]
+      },
+      "/credit-cards/tools": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/tools/choose-a-credit-card.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/tools/compare-credit-cards.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/tools/low-interest-credit-card-savings-calculator-offer.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/tools/credit-card-cashback-calculator/"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/tools/credit-card-reward-points-calculator/index.html"
+          }
+        ]
+      },
+      "/credit-cards/travel": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/avion-rbc-credit-cards.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite-privilege.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-avion-visa-infinite.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-british-airways-visa-infinite.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-us-dollar-visa-gold.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/rbc-visa-platinum-avion.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-credit-cards.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-mastercard.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/credit-cards/travel/westjet-rbc-world-elite-mastercard.html"
+          }
+        ]
+      },
+      "/fr/cartes": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/cartes-de-credit-primees.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseil-sur-le-produit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/etudiant.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/mastercard.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/remise-en-argent.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/ressources-pour-les-titulaires.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/sans-frais.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/taux-reduit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/toutes-cartes.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/activate/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/aucuns-frais/visa-platine-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/campaign/protectionsolde/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/comparer-les-frais-annuels/index.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/taux-reduit/visa-classique-rbc-taux-reduit.html"
+          }
+        ]
+      },
+      "/fr/cartes/carte-credit-information-et-questions": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/carte-credit-information-et-questions/avantages-carte.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/carte-credit-information-et-questions/gerer-finances.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/carte-credit-information-et-questions/gerer-mon-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/carte-credit-information-et-questions/utilisation-de-carte-de-credit-pour-ameliorer-la-cote-de-solvabilite.html"
+          }
+        ]
+      },
+      "/fr/cartes/conseils-sur-les-produits": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/choisir-la-carte-de-credit-sans-frais-annuels-qui-vous-convient-le-mieux.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/comment-une-carte-de-credit-protege-les-fans-contre-une-escroquerie-aux-billets.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/demande-reglement-assurance-voyage-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/fonctionnement-des-cartes-de-credit-avec-remise-en-argent.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/fonctionnement-des-cartes-de-credit-de-voyage.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/guide-de-letudiant-pour-choisir-la-bonne-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/liste-de-controle-de-securite-des-cartes-de-credit-en-voyage.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/moyens-surs-dacheter-des-billets-en-ligne-pour-evenements-internationaux.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/optimisation-avantages-cartes-de-credit-voyage.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/optimisez-les-points-de-carte-de-credit-voyages-sportifs-internationaux.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/presenter-une-demande-de-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/quest-ce-quune-avance-de-fonds.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/quest-ce-quune-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/utilisation-cartes-de-credit-etranger.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/conseils-sur-les-produits/est-ce-quune-carte-de-credit-a-taux-reduit-correspond-a-vos-besoins/index.html"
+          }
+        ]
+      },
+      "/fr/cartes/outils": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/outils/calculatrice-deconomies-sur-carte-de-credit-a-interet-reduit-offre.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/outils/choisir-carte-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/outils/comparer-cartes-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/outils/calculatrice-de-remise-en-argent/"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/outils/calculatrice-des-recompenses-sur-cartes-de-credit/index.html"
+          }
+        ]
+      },
+      "/fr/cartes/recompenses": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/moi-rbc-visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/more-rewards-rbc-visa-infinite.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/more-rewards-rbc-visa.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/visa-rbc-ion-plus.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/recompenses/visa-rbc-ion.html"
+          }
+        ]
+      },
+      "/fr/cartes/remise-en-argent": {
+        "confidence": "75%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/remise-en-argent/remise-en-argent-mastercard-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/remise-en-argent/remise-en-argent-preference-world-elite-mastercard.html"
+          }
+        ]
+      },
+      "/fr/cartes/services": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/services/paiement-sans-contact.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/services/technologie-puce-nip.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/services/visa-checkout.html"
+          }
+        ]
+      },
+      "/fr/cartes/titulaires": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/aide-sur-les-operations-par-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/ajouter-utilisateur.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/carte-perdue-ou-volee.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/documentation.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/gerer-vos-comptes-en-ligne.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/glossaire-carte-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/lire-votre-releve-de-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/mises-a-jour-du-programme-de-recompenses-westjet.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/partage-informations-moi.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/partage-informations-westjet.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/protection.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/proteger-contre-fraude-sur-carte-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/reduire-interets-carte-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/regler-votre-facture-de-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/releve-electronique-faq.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/releve-electronique.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/services-complementaires-facultatifs.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/utilisation-instantanee-avec-apple-pay.html"
+          }
+        ]
+      },
+      "/fr/cartes/titulaires/faq": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/faq/caracteristiques-et-garanties.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/faq/limite-de-credit-et-frais.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/faq/paiements.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/faq/protection-de-ma-carte.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/faq/questions-general.html"
+          }
+        ]
+      },
+      "/fr/cartes/titulaires/services-complementaires-facultatifs": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/services-complementaires-facultatifs/assistance-routiere-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/services-complementaires-facultatifs/assurance-protection-solde-carte-de-credit.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/services-complementaires-facultatifs/assurance-voyage-facultative-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/titulaires/services-complementaires-facultatifs/usurpation-identite-et-surveillance-du-credit.html"
+          }
+        ]
+      },
+      "/fr/cartes/voyages": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/avion-visa-infinite-privilege-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/avion-visa-infinite-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/cartes-de-credit-avion-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/cartes-de-credit-westjet-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/rbc-recompenses-privilege.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/visa-infinite-british-airways-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/visa-or-en-dollars-us-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/visa-platine-voyage-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/westjet-mastercard-rbc.html"
+          },
+          {
+            "url": "https://www.rbcroyalbank.com/fr/cartes/voyages/westjet-world-elite-mastercard-rbc.html"
+          }
+        ]
+      },
+      "unknown": {
+        "confidence": "50%",
+        "urls": [
+          {
+            "url": "https://www.rbcroyalbank.com/fr/personal.html",
+            "pattern": "credit-card-page"
+          }
+        ]
+      }
+    }
+  }
+}

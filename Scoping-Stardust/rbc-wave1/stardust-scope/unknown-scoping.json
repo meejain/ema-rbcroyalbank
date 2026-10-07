@@ -1,0 +1,328 @@
+{
+ "_about": "Final scoping decision per scope \"unknown\" (screenshot review, 2026-10-05). See write-scoping.mjs for the decision vocabulary.",
+ "newVariants": {
+  "columns tip": {
+   "block": "columns",
+   "summary": "Icon-led note on a tint: bulb icon | label (Tip, Pro tip, To sum it up) and one or two lines.",
+   "sources": [
+    "v_a5c45d96ab8b",
+    "v_69d3877a6553",
+    "v_847be70cfa8f"
+   ]
+  },
+  "columns cta": {
+   "block": "columns",
+   "summary": "Decision prompt: question and one line | one or two buttons (Help Me Choose, Student Credit Cards, Compare).",
+   "sources": [
+    "v_8fa95da9fe6b",
+    "v_847be70cfa8f"
+   ]
+  },
+  "cards checklist": {
+   "block": "cards",
+   "summary": "Ticked criteria grid (eligibility): one short criterion per card, optional info tip.",
+   "sources": [
+    "v_1485444c2d08"
+   ]
+  }
+ },
+ "decisions": {
+  "v_70ee1c9fba9e": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Promo callouts on 13 pages (heading, one line, button, photo): text | photo. The 2 homepage instances are My Money Matters: Cards (articles featured)."
+  },
+  "v_42446be820dd": {
+   "decision": "existing",
+   "target": "cards recognition",
+   "note": "RBC awards and recognition panel."
+  },
+  "v_5a1baf680bb1": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_81120c754c54": {
+   "decision": "removed",
+   "target": "none",
+   "note": "Card category filter chips (script-only links)."
+  },
+  "v_b25574a76eae": {
+   "decision": "removed",
+   "target": "none",
+   "note": "Listing toolbar (Showing N cards · Card Filters · Sort by): client-side filter/sort of the dynamic card listing."
+  },
+  "v_42300e8a4652": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "How to apply: three icon steps with buttons."
+  },
+  "v_5a1baf680bb1-1": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_824ce0b8439d": {
+   "decision": "existing",
+   "target": "cards tools",
+   "note": "Four illustrated tool tiles on the awards page; the hub variant."
+  },
+  "v_d1a119baa551": {
+   "decision": "existing",
+   "target": "accordion legal",
+   "note": "\"View Legal Disclaimers\" toggle."
+  },
+  "v_1485444c2d08": {
+   "decision": "new",
+   "target": "cards checklist",
+   "note": "Eligibility: heading, one line and a 2×2 list of ticked criteria with info tips."
+  },
+  "v_5a1baf680bb1-2": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_5a1baf680bb1-3": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_aa6cd8a9b595": {
+   "decision": "default",
+   "target": "default content",
+   "note": "Not a component: a single sentence or bullet the scope cut out of a longer list (mostly key-takeaway lists). It goes wherever its list goes."
+  },
+  "v_5a1baf680bb1-4": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_522ef8c958fc": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Mobile app promo: phone image | heading, line, store badges, rating."
+  },
+  "v_19fd63195c88": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Apple Pay callout: photo | heading, line, Apply button, App Store badge."
+  },
+  "v_17cfc590e1e5": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Data-sharing steps: label | numbered steps and button, per channel."
+  },
+  "v_e90777a88dd1": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "Four optional-protection tiles with icons and links."
+  },
+  "v_1485444c2d08-1": {
+   "decision": "existing",
+   "target": "cards offers",
+   "note": "Three product offer tiles: image, name, offer copy, rates, Apply and details links. The hub variant."
+  },
+  "v_ac76e87637ce-1": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Two text columns: Emergency assistance | Submit a claim."
+  },
+  "v_236d6f09f8e8": {
+   "decision": "existing",
+   "target": "cards features",
+   "note": "Ticked feature line (Roadside Assistance, Towing and More) in a features run."
+  },
+  "v_2581a597dd86": {
+   "decision": "removed",
+   "target": "none",
+   "note": "Statement page tab bar and letter filter; the definition groups themselves are content."
+  },
+  "v_e74ee53f1e59": {
+   "decision": "existing",
+   "target": "cards links",
+   "note": "Category icon navigation (All Cards, Travel, …)."
+  },
+  "v_bd6417e2b305": {
+   "decision": "existing",
+   "target": "cards tiles",
+   "note": "Benefits panel: photo tile and illustrated text tile."
+  },
+  "v_4c212f55612a": {
+   "decision": "existing",
+   "target": "cards tools",
+   "note": "Cash back \"Tools and Calculators\" tiles; the illustrations are CSS backgrounds and must be carried as images."
+  },
+  "v_6256761c78a1": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "Cash back rate tiles (icon, 3% / 1%, category) and the redeem note."
+  },
+  "v_97d085fe0529": {
+   "decision": "existing",
+   "target": "cards why",
+   "note": "Three illustrated benefit cards."
+  },
+  "v_5a1baf680bb1-5": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_9824dd466344": {
+   "decision": "existing",
+   "target": "cards tiles",
+   "note": "Card-type tiles: illustration, name, line, benefits list, link."
+  },
+  "v_5f96de5597a1": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Three promo panels (app, awards, NOMI) in two columns."
+  },
+  "v_5a1baf680bb1-6": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_b2590a35ea3f": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "Icon-led question rows (What is a low interest rate card?, …)."
+  },
+  "v_374d390bc93d": {
+   "decision": "existing",
+   "target": "columns",
+   "note": "Promo callout with photo (Discover More Ways to Save with Avion Rewards): text | photo."
+  },
+  "v_2a8cc5489592": {
+   "decision": "existing",
+   "target": "cards partners",
+   "note": "Partner offers with brand logos."
+  },
+  "v_3f36606afa9c": {
+   "decision": "existing",
+   "target": "columns apply",
+   "note": "Apply band: card art, heading, one line, Apply Now. Same variant as the Avion archetype."
+  },
+  "v_e244230efd25": {
+   "decision": "existing",
+   "target": "columns intro",
+   "note": "Card image | heading with three headed paragraphs. Image-led split, not a card repeat."
+  },
+  "v_68e1de4e2201": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "Icon-led explainer rows."
+  },
+  "v_847be70cfa8f": {
+   "decision": "default",
+   "target": "default content",
+   "note": "Article prose (student guide).",
+   "embedded": [
+    "columns tip",
+    "columns cta"
+   ]
+  },
+  "v_824ce0b8439d-1": {
+   "decision": "existing",
+   "target": "cards tools",
+   "note": "Four illustrated tool tiles (Help Me Choose, Compare, Cash Back, Rewards); the hub variant."
+  },
+  "v_3b301f6c2dad": {
+   "decision": "existing",
+   "target": "cards articles",
+   "note": "\"Read This Next\" article cards: image and title link."
+  },
+  "v_a5c45d96ab8b": {
+   "decision": "new",
+   "target": "columns tip",
+   "note": "\"To sum it up\" note: bulb icon | heading and line on a tint. Same shape as the article Tip / Pro tip boxes."
+  },
+  "v_2ddbecb8a96a": {
+   "decision": "default",
+   "target": "default content",
+   "note": "Article body; its short headed runs are Cards (features), the rest prose."
+  },
+  "v_a98d14b950b8": {
+   "decision": "removed",
+   "target": "none",
+   "note": "Article category filter chips (script-only links)."
+  },
+  "v_385568610b4d": {
+   "decision": "default",
+   "target": "default content",
+   "note": "Page intro: heading and paragraph (the legal toggle is the legal accordion)."
+  },
+  "v_7d58cc18fd3c": {
+   "decision": "existing",
+   "target": "columns apply",
+   "note": "Apply band inside articles: card art, best-offer pill, Apply Now."
+  },
+  "v_69d3877a6553": {
+   "decision": "default",
+   "target": "default content",
+   "note": "Article prose (earning travel points).",
+   "embedded": [
+    "columns tip"
+   ]
+  },
+  "v_3166eb231e79": {
+   "decision": "default",
+   "target": "default content",
+   "note": "Article prose with an illustration and a bullet list."
+  },
+  "v_f2b81d564755": {
+   "decision": "existing",
+   "target": "columns intro",
+   "note": "Partner logo wall | More Rewards copy on a dark band."
+  },
+  "v_5a1baf680bb1-10": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_cc8446d2311a": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "Contactless how-to steps and the two icon notes."
+  },
+  "v_c7940b140842": {
+   "decision": "existing",
+   "target": "cards links",
+   "note": "\"Still Not Sure?\" icon links."
+  },
+  "v_058232a34b3d": {
+   "decision": "existing",
+   "target": "cards icons",
+   "note": "Avion Rewards: five icon tiles."
+  },
+  "v_3b9dcf103ab2": {
+   "decision": "existing",
+   "target": "cards awards",
+   "note": "Award seals, each with its caption link."
+  },
+  "v_8fa95da9fe6b": {
+   "decision": "new",
+   "target": "columns cta",
+   "note": "\"Need Help Deciding?\" prompt with one button."
+  },
+  "v_3b9dcf103ab2-1": {
+   "decision": "existing",
+   "target": "cards awards",
+   "note": "Award seals with captions (sibling page)."
+  },
+  "v_4ad0c4e5ded0": {
+   "decision": "removed",
+   "target": "none",
+   "note": "A–Z letter filter on statement definitions; every letter group is content, the buttons are not."
+  },
+  "v_5a1baf680bb1-11": {
+   "decision": "existing",
+   "target": "hero typeled",
+   "note": "Sticky breadcrumb and page title bar: the type-led hero (breadcrumb + H1)."
+  },
+  "v_c7940b140842-1": {
+   "decision": "existing",
+   "target": "cards links",
+   "note": "\"Pas encore convaincu ?\" icon links."
+  }
+ }
+}

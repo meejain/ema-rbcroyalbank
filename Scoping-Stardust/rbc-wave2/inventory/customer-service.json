@@ -1,0 +1,32 @@
+{
+ "cohort": "customer-service",
+ "host": "www.rbcroyalbank.com",
+ "prefixes": [
+  "/customer-service/"
+ ],
+ "sheetCount": 1,
+ "crawledAt": "2026-10-07T18:25:19.234Z",
+ "pages": [
+  {
+   "url": "https://www.rbcroyalbank.com/customer-service/",
+   "status": 200,
+   "title": "Customer Service",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/customer-service/index.html",
+   "status": 200,
+   "title": "Customer Service",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  }
+ ],
+ "redirects": [],
+ "errors": [],
+ "canonicalDuplicates": [],
+ "capped": false,
+ "sitemapUrls": 1
+}

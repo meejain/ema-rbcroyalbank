@@ -1,0 +1,4316 @@
+{
+ "cohort": "direct-investing",
+ "host": "www.rbcdirectinvesting.com",
+ "prefixes": [
+  "/"
+ ],
+ "sheetCount": 58,
+ "crawledAt": "2026-10-07T18:27:08.784Z",
+ "pages": [
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/",
+   "status": 200,
+   "title": "Self-Directed Accounts & Investments - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/gosmart-comparison/",
+   "status": 200,
+   "title": "GoSmart by RBC Direct Investing: Compare Features & Tools",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/",
+   "status": 200,
+   "title": "Online Investing and Trading - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/bonds.html",
+   "status": 200,
+   "title": "Bonds, T-Bills and More - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/ipos/what-ive-learned-about-ipos-through-my-investing-career/",
+   "status": 200,
+   "title": "What I've Learned About IPOs Through My Investing Career: How to Start Investing & Build Wealth | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/",
+   "status": 200,
+   "title": "GoSmart - Commission-Free Trading & Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/fhsa.html",
+   "status": 200,
+   "title": "First Home Savings Account (FHSA) - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/ipos.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/gics.html",
+   "status": 200,
+   "title": "Guaranteed Investment Certificates (GICs) - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/etfs/commission-free-etfs.html",
+   "status": 200,
+   "title": "Commission-Free ETFs - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/etfs/commission-free-etfs.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/cash-account.html",
+   "status": 200,
+   "title": "Cash Account - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/etfs.html",
+   "status": 200,
+   "title": "Exchange-Traded Funds (ETFs) - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/options.html",
+   "status": 200,
+   "title": "Options - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/mutual-funds.html",
+   "status": 200,
+   "title": "Commission-Free Mutual Funds - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/margin-account.html",
+   "status": 200,
+   "title": "Margin Account - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/resp.html",
+   "status": 200,
+   "title": "Registered Education Savings Plan (RESP) - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/rrif.html",
+   "status": 200,
+   "title": "Registered Retirement Income Fund (RRIF) - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/non-personal-accounts.html",
+   "status": 200,
+   "title": "Non-Personal Accounts - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/tfsa.html",
+   "status": 200,
+   "title": "Tax-Free Savings Account (TFSA) - Self-Directed Investing | RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/tfsa.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/rrsp.html",
+   "status": 200,
+   "title": "Registered Retirement Savings Plan (RRSP) - Self-Directed Investing | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/",
+   "status": 200,
+   "title": "Client Privileges - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/client-privileges/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/active-trader-program.html",
+   "status": 200,
+   "title": "Active Trader Program - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/stocks.html",
+   "status": 200,
+   "title": "Stocks - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/quality-order-execution.html",
+   "status": 200,
+   "title": "Quality Order Execution - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/fhsa/gics-fhsa.html",
+   "status": 200,
+   "title": "FHSA GICs | First Home Savings Account | RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/trade-with-points.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/rbc-clients.html",
+   "status": 200,
+   "title": "Exclusive Benefits for RBC Clients - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/royal-distinction.html",
+   "status": 200,
+   "title": "Royal Distinction - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-privileges/royal-circle-membership.html",
+   "status": 200,
+   "title": "Royal Circle Membership - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/",
+   "status": 200,
+   "title": "Learn How to Trade and Invest - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/download-forms.html",
+   "status": 200,
+   "title": "Download Forms - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/",
+   "status": 200,
+   "title": "Manage Your Account - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/manage/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/investment-seminars/",
+   "status": 200,
+   "title": "Free Investment Seminars - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/investment-seminars/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/faqs.html",
+   "status": 200,
+   "title": "Top FAQs - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/practice-accounts.html",
+   "status": 200,
+   "title": "Practice Account - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/investing-for-beginners.html",
+   "status": 200,
+   "title": "Investing for Beginners - Learn The Basics of Investing | RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/investing-for-beginners.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/open-an-account.html",
+   "status": 200,
+   "title": "Open a Trading Account in Canada - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/open-an-account.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/transfer-from-another-brokerage.html",
+   "status": 200,
+   "title": "Transfer from Another Brokerage - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/trading-platform-tutorials.html",
+   "status": 200,
+   "title": "Trading Platform Tutorials - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/manage/trading-platform-tutorials.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/transfer-cash-points-securities.html",
+   "status": 200,
+   "title": "Transfer Cash, Avion Points or Securities - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/pre-authorized-contribution-plan.html",
+   "status": 200,
+   "title": "Set Up a Pre-Authorized Contribution (PAC) Plan - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/cash-margin-rates.html",
+   "status": 200,
+   "title": "Cash and Margin Interest Rates - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/",
+   "status": 200,
+   "title": "Commissions, Fees and Rates - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/pricing/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/gic-bond-rates.html",
+   "status": 200,
+   "title": "Bond Rates - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-platforms/online-investing.html",
+   "status": 200,
+   "title": "Online Investing and Trading Platform in Canada – RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/international-trading.html",
+   "status": 200,
+   "title": "Pricing - International Trading - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-platforms/mobile-trading.html",
+   "status": 200,
+   "title": "Trading and Investing on the RBC Mobile App – RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-platforms/",
+   "status": 200,
+   "title": "Find the Best Trading Platforms, Tools, and Research for You - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/trading-platforms/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/contact-us.html",
+   "status": 200,
+   "title": "Contact Us - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-tools-research/real-time-streaming-quotes.html",
+   "status": 200,
+   "title": "Real-Time Streaming Quotes - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-platforms/trading-dashboard.html",
+   "status": 200,
+   "title": "Trading Dashboard for Advanced Traders - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-tools-research/dividend-reinvestment-plan-drip.html",
+   "status": 200,
+   "title": "Dividend Reinvestment Plan - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-tools-research/pre-market-after-hours-trading.html",
+   "status": 200,
+   "title": "Pre-Market and After-Hours Trading - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-tools-research/",
+   "status": 200,
+   "title": "Trading and Investing Tools and Research - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/trading-tools-research/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanding-tfsas/imt5qgzq",
+   "status": 200,
+   "title": "Understanding Tax Free Savings Accounts (TFSAs)",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanding-rrsps/imi56y49",
+   "status": 200,
+   "title": "Understanding RRSPs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/tfsa-or-rrsp-which-one-is-right-for-me/l41e01ry",
+   "status": 200,
+   "title": "TFSA or RRSP: How to Find the Right Fit in 2023",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/tfsa-or-rrsp-which-one-is-right-for-me/l41e01ry",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/rrsps-explained-a-primer-for-investors/jr5b6ed9",
+   "status": 200,
+   "title": "RRSPs Explained: A Primer for Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/rrsps-explained-a-primer-for-investors/jr5b6ed9",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/frequent-trading-in-your-registered-accounts/kp1bu4tc",
+   "status": 200,
+   "title": "What to Know About Frequent Trading in Your TFSA, FHSA and Other Registered Accounts",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/frequent-trading-in-your-registered-accounts/kp1bu4tc",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/getting-ready-to-retire-maturity-options-for-your-rrsp/kkr40gac",
+   "status": 200,
+   "title": "Getting Ready To Retire: Maturity Options for Your RRSP",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/getting-ready-to-retire-maturity-options-for-your-rrsp/kkr40gac",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/will-i-get-a-tax-slip-for-the-new-first-home-savings-account/lsb6im03",
+   "status": 200,
+   "title": "Will I Get a Tax Slip for the New First Home Savings Account?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/will-i-get-a-tax-slip-for-the-new-first-home-savings-account/lsb6im03",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/are-etfs-the-craft-beer-of-modern-investing/jeoz839m",
+   "status": 200,
+   "title": "Are ETFs the Craft Beer of Modern Investing?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/are-etfs-the-craft-beer-of-modern-investing/jeoz839m",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-I-hold-in-my-FHSA/ljaii1yb",
+   "status": 200,
+   "title": "What Investments Can I Hold in My FHSA?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-I-hold-in-my-FHSA/ljaii1yb",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/evaluating-etfs-a-guide-and-some-shortcuts-to-finding-value/l41dzd86",
+   "status": 200,
+   "title": "Evaluating ETFs: A Guide — and Some Shortcuts — to Finding Value",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/evaluating-etfs-a-guide-and-some-shortcuts-to-finding-value/l41dzd86",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/navigators-serving-you-screeners-and-guides/kkr405yw",
+   "status": 200,
+   "title": "Navigators: Serving You, ETF & Mutual Fund Screeners, Investing Guides",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/navigators-serving-you-screeners-and-guides/kkr405yw",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/navigators-introducing-the-new-fhsa-plus-a-new-way-to-trade/lglkvbn4",
+   "status": 200,
+   "title": "Navigators: Introducing the New FHSA, Plus a New Way to Trade",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/navigators-introducing-the-new-fhsa-plus-a-new-way-to-trade/lglkvbn4",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/resp-withdrawals-6-things-to-consider/k11cl2lf",
+   "status": 200,
+   "title": "RESP Withdrawals: 6 Things to Consider",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/resp-withdrawals-6-things-to-consider/k11cl2lf",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/9-common-resp-related-questions-and-answers/j6h46oca",
+   "status": 200,
+   "title": "9 Common RESP-Related Questions & Answers",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/9-common-resp-related-questions-and-answers/j6h46oca",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-are-gics-and-how-do-they-fit-into-your-portfolio/l41dzwvd",
+   "status": 200,
+   "title": "What Are GICs and Do They Fit Into Your Portfolio?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-are-gics-and-how-do-they-fit-into-your-portfolio/l41dzwvd",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-start-a-diy-investing-journey/lu47hll8",
+   "status": 200,
+   "title": "How to Start a DIY Investing Journey",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-start-a-diy-investing-journey/lu47hll8",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-things-to-consider-when-investing/lsb6ilt5",
+   "status": 200,
+   "title": "Be Strategic: 5 Things to Keep in Mind When Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-things-to-consider-when-investing/lsb6ilt5",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/passive-income-how-to-make-your-money-work-for-you/lihw82xe",
+   "status": 200,
+   "title": "Passive Income: How to Make Your Money Work For You",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/passive-income-how-to-make-your-money-work-for-you/lihw82xe",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-happens-to-stock-and-bond-prices-when-rates-fall/lu47hltm",
+   "status": 200,
+   "title": "What Happens To Stock and Bond Prices When Rates Fall?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-happens-to-stock-and-bond-prices-when-rates-fall/lu47hltm",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-to-know-about-pre-market-and-after-hours-trading/lfsyf4e8",
+   "status": 200,
+   "title": "What to Know About Pre-Market and After-Hours Trading",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-to-know-about-pre-market-and-after-hours-trading/lfsyf4e8",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/think-of-it-like-this-drips-dividends-and-stock-splits/kp1bu81k",
+   "status": 200,
+   "title": "Think of it Like This: DRIPs, Dividends and Stock Splits",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/think-of-it-like-this-drips-dividends-and-stock-splits/kp1bu81k",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-ex-dividend-mean/jeoz883v",
+   "status": 200,
+   "title": "What Does Ex-Dividend Mean?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-ex-dividend-mean/jeoz883v",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-options-trading-means-to-emma/kkr40auz",
+   "status": 200,
+   "title": "What Options Trading Means to Emma: #InvestingTruths",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-options-trading-means-to-emma/kkr40auz",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-are-bonds-and-do-they-fit-into-your-portfolio/lglkvba1",
+   "status": 200,
+   "title": "What are Bonds and Do They Fit Into Your Portfolio?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-are-bonds-and-do-they-fit-into-your-portfolio/lglkvba1",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/orions-options-strategy/ju94s3ly",
+   "status": 200,
+   "title": "Investing Truths: Ask Orion About Options And He'll Give You His Opinion",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/orions-options-strategy/ju94s3ly",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/playing-catch-up-with-resps/j9vcz0vr",
+   "status": 200,
+   "title": "Playing Catch-Up With RESP Contributions & Grants",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/playing-catch-up-with-resps/j9vcz0vr",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/understanding-margin-accounts/kkr406jb",
+   "status": 200,
+   "title": "Understanding Margin Accounts",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/understanding-margin-accounts/kkr406jb",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/youve-opened-your-investing-account-now-what/jc1z7i00",
+   "status": 200,
+   "title": "You've Opened Your Investing Account. Now What?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/youve-opened-your-investing-account-now-what/jc1z7i00",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-things-to-know-about-rrif-withdrawals/k72133op",
+   "status": 200,
+   "title": "5 Things to Know About RRIF Withdrawals",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-things-to-know-about-rrif-withdrawals/k72133op",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/navigators-rrif-edit-feature-value-analyzer-launch/kkr40h3r",
+   "status": 200,
+   "title": "Navigators: RRIF Edit Feature, Value Analyzer Launch",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/navigators-rrif-edit-feature-value-analyzer-launch/kkr40h3r",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/beginner-investing-basics-ama-with-dimitri-busevs-recap/",
+   "status": 200,
+   "title": "Investing for Beginners: Top Insights from Our CEO’s Reddit AMA",
+   "canonical": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/beginner-investing-basics-ama-with-dimitri-busevs-recap/",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/dividens-dates-and-terminology-things-to-know/kk8h6brh/kk8h6bry",
+   "status": 200,
+   "title": "Dividends, Dates & Terminology: Things to Know",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/dividens-dates-and-terminology-things-to-know/kk8h6brh/kk8h6bry",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-much-can-i-contribute-to-my-tfsa/ki58km3m/ki58km3u",
+   "status": 200,
+   "title": "How Much Can I Contribute to My TFSA?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-much-can-i-contribute-to-my-tfsa/ki58km3m/ki58km3u",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-resps-the-basics/kwe96arf/kwe96au3",
+   "status": 200,
+   "title": "Understanding RESPs: The Basics",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-resps-the-basics/kwe96arf/kwe96au3",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/resp-faqs-your-questions-answered/kwe96asg/kwe96au3",
+   "status": 200,
+   "title": "RESP FAQs: Your Questions Answered",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/resp-faqs-your-questions-answered/kwe96asg/kwe96au3",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-is-an-etf/k6sij6da/k6sij6do",
+   "status": 200,
+   "title": "Your Guide to ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-is-an-etf/k6sij6da/k6sij6do",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/top-10-traded-stocks-and-etfs/lz3f0nm4",
+   "status": 200,
+   "title": "Top 10 Traded Stocks and ETFs in September 2026",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/top-10-traded-stocks-and-etfs/lz3f0nm4",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/mutual-fund-types/kbs73dbx/kbs73dc8",
+   "status": 200,
+   "title": "Mutual Fund Types",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/mutual-fund-types/kbs73dbx/kbs73dc8",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/dividends-types-ratios-and-risks/kk8h6brq/kk8h6bry",
+   "status": 200,
+   "title": "Dividends: Types, Ratios & Risks",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/dividends-types-ratios-and-risks/kk8h6brq/kk8h6bry",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/fhsa-three-years/mmzll6xf",
+   "status": 200,
+   "title": "Happy 3rd FHSA anniversary: Here's what you should know by now",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/fhsa-three-years/mmzll6xf",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/rrif-faqs-find-the-answers-you-need/ki58kjjw/ki58kjqy",
+   "status": 200,
+   "title": "RRIF FAQs: Find the Answers You Need",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/rrif-faqs-find-the-answers-you-need/ki58kjjw/ki58kjqy",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-are-options/jv7atfyu/jv7atg0t",
+   "status": 200,
+   "title": "What Are Options?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-are-options/jv7atfyu/jv7atg0t",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-drip/jeoz82ib",
+   "status": 200,
+   "title": "What is a DRIP?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-drip/jeoz82ib",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/last-minute-rrsp-planning/kkr4094b",
+   "status": 200,
+   "title": "Last-Minute RRSP Planning: Deadline, Limits and More",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/last-minute-rrsp-planning/kkr4094b",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-is-a-mutual-fund/kbs73dbr/kbs73dc8",
+   "status": 200,
+   "title": "What is a Mutual Fund?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-is-a-mutual-fund/kbs73dbr/kbs73dc8",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/types-of-fixed-income/kbs73ceq/kbs73cf0",
+   "status": 200,
+   "title": "Types of Fixed Income",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/types-of-fixed-income/kbs73ceq/kbs73cf0",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-trade-options/jv7atfyq/jv7atg0t",
+   "status": 200,
+   "title": "Why Trade Options?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-trade-options/jv7atfyq/jv7atg0t",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-buy-and-sell-stocks/jv7atg15/jv7atg1j",
+   "status": 200,
+   "title": "Trading Stocks: What You Need to Know to Get Started",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-buy-and-sell-stocks/jv7atg15/jv7atg1j",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/fhsa-first-home-savings-account/l41e013p",
+   "status": 200,
+   "title": "FHSA: 9 Questions Answered About the First Home Savings Account",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/fhsa-first-home-savings-account/l41e013p",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-make-etfs-a-part-of-your-portfolio/man85dno",
+   "status": 200,
+   "title": "How to build a portfolio with ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-make-etfs-a-part-of-your-portfolio/man85dno",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-rrifs-what-you-need-to-know/ki58kjje/ki58kjqy",
+   "status": 200,
+   "title": "Understanding RRIFs: The Basics",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-rrifs-what-you-need-to-know/ki58kjje/ki58kjqy",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/frequently-asked-questions-etfs/k6sij6cn/k6sij6do",
+   "status": 200,
+   "title": "Frequently Asked Questions: ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/frequently-asked-questions-etfs/k6sij6cn/k6sij6do",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-do-etfs-compare-to-mutual-funds/k6sij6cs/k6sij6do",
+   "status": 200,
+   "title": "How Do ETFs Compare to Mutual Funds?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-do-etfs-compare-to-mutual-funds/k6sij6cs/k6sij6do",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-trade-etfs/k6sij6d3/k6sij6do",
+   "status": 200,
+   "title": "The Benefits and Risks of ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-trade-etfs/k6sij6d3/k6sij6do",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-i-hold-in-my-tfsa/jeoz86ou",
+   "status": 200,
+   "title": "What Investments Can I Hold in My TFSA?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-i-hold-in-my-tfsa/jeoz86ou",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/options-trading-account/jv7atfyr/jv7atg0t",
+   "status": 200,
+   "title": "Open an Options Trading Account",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/options-trading-account/jv7atfyr/jv7atg0t",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/key-benefits-of-investing-in-stocks/jv7atg13/jv7atg1j",
+   "status": 200,
+   "title": "Key Benefits of Investing In Stocks",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/key-benefits-of-investing-in-stocks/jv7atg13/jv7atg1j",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-buy-and-sell-etfs/k6sij6d0/k6sij6do",
+   "status": 200,
+   "title": "How to Buy and Sell ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-buy-and-sell-etfs/k6sij6d0/k6sij6do",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/types-of-options/jv7atfys/jv7atg0t",
+   "status": 200,
+   "title": "Types of Options: Calls and Puts Explained",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/types-of-options/jv7atfys/jv7atg0t",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/your-investment-choices/jv7atfjh/jv7atfto",
+   "status": 200,
+   "title": "Navigating Accounts & Investments",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/your-investment-choices/jv7atfjh/jv7atfto",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/do-i-need-an-rrsp-a-tfsa-or-both/lu47hogr",
+   "status": 200,
+   "title": "Do I Need an RRSP, a TFSA or Both?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/do-i-need-an-rrsp-a-tfsa-or-both/lu47hogr",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-i-hold-in-my-rrsp/joxhd1px",
+   "status": 200,
+   "title": "What Investments Can I Hold in My RRSP?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-i-hold-in-my-rrsp/joxhd1px",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-questions-to-ask-before-investing-in-an-ipo/ju94s42e",
+   "status": 200,
+   "title": "5 Questions to Ask Before Investing in an IPO",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-questions-to-ask-before-investing-in-an-ipo/ju94s42e",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/naming-a-beneficiary/jv7atetx/jv7ateum",
+   "status": 200,
+   "title": "Naming a Beneficiary: Choices for Your Account Type",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/naming-a-beneficiary/jv7atetx/jv7ateum",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/etf-fees-explained/k6sij6db/k6sij6do",
+   "status": 200,
+   "title": "ETF Fees Explained",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/etf-fees-explained/k6sij6db/k6sij6do",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-tfsas/ki58km35/ki58km3u",
+   "status": 200,
+   "title": "Understanding TFSAs: What They Are and How You Can Use Them",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-tfsas/ki58km35/ki58km3u",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/video-get-to-know-the-first-home-savings-account/lglkv9ka",
+   "status": 200,
+   "title": "VIDEO: Get to Know the First Home Savings Account",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/video-get-to-know-the-first-home-savings-account/lglkv9ka",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/comparing-tfsas-rrsps-and-resps/ki58klvt",
+   "status": 200,
+   "title": "Comparing TFSAs, RRSPs and RESPs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/comparing-tfsas-rrsps-and-resps/ki58klvt",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-will-i-get-my-rrsp-contribution-tax-receipt/k57h3js5",
+   "status": 200,
+   "title": "When Will I Get My RRSP Contribution Tax Receipt?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-will-i-get-my-rrsp-contribution-tax-receipt/k57h3js5",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-spousal-rrsp/kedfik54",
+   "status": 200,
+   "title": "What is a Spousal RRSP?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-spousal-rrsp/kedfik54",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/should-i-expect-a-tax-slip-for-my-tfsa/jtdhaok5",
+   "status": 200,
+   "title": "Should I Expect a Tax Slip for My TFSA?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/should-i-expect-a-tax-slip-for-my-tfsa/jtdhaok5",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-is-the-FHSA-contribution-deadline/lp92ocs2",
+   "status": 200,
+   "title": "When is the FHSA Contribution Deadline?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-is-the-FHSA-contribution-deadline/lp92ocs2",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-stock-split/jeoz89qo",
+   "status": 200,
+   "title": "What is a Stock Split?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-stock-split/jeoz89qo",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-find-a-stocks-real-value/kp1bui8q",
+   "status": 200,
+   "title": "How to Find a Stock's Real Value: A Pro Shares 5 Tools for Fundamental Analysis",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-find-a-stocks-real-value/kp1bui8q",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/reverse-stock-splits-explained/kkr40c9l",
+   "status": 200,
+   "title": "Reverse Stock Splits Explained",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/reverse-stock-splits-explained/kkr40c9l",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-makes-stock-prices-rise-and-fall/joxhcy1z",
+   "status": 200,
+   "title": "Understanding Why Stock Prices Rise and Fall",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-makes-stock-prices-rise-and-fall/joxhcy1z",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/6-things-to-know-about-stock-market-crashes-and-downturns/l41dzf9m",
+   "status": 200,
+   "title": "6 Things To Know About Stock Market Crashes and Downturns",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/6-things-to-know-about-stock-market-crashes-and-downturns/l41dzf9m",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/how-the-stock-market-and-the-economy-are-connected/l41dzdjw",
+   "status": 200,
+   "title": "How the Stock Market and the Economy are Connected",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/how-the-stock-market-and-the-economy-are-connected/l41dzdjw",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/3-steps-to-thinking-like-an-equity-analyst/k72136ti",
+   "status": 200,
+   "title": "3 Steps to Thinking Like an Equity Analyst",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/3-steps-to-thinking-like-an-equity-analyst/k72136ti",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-avoid-common-and-costly-stock-order-mistakes/l41e00lq",
+   "status": 200,
+   "title": "3 Common Trading Mistakes and How To Avoid Them",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-avoid-common-and-costly-stock-order-mistakes/l41e00lq",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/6-things-to-know-about-penny-stocks/kp1bu9fe",
+   "status": 200,
+   "title": "6 Things to Know About Penny Stocks",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/6-things-to-know-about-penny-stocks/kp1bu9fe",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/crypto-curious-what-you-need-to-know-about-crypto-etfs/m62i1gk2",
+   "status": 200,
+   "title": "Crypto-curious? What You Need to Know About Crypto ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/crypto-curious-what-you-need-to-know-about-crypto-etfs/m62i1gk2",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/theres-an-etf-for-that/man85dlr",
+   "status": 200,
+   "title": "There's an ETF for That!",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/theres-an-etf-for-that/man85dlr",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/know-your-shareholder-rights-whether-you-own-1-stock-or-thousands/kp1buh2h",
+   "status": 200,
+   "title": "Know Your Shareholder Rights, Whether You Own One Share or Thousands",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/know-your-shareholder-rights-whether-you-own-1-stock-or-thousands/kp1buh2h",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/dividends/m8u7e204",
+   "status": 200,
+   "title": "Thinking About Dividend Stocks? Here's What You Need to Know",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/dividends/m8u7e204",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-stop-loss-order/jiuyttls",
+   "status": 200,
+   "title": "What are Stop and Stop-Limit Orders?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-stop-loss-order/jiuyttls",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-to-know-about-having-a-canadian-and-us-side-to-your-account/kp1buifn/kp1buigg",
+   "status": 200,
+   "title": "What to Know About Having a Canadian and U.S. Side to Your Account",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-to-know-about-having-a-canadian-and-us-side-to-your-account/kp1buifn/kp1buigg",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/tfsa-faqs/ki58km3e/ki58km3u",
+   "status": 200,
+   "title": "TFSA FAQs: Your Questions Answered",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/tfsa-faqs/ki58km3e/ki58km3u",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-w-8ben-form/kedfil8s",
+   "status": 200,
+   "title": "What is a W-8BEN Form and Why Does It Matter?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-w-8ben-form/kedfil8s",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/contribution-receipts-and-tax-documents/ki58ki3c/ki58ki3a",
+   "status": 200,
+   "title": "Contribution Receipts & Tax Documents: Dates for Online Access and Mail-Outs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/contribution-receipts-and-tax-documents/ki58ki3c/ki58ki3a",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/can-i-withdraw-my-money-as-soon-as-i-sell-a-stock/kkr40cjr",
+   "status": 200,
+   "title": "Can I Withdraw My Money as Soon as I Sell a Stock?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/can-i-withdraw-my-money-as-soon-as-i-sell-a-stock/kkr40cjr",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/playing-catch-up-with-resps/j9vcz0vr",
+   "status": 200,
+   "title": "Playing Catch-Up With RESP Contributions & Grants",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/playing-catch-up-with-resps/j9vcz0vr",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-book-value-and-why-does-it-matter/kp1buf1q",
+   "status": 200,
+   "title": "What is Book Value and Why Does it Matter?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-book-value-and-why-does-it-matter/kp1buf1q",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/7-ways-to-get-ahead-in-2026/mj5kv8mz",
+   "status": 200,
+   "title": "7 Ways to Get Ahead Financially in 2026",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/7-ways-to-get-ahead-in-2026/mj5kv8mz",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/access-your-rbc-tax-documents-online/ki58ki38/ki58ki3a",
+   "status": 200,
+   "title": "How to Access Your RBC Tax Documents Online",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/access-your-rbc-tax-documents-online/ki58ki38/ki58ki3a",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/tax-year-important-dates/ki58ki37/ki58ki3a",
+   "status": 200,
+   "title": "Investment & Tax Season Centre",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/tax-year-important-dates/ki58ki37/ki58ki3a",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-will-my-transfer-be-complete/kkr40b9s",
+   "status": 200,
+   "title": "When Will My Transfer be Complete?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-will-my-transfer-be-complete/kkr40b9s",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/inflation/mj5kv8ce",
+   "status": 200,
+   "title": "How Inflation-Proof Are Your Investments?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/inflation/mj5kv8ce",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-to-do-with-a-physical-stock-certificate/ki58kjmv",
+   "status": 200,
+   "title": "What To Do With a Physical Stock Certificate",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-to-do-with-a-physical-stock-certificate/ki58kjmv",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-an-earnings-beat-or-miss/jiuytvqe",
+   "status": 200,
+   "title": "What Does it Mean When a Company \"Beats\" or “Misses\" Earnings?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-an-earnings-beat-or-miss/jiuytvqe",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/limit-and-market-orders-whats-the-difference/jeoz83fq",
+   "status": 200,
+   "title": "Limit or Market Order: Which One Should I Choose?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/limit-and-market-orders-whats-the-difference/jeoz83fq",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/tax-season-faqs/ki58ki31/ki58ki3a",
+   "status": 200,
+   "title": "Frequently Asked Questions: Tax Season",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/tax-season-faqs/ki58ki31/ki58ki3a",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-basics/kbs73cez/kbs73cf0",
+   "status": 200,
+   "title": "Fixed Income: The Basics",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-basics/kbs73cez/kbs73cf0",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/active-vs-passive/jv7atfjw/jv7atfto",
+   "status": 200,
+   "title": "Active vs Passive Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/active-vs-passive/jv7atfjw/jv7atfto",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/shares-outstanding-vs-float/jk0dlma0",
+   "status": 200,
+   "title": "An Investor's Guide to Shares Outstanding vs Public Float",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/shares-outstanding-vs-float/jk0dlma0",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/here-are-your-company-balance-sheet-crib-notes/lu47hl39",
+   "status": 200,
+   "title": "Here Are Your Company Balance Sheet Crib Notes",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/here-are-your-company-balance-sheet-crib-notes/lu47hl39",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-make-gold-part-of-your-portfolio/lxq8vmfk",
+   "status": 200,
+   "title": "Thinking About How Gold Could Be Part of Your Portfolio?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-make-gold-part-of-your-portfolio/lxq8vmfk",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/cash-and-margin-accounts-an-overview/kwe96agw/kwe96aic",
+   "status": 200,
+   "title": "Cash & Margin Accounts: An Overview",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/cash-and-margin-accounts-an-overview/kwe96agw/kwe96aic",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/analyzing-the-numbers-in-sports-and-investing/j3tai76k",
+   "status": 200,
+   "title": "What P/E Ratio Tells You About a Stock",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/analyzing-the-numbers-in-sports-and-investing/j3tai76k",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-reit/jwcq62s4",
+   "status": 200,
+   "title": "What is a REIT?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-reit/jwcq62s4",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-it-mean-to-be-a-shareholder/jk0dlkvw",
+   "status": 200,
+   "title": "What Does It Mean To Be a Shareholder?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-it-mean-to-be-a-shareholder/jk0dlkvw",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-buyback/jk0dln8a",
+   "status": 200,
+   "title": "Decoding Share Buybacks: How Do They Work?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-a-buyback/jk0dln8a",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/stock-splits-explained/ki58kjdv",
+   "status": 200,
+   "title": "Stock Splits Explained",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/stock-splits-explained/ki58kjdv",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/why-is-there-a-one-day-delay-to-trade/lu47hlzs",
+   "status": 200,
+   "title": "From T2 to T1: What To Expect Now That Trades Will Settle in Just One Day",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/why-is-there-a-one-day-delay-to-trade/lu47hlzs",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-you-need-to-know-about-analyst-reports/lu47hjai",
+   "status": 200,
+   "title": "Buy, Sell Or Hold? What You Need To Know About Analyst Reports",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-you-need-to-know-about-analyst-reports/lu47hjai",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/the-exchange-rate-effect/m80gui7w",
+   "status": 200,
+   "title": "Dealing with Dollars: Understanding how Exchange Rates can Affect Your Portfolio",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/the-exchange-rate-effect/m80gui7w",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/pay-down-your-mortgage-or-invest/mfd85ljo",
+   "status": 200,
+   "title": "Should I Invest or Pay Down My Mortgage?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/pay-down-your-mortgage-or-invest/mfd85ljo",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/i-want-to-add-money-to-my-account/kkr40bdw/kkr40bfa",
+   "status": 200,
+   "title": "I Want to Add Money to My Account",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/i-want-to-add-money-to-my-account/kkr40bdw/kkr40bfa",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/who-can-i-name-as-a-beneficiary/jv7ateu4/jv7ateum",
+   "status": 200,
+   "title": "Who Can I Name as Beneficiary for My Registered Accounts?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/who-can-i-name-as-a-beneficiary/jv7ateu4/jv7ateum",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-option-risk/jv7atfyn/jv7atg0t",
+   "status": 200,
+   "title": "Understanding the Risks of Trading Options",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-option-risk/jv7atfyn/jv7atg0t",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/technology-gadgets-any-diy-investor-would-love/jr5b6dof",
+   "status": 200,
+   "title": "DIY Investors Will Love These New Gadgets",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/technology-gadgets-any-diy-investor-would-love/jr5b6dof",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-beta/jiuytuor",
+   "status": 200,
+   "title": "Explainer: How Beta Relates to Your Investments",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-beta/jiuytuor",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/3-steps-to-planning-your-retirement/kbs73hkf/kbs73hkc",
+   "status": 200,
+   "title": "3 Steps to Planning Your Retirement",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/3-steps-to-planning-your-retirement/kbs73hkf/kbs73hkc",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-use-your-us-dollar-investing-account/kp1buifz/kp1buigg",
+   "status": 200,
+   "title": "How to Use Your U.S. Dollar Investing Account",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-use-your-us-dollar-investing-account/kp1buifz/kp1buigg",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/know-the-lingo-stocks/jv7atg17/jv7atg1j",
+   "status": 200,
+   "title": "Know the Lingo: Stock Trading Terms",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/know-the-lingo-stocks/jv7atg17/jv7atg1j",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-are-stocks/jv7atg16/jv7atg1j",
+   "status": 200,
+   "title": "Stocks, Shares or Equities: Call Them What You Want, This is What They Are",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-are-stocks/jv7atg16/jv7atg1j",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-is-my-investment-income-taxed/kjz3nb4v",
+   "status": 200,
+   "title": "How is My Investment Income Taxed?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-is-my-investment-income-taxed/kjz3nb4v",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/rrsp-faqs/ki58kkl4/kbs73hkc",
+   "status": 200,
+   "title": "RRSP FAQs: Your Questions Answered",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/rrsp-faqs/ki58kkl4/kbs73hkc",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/international-trading-your-questions-answered-6-key-considerations/m124mjfc/m124mjfa",
+   "status": 200,
+   "title": "9 International Trading Questions Answered + What to Know to Get Started",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/international-trading-your-questions-answered-6-key-considerations/m124mjfc/m124mjfa",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-are-preferred-shares/jeoz84j0",
+   "status": 200,
+   "title": "What are Preferred Shares?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-are-preferred-shares/jeoz84j0",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/morgan-housel-art-of-spending/miaiynlu",
+   "status": 200,
+   "title": "The Art of Spending: 5 Takeaways from Morgan Housel’s New Book",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/morgan-housel-art-of-spending/miaiynlu",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/eligible-securities-and-margin-at-rbc-direct-investing/kwe96ai3/kwe96aic",
+   "status": 200,
+   "title": "Eligible Securities & Margin at RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/eligible-securities-and-margin-at-rbc-direct-investing/kwe96ai3/kwe96aic",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/full-suite-account-experience/",
+   "status": 200,
+   "title": "Full Suite Account Experience - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/full-suite-account-experience/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-documents-can-i-get-electronically/k11cl531",
+   "status": 200,
+   "title": "What Documents Can I Get Electronically?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-documents-can-i-get-electronically/k11cl531",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-short-selling-and-how-does-it-work/jtdhaocc",
+   "status": 200,
+   "title": "What is Short Selling and How Does it Work?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-short-selling-and-how-does-it-work/jtdhaocc",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/automated-account-services/kbs73f8h",
+   "status": 200,
+   "title": "Automated Account Services",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/automated-account-services/kbs73f8h",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/invest-or-take-a-vacation/man85dhj",
+   "status": 200,
+   "title": "Should You Spend Money on a Vacation or Invest Instead? Maybe Both",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/invest-or-take-a-vacation/man85dhj",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/index",
+   "status": 200,
+   "title": "Investing Academy",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/download-account-form.html",
+   "status": 200,
+   "title": "Download and Print an Application - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-tools-research/index.html",
+   "status": 200,
+   "title": "Trading and Investing Tools and Research - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/trading-tools-research/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-account-type-suits-you/k57h3mls",
+   "status": 200,
+   "title": "Which Account Type Suits You? We Asked Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-account-type-suits-you/k57h3mls",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/online-security-guarantee.html",
+   "status": 200,
+   "title": "Online Security Guarantee - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/inspired-investor/index",
+   "status": 200,
+   "title": "Inspired Investor",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/_assets-custom/includes/unclaimed-property.html",
+   "status": 200,
+   "title": "Unclaimed Property - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/_assets-custom/includes/accessibility/rbcdiaccess.html",
+   "status": 200,
+   "title": "Accessibility - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/protecting-your-privacy.html",
+   "status": 200,
+   "title": "Protecting Your Privacy - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-buy-stocks/jv7atg18/jv7atg1j",
+   "status": 200,
+   "title": "Why Investors Buy Stocks",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-buy-stocks/jv7atg18/jv7atg1j",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/index.html",
+   "status": 200,
+   "title": "Commissions, Fees and Rates - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/pricing/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/gosmart/conditions/100.html",
+   "status": 200,
+   "title": "Legal Disclaimers",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pdf/complaint-and-resolution-policy-en.html",
+   "status": 200,
+   "title": "RBC Direct Investing Inc. (“RBC DI”) - Client Complaint Examination and Resolution Policy Overview - RBC DirectInvesting",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/dms/cashback/conditions/offer.html",
+   "status": 200,
+   "title": "RBC Direct Investing Summer-Fall 2026 Cash Offer – Terms and Conditions",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-key-benefits/kbs73cf4/kbs73cf0",
+   "status": 200,
+   "title": "Fixed Income: Key Benefits",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-key-benefits/kbs73cf4/kbs73cf0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/index.html",
+   "status": 200,
+   "title": "Self-Directed Accounts & Investments - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/index.html",
+   "status": 200,
+   "title": "Online Investing and Trading - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/index.html",
+   "status": 200,
+   "title": "GoSmart - Commission-Free Trading & Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-faqs/kbs73cex/kbs73cf0",
+   "status": 200,
+   "title": "Fixed Income FAQs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-faqs/kbs73cex/kbs73cf0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-risk-v-return/kbs73cey/kbs73cf0",
+   "status": 200,
+   "title": "Fixed Income: Risk vs. Return",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/fixed-income-risk-v-return/kbs73cey/kbs73cf0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-platforms/index.html",
+   "status": 200,
+   "title": "Find the Best Trading Platforms, Tools, and Research for You - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/trading-platforms/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-research-options/kp1bu6mr/kp1bu66o",
+   "status": 200,
+   "title": "How to Research Options",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-research-options/kp1bu6mr/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-place-an-options-order/kp1bu668/kp1bu66o",
+   "status": 200,
+   "title": "How to Place an Options Order",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-place-an-options-order/kp1bu668/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/income-funds-demystified/kbs73dc0/kbs73dc8",
+   "status": 200,
+   "title": "Income Funds Demystified",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/income-funds-demystified/kbs73dc0/kbs73dc8",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/types-of-resps-and-investment-choices/kwe96aro/kwe96au3",
+   "status": 200,
+   "title": "Types of RESPs & Investment Choices",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/types-of-resps-and-investment-choices/kwe96aro/kwe96au3",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/preparing-for-retirement-tax-efficiency/kbs73hkb/kbs73hkc",
+   "status": 200,
+   "title": "Preparing for Retirement? Focus on Tax Efficiency",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/preparing-for-retirement-tax-efficiency/kbs73hkb/kbs73hkc",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/grants-available-for-rbc-direct-investing-resps/kwe96as5/kwe96au3",
+   "status": 200,
+   "title": "Grants Available for RBC Direct Investing RESPs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/grants-available-for-rbc-direct-investing-resps/kwe96as5/kwe96au3",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/options-trading-strategies/jv7atfyl/jv7atg0t",
+   "status": 200,
+   "title": "Options Trading Strategies",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/options-trading-strategies/jv7atfyl/jv7atg0t",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-do-you-use-your-tfsa/jbcaphcr",
+   "status": 200,
+   "title": "How Do You Use Your TFSA? 3 Personal Stories",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-do-you-use-your-tfsa/jbcaphcr",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/looking-ahead-how-and-why-investors-project-investment-income/lihw82pd",
+   "status": 200,
+   "title": "Looking Ahead: How and Why Investors Project Investment Income",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/looking-ahead-how-and-why-investors-project-investment-income/lihw82pd",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/get-started-your-way/kkr40beb/kkr40bfa",
+   "status": 200,
+   "title": "Your Guide to Getting Started",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/get-started-your-way/kkr40beb/kkr40bfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/an-overview-of-the-trading-dashboard/kp1bu63n/kp1bu66o",
+   "status": 200,
+   "title": "An Overview of the Trading Dashboard",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/an-overview-of-the-trading-dashboard/kp1bu63n/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/owning-a-non-qualified-investment-can-be-costly/k8kupbpp",
+   "status": 200,
+   "title": "Owning a Non-Qualified Investment Can be Costly",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/owning-a-non-qualified-investment-can-be-costly/k8kupbpp",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-rrsps/kbs73hkd/kbs73hkc",
+   "status": 200,
+   "title": "Understanding RRSPs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/understanding-rrsps/kbs73hkd/kbs73hkc",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/risk-v-return-stocks/jv7atg19/jv7atg1j",
+   "status": 200,
+   "title": "Stocks: Understanding the Risk-Return Relationship",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/risk-v-return-stocks/jv7atg19/jv7atg1j",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/investment-seminars/index.html",
+   "status": 200,
+   "title": "Free Investment Seminars - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/investment-seminars/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/netaction/footer-legalterms.html",
+   "status": 200,
+   "title": "Legal Terms of Use",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/netaction/footer-privacy.html",
+   "status": 200,
+   "title": "Use of Your Personal Information",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/index.html",
+   "status": 200,
+   "title": "Learn How to Trade and Invest - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-use-chart-widgets/kp1bu6lx/kp1bu66o",
+   "status": 200,
+   "title": "How to Use Chart Widgets",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-use-chart-widgets/kp1bu6lx/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/netaction/footer-disclaimer.html",
+   "status": 200,
+   "title": "Disclaimer",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/netaction/footer-security.html",
+   "status": 200,
+   "title": "Security",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/index",
+   "status": 200,
+   "title": "Now and Noteworthy",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/index",
+   "status": 200,
+   "title": "Level Up",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/index",
+   "status": 200,
+   "title": "Ideas & Motivation",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/inspired-investor/index.page",
+   "status": 200,
+   "title": "Inspired Investor",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/split-share-funds/mt4cg5cw",
+   "status": 200,
+   "title": "Split Share Funds: The Fund You've Probably Never Heard Of",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/split-share-funds/mt4cg5cw",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/bank-impersonation-scams/mrqeu105",
+   "status": 200,
+   "title": "How To Spot a Bank Impersonation Scam and What To Do Next",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/bank-impersonation-scams/mrqeu105",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/series/investing-guides/index",
+   "status": 200,
+   "title": "Investing Guides",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/series/question-of-the-week/index",
+   "status": 200,
+   "title": "Question of the Week",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/series/investing-truths/index",
+   "status": 200,
+   "title": "Investing Truths",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/index.page",
+   "status": 200,
+   "title": "Investing Academy",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/maturity-options-for-retirement-savings/jeoz806q",
+   "status": 200,
+   "title": "Getting ready to retire: Maturity options for your retirement savings plans",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/big-question-what-is-pe-ratio/mrqeu0tb",
+   "status": 200,
+   "title": "The Big Question: Is the P/E Ratio a Reliable Metric for Investors Today?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/big-question-what-is-pe-ratio/mrqeu0tb",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/why-arent-markets-moving-on-tarriff-news/mt4cg54a",
+   "status": 200,
+   "title": "Why Aren’t Markets Moving on Tariff News?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/why-arent-markets-moving-on-tarriff-news/mt4cg54a",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/gen-z-and-prediction-markets/mt4cg5be",
+   "status": 200,
+   "title": "'This is the New Casino': Why Gen Z Is Betting on Sports and Prediction Markets",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/gen-z-and-prediction-markets/mt4cg5be",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/index.page",
+   "status": 200,
+   "title": "Now and Noteworthy",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/ipo-mechanics/mrk74vhh",
+   "status": 200,
+   "title": "IPOs Explained: Pricing, Share Allocations and Lock-Up Periods",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/ipo-mechanics/mrk74vhh",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/resp-grants/iw8kfo98",
+   "status": 200,
+   "title": "Government grants to help grow RESPs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/options-risk-vs-return/j7sfxddq",
+   "status": 200,
+   "title": "Options: Risk vs. Return",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/barry-ritholtz-how-not-to-invest/mt4cg5ai",
+   "status": 200,
+   "title": "The Psychology Behind Better Investing Decisions with Author Barry Ritholtz",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/barry-ritholtz-how-not-to-invest/mt4cg5ai",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-is-a-drip/jeoz82ib",
+   "status": 200,
+   "title": "What is a DRIP?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-is-a-drip/jeoz82ib",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/index.page",
+   "status": 200,
+   "title": "Ideas & Motivation",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/making-investing-cool-for-kids/mt4cg59y",
+   "status": 200,
+   "title": "Beyond Just Spending: How to Spark an Interest in Money With Kids",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/making-investing-cool-for-kids/mt4cg59y",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/key-benefits-of-resps/kwe96arx/kwe96au3",
+   "status": 200,
+   "title": "Key Benefits of RESPs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/key-benefits-of-resps/kwe96arx/kwe96au3",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/barbell-and-other-investing-strategies/mrqeu0ww",
+   "status": 200,
+   "title": "Beyond ‘Buy and Hold’: 4 Investment Strategies You May Not Have Heard Of",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/barbell-and-other-investing-strategies/mrqeu0ww",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/automated-account-services/io26e79h",
+   "status": 200,
+   "title": "Automated Account Services",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-and-whys-of-dollarcostaveraging/jlxqhfyh",
+   "status": 200,
+   "title": "The What and Whys of Dollar-Cost Averaging",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-and-whys-of-dollarcostaveraging/jlxqhfyh",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-find-your-rrif-info-online/kjqa5y3y/ki58kjqy",
+   "status": 200,
+   "title": "How to View Your RRIF Information and Make Changes",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-find-your-rrif-info-online/kjqa5y3y/ki58kjqy",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/practice-trading-stocks/jv7atg14/jv7atg1j",
+   "status": 200,
+   "title": "Try It! Practice Trading Stocks",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/practice-trading-stocks/jv7atg14/jv7atg1j",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/tfsa-faqs/imt5qgzm",
+   "status": 200,
+   "title": "TFSAs: Frequently Asked Questions",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/key-features-of-rrifs/kkr40fic/ki58kjqy",
+   "status": 200,
+   "title": "Key Features of RRIFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/key-features-of-rrifs/kkr40fic/ki58kjqy",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-etfs-are-created/k6sij6dg/k6sij6do",
+   "status": 200,
+   "title": "How ETFs are Created: A Deeper Dive",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-etfs-are-created/k6sij6dg/k6sij6do",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-find-and-research-etfs/k6sij6cp/k6sij6do",
+   "status": 200,
+   "title": "How to Find and Research ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-find-and-research-etfs/k6sij6cp/k6sij6do",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/etfs-glossary/k6sij6cw/k6sij6do",
+   "status": 200,
+   "title": "ETF Glossary: Key Terms to Know",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/etfs-glossary/k6sij6cw/k6sij6do",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/asset-mix-explained/jv7atfjm/jv7atfto",
+   "status": 200,
+   "title": "Asset Mix Explained",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/asset-mix-explained/jv7atfjm/jv7atfto",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/non-personal-accounts/imi56yl6",
+   "status": 200,
+   "title": "Non-Personal Accounts",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/video-buy-and-sell-stocks/jlra692s",
+   "status": 200,
+   "title": "How to Buy and Sell a Stock With RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/practice-trading-options/jv7atfyi/jv7atg0t",
+   "status": 200,
+   "title": "Try It! Practice Trading Options",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/practice-trading-options/jv7atfyi/jv7atg0t",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/growth-vs-value/jv7atfjr/jv7atfto",
+   "status": 200,
+   "title": "Growth vs Value Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/growth-vs-value/jv7atfjr/jv7atfto",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanging-resps/ilsa7rar",
+   "status": 200,
+   "title": "Understanding RESPs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/3-ways-to-research-your-investments-like-a-boss/jtdhanpg",
+   "status": 200,
+   "title": "How to Research Like a Boss",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/3-ways-to-research-your-investments-like-a-boss/jtdhanpg",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/this-moat-isnt-protecting-a-castle/jeoz846z",
+   "status": 200,
+   "title": "Competitive Edge: Economic Moats Explained",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/this-moat-isnt-protecting-a-castle/jeoz846z",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/resp-faqs/imi56ylg",
+   "status": 200,
+   "title": "RESPs: Frequently Asked Questions",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/know-the-lingo-beneficiaries/jv7ateu7/jv7ateum",
+   "status": 200,
+   "title": "Know the Lingo: Beneficiary Terms",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/know-the-lingo-beneficiaries/jv7ateu7/jv7ateum",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/limit-and-market-orders-whats-the-difference/jeoz83fq",
+   "status": 200,
+   "title": "Limit or Market Order: Which One Should I Choose?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/limit-and-market-orders-whats-the-difference/jeoz83fq",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/takeovers-what-they-mean-for-your-shares/j535om1u",
+   "status": 200,
+   "title": "Takeovers: What They Can Mean for Your Shares",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/takeovers-what-they-mean-for-your-shares/j535om1u",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/3-ways-to-keep-emotions-in-check-when-investing/jeoz7xt2",
+   "status": 200,
+   "title": "3 Ways to Keep Emotions in Check When Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/3-ways-to-keep-emotions-in-check-when-investing/jeoz7xt2",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-a-us-dollar-investing-account-benefits-you-as-a-trader/kp1buig9/kp1buigg",
+   "status": 200,
+   "title": "How a U.S. Dollar Investing Account Benefits You as a Trader",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-a-us-dollar-investing-account-benefits-you-as-a-trader/kp1buig9/kp1buigg",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-designate-a-beneficiary/jv7ateu6/jv7ateum",
+   "status": 200,
+   "title": "Registered Plans: Why Designate a Beneficiary?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/why-designate-a-beneficiary/jv7ateu6/jv7ateum",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/estate-planning-for-investors/jv7ateu8/jv7ateum",
+   "status": 200,
+   "title": "8 Steps to Estate Planning for Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/estate-planning-for-investors/jv7ateu8/jv7ateum",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/active-versus-passive-debate/ilsa7rcm",
+   "status": 200,
+   "title": "The Active versus Passive Debate",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/try-it-test-out-investing-strategies/jv7atfl0/jv7atfto",
+   "status": 200,
+   "title": "Try It! Test Out Investing Strategies",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/try-it-test-out-investing-strategies/jv7atfl0/jv7atfto",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/principles-for-successful-investing/jv7atfk1/jv7atfto",
+   "status": 200,
+   "title": "Simple Principles for Successful Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/principles-for-successful-investing/jv7atfk1/jv7atfto",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/dividends-101/jc1z7hhz",
+   "status": 200,
+   "title": "Dividends, Dates and Terminology",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-does-market-cap-really-tell-us/jeoz7wc0",
+   "status": 200,
+   "title": "What Does Market Cap Really Tell Us?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-does-market-cap-really-tell-us/jeoz7wc0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-are-preferred-shares/jeoz84j0",
+   "status": 200,
+   "title": "What are Preferred Shares?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-are-preferred-shares/jeoz84j0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/takeovers-what-they-mean-for-your-shares/j535om1u",
+   "status": 200,
+   "title": "Takeovers: What They Can Mean for Your Shares",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/takeovers-what-they-mean-for-your-shares/j535om1u",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-is-buying-power-excess-margin-and-available-funds/kwe96aht/kwe96aic",
+   "status": 200,
+   "title": "What is Buying Power, Excess Margin and Available Funds?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/what-is-buying-power-excess-margin-and-available-funds/kwe96aht/kwe96aic",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/index.page",
+   "status": 200,
+   "title": "Tech & Culture",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/finding-my-investing-zen/j14ds4hd",
+   "status": 200,
+   "title": "Finding My Investing Zen",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/finding-my-investing-zen/j14ds4hd",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/im-looking-for-ideas/kkr40bbr/kkr40bfa",
+   "status": 200,
+   "title": "I'm Looking for Ideas",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/im-looking-for-ideas/kkr40bbr/kkr40bfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/im-ready-to-place-a-trade/kkr40bci/kkr40bfa",
+   "status": 200,
+   "title": "I'm Ready to Place a Trade",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/im-ready-to-place-a-trade/kkr40bci/kkr40bfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/i-want-to-practice-before-i-get-started/kkr40bca/kkr40bfa",
+   "status": 200,
+   "title": "I Want to Practice Before I Get Started",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/i-want-to-practice-before-i-get-started/kkr40bca/kkr40bfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/options-glossary/jv7atfyf/jv7atg0t",
+   "status": 200,
+   "title": "Options Glossary: Key Terms to Know",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/options-glossary/jv7atfyf/jv7atg0t",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/an-investing-plan-can-make-for-a-smoother-ride/jeoz7upl",
+   "status": 200,
+   "title": "Feeling Overwhelmed? An Investing Plan Can Make for a Smoother Ride",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/an-investing-plan-can-make-for-a-smoother-ride/jeoz7upl",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/rethinking-how-canada-grows-buys-eats-food/kwe96fy0",
+   "status": 200,
+   "title": "Hitting Net-Zero Means Rethinking How Canada Grows (and Buys and Eats) Food",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/rethinking-how-canada-grows-buys-eats-food/kwe96fy0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/how-soil-carbon-can-become-canadian-farmers-next-cash-crop/l41e02ta",
+   "status": 200,
+   "title": "How Soil Carbon Can Become Canadian Farmers' Next Cash Crop",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/how-soil-carbon-can-become-canadian-farmers-next-cash-crop/l41e02ta",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-type-of-investor-are-you/j14ds2i7",
+   "status": 200,
+   "title": "What’s Your Investing Style?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-type-of-investor-are-you/j14ds2i7",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/diversity-in-tech/kkr407u6",
+   "status": 200,
+   "title": "Diversity in Tech: \"I Think This Is the Time,\" Says Lightspeed CEO",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/diversity-in-tech/kkr407u6",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/financial-considerations-for-retirees/kbs73hke/kbs73hkc",
+   "status": 200,
+   "title": "Financial Considerations for Retirees",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/financial-considerations-for-retirees/kbs73hke/kbs73hkc",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/stock-order-entry-faqs/iu8fhph1",
+   "status": 200,
+   "title": "Stock Order FAQs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanding-margin-accounts/imi56yl4",
+   "status": 200,
+   "title": "Understanding Margin Accounts",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/international-trading-a-primer-on-international-markets/m5s7mzl8/m124mjfa",
+   "status": 200,
+   "title": "The World at Your Fingertips: A Primer on International Markets",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/international-trading-a-primer-on-international-markets/m5s7mzl8/m124mjfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/international-trading-understanding-the-pros-and-cons/m124mjf6/m124mjfa",
+   "status": 200,
+   "title": "International Trading: Understanding the Pros and Cons",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/international-trading-understanding-the-pros-and-cons/m124mjf6/m124mjfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/non-personal-accounts-at-rbc-direct-investing/kwe96ah6/kwe96aic",
+   "status": 200,
+   "title": "Non-Personal Accounts at RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/non-personal-accounts-at-rbc-direct-investing/kwe96ah6/kwe96aic",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-market-cap-really-tell-us/jeoz7wc0",
+   "status": 200,
+   "title": "What Does Market Cap Really Tell Us?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-market-cap-really-tell-us/jeoz7wc0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/why-do-bond-prices-fall-when-yields-rise/l41dzxn1",
+   "status": 200,
+   "title": "Why Do Bond Prices Fall When Yields Rise?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/why-do-bond-prices-fall-when-yields-rise/l41dzxn1",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-evaluate-etfs-insights-from-rob-carrick/mj5kva5z",
+   "status": 200,
+   "title": "How to Evaluate ETFs: Insights From a Veteran Finance Journalist",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-evaluate-etfs-insights-from-rob-carrick/mj5kva5z",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/lifelong-learning-plan/mj5kva3u",
+   "status": 200,
+   "title": "The Account That Could Help With Your Next Career Move",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/lifelong-learning-plan/mj5kva3u",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-an-ipo/mo5ozs50",
+   "status": 200,
+   "title": "What Is an IPO? A look at Initial Public Offerings and How They Work",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-an-ipo/mo5ozs50",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/site-information-and-do-it-yourself-tips/kjqa5y88/kjqa5y8q",
+   "status": 200,
+   "title": "RBC Direct Investing Site Information & Do-It-Yourself Tips",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/site-information-and-do-it-yourself-tips/kjqa5y88/kjqa5y8q",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/index.html",
+   "status": 200,
+   "title": "Manage Your Account - RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/manage/",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/security-terms-conditions.html",
+   "status": 200,
+   "title": "Online Security Guarantee Terms & Conditions - RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-asset-mix/jeoz852v",
+   "status": 200,
+   "title": "What is Asset Mix?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-asset-mix/jeoz852v",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/Canada-investment-summit/mu8cfufs",
+   "status": 200,
+   "title": "Canada Investment Summit: What It Means for Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/Canada-investment-summit/mu8cfufs",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/bond-yields-rising/mu8cfuzb",
+   "status": 200,
+   "title": "The Big Question: Bond Yields are Rising – What Does that Mean for Equities?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/bond-yields-rising/mu8cfuzb",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/kangaroo-markets/mu8cfuvr",
+   "status": 200,
+   "title": "Hopping Sideways: A Look at Kangaroo Markets",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/kangaroo-markets/mu8cfuvr",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/investing_on_a_coffee_budget/mj5kvavf",
+   "status": 200,
+   "title": "Investing on a Coffee Budget",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/investing_on_a_coffee_budget/mj5kvavf",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/portfolio-playlist/mhe2qz00",
+   "status": 200,
+   "title": "How Your Portfolio Could Be Like a Playlist",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/portfolio-playlist/mhe2qz00",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/gold-rally/mhqvoopm",
+   "status": 200,
+   "title": "What’s Driving the Recent Surge in Gold Prices",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/gold-rally/mhqvoopm",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/ipos/",
+   "status": 200,
+   "title": "Invest in IPOs - New Issues & Initial Public Offering | RBC Direct Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/ipos.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/_assets-custom/includes/accessibility/rbcdiplan.html",
+   "status": 200,
+   "title": "Accessibility Plan and Policies for RBC Direct Investing Inc",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/how-rising-interest-rates-affect-investors/jnjhp71u",
+   "status": 200,
+   "title": "How Rising Interest Rates Affect Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/how-rising-interest-rates-affect-investors/jnjhp71u",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-search-for-a-quote/kp1bu63x/kp1bu66o",
+   "status": 200,
+   "title": "How to Search for a Quote",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-search-for-a-quote/kp1bu63x/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-research-stocks-with-the-factsheet-widget/kp1bu63y/kp1bu66o",
+   "status": 200,
+   "title": "How to Research Stocks With the FactSheet Widget",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-research-stocks-with-the-factsheet-widget/kp1bu63y/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-place-a-stock-or-etf-order/kp1bu63w/kp1bu66o",
+   "status": 200,
+   "title": "How to Place a Stock or ETF Order",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-place-a-stock-or-etf-order/kp1bu63w/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/netaction/legalterms.html",
+   "status": 200,
+   "title": "Security",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/netaction/estatements-delivery.html",
+   "status": 200,
+   "title": "RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/three-things-august/mt4cg4yb",
+   "status": 200,
+   "title": "3 Things We’re Watching: Canada’s High-Stakes Summit, Wildfire Wagers and a Real-Life K-drama",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/three-things-august/mt4cg4yb",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/etf-trends-july/mrqeu0ps",
+   "status": 200,
+   "title": "ETF Trends from the RBC Capital Markets Trading Floor",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/etf-trends-july/mrqeu0ps",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/sarah-riopelle-q-and-a/mrqetzf7",
+   "status": 200,
+   "title": "Mid-Year Outlook: Stocks, Bonds and Impact of War",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/sarah-riopelle-q-and-a/mrqetzf7",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/creating-and-customizing-watchlists/kp1bu65m/kp1bu66o",
+   "status": 200,
+   "title": "How to Create and Customize Watchlists",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/creating-and-customizing-watchlists/kp1bu65m/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/five-am-investor/mhe2qyj0",
+   "status": 200,
+   "title": "The 5 a.m. Investor: Morning Routines That Build Wealth",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/five-am-investor/mhe2qyj0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/etf-trends-june/mqxw8vqc",
+   "status": 200,
+   "title": "ETF Trends from the RBC Capital Markets Trading Floor – June 2026",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/etf-trends-june/mqxw8vqc",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/three-things-july-20/mrqetzc5",
+   "status": 200,
+   "title": "3 Things We’re Watching This Week: Meta in Alberta, Super El Niño, AI Megadeals",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/three-things-july-20/mrqetzc5",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/ten-money-moves-to-consider-before-thirty/mhe2qyiq",
+   "status": 200,
+   "title": "10 Smart Money Moves to Consider Before You Turn 30",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/ten-money-moves-to-consider-before-thirty/mhe2qyiq",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/meet-the-creators/mi1nr1dh",
+   "status": 200,
+   "title": "Meet the Creators Taking Their Passion for Investing to the Next Level",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/meet-the-creators/mi1nr1dh",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/group-chat-investor/mfd85li9",
+   "status": 200,
+   "title": "Getting Stock Tips From Your Group Chat? Here’s How to Know Which Ones are Worth Exploring",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/group-chat-investor/mfd85li9",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/revenge-investing/mda8ri3v",
+   "status": 200,
+   "title": "Revenge Investing and the Power of Discipline",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/revenge-investing/mda8ri3v",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/how-to-know-if-di-is-right-for-you/jlra68xs",
+   "status": 200,
+   "title": "Know Yourself: 5 Qualities Direct Investors Share",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/how-to-know-if-di-is-right-for-you/jlra68xs",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/can-you-trick-yourself-into-better-investing-decisions/k57h3lfs",
+   "status": 200,
+   "title": "Can You Trick Yourself Into Better Investing Decisions?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/can-you-trick-yourself-into-better-investing-decisions/k57h3lfs",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/lipstick-index/mhe2qyih",
+   "status": 200,
+   "title": "The Lipstick Index and Other Weird Economic Indicators",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/lipstick-index/mhe2qyih",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/economic-moats/mrqeu0ss",
+   "status": 200,
+   "title": "What Is an Economic Moat (and Why Does It Matter)?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/economic-moats/mrqeu0ss",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/crypto-curious-what-you-need-to-know-about-crypto-etfs/m62i1gk2",
+   "status": 200,
+   "title": "Crypto-curious? What You Need to Know About Crypto ETFs",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/article/crypto-curious-what-you-need-to-know-about-crypto-etfs/m62i1gk2",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/summer-reads/mo5ozson",
+   "status": 200,
+   "title": "10 Money Books to Read This Summer",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/summer-reads/mo5ozson",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/space-sector/mo5ozqu5",
+   "status": 200,
+   "title": "Ready to Launch: Investing in the Space Economy",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/space-sector/mo5ozqu5",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/expert-q-and-a/mo5ozsrj",
+   "status": 200,
+   "title": "Signal vs Noise: What Portfolio Advisors Actually Watch For",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/expert-q-and-a/mo5ozsrj",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/lifestyle-creep/mo5ozr57",
+   "status": 200,
+   "title": "How to Spot (and Avoid) Lifestyle Creep",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/lifestyle-creep/mo5ozr57",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/investor-personas/mrk74vk5",
+   "status": 200,
+   "title": "What’s Your Investing Persona? Why It Matters in Uncertain Times",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/investor-personas/mrk74vk5",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/ai-beyond-semiconductors/mqxw8vpk",
+   "status": 200,
+   "title": "Not Just Chips: AI Investing Beyond Semiconductors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/ai-beyond-semiconductors/mqxw8vpk",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-starting-small-set-djamilla-on-the-path/kwe96blq",
+   "status": 200,
+   "title": "How Starting Small Set Djamilla on the Path to Achieving Her Big Investing Goals #InvestingTruths",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-starting-small-set-djamilla-on-the-path/kwe96blq",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-make-decisions-in-stressful-times/kedfipsr",
+   "status": 200,
+   "title": "How to Make Decisions in Stressful Times",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-make-decisions-in-stressful-times/kedfipsr",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/5-investment-strategies-used-in-uncertain-times/mnzfykac",
+   "status": 200,
+   "title": "Five Investment Strategies Used in Uncertain Times",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/5-investment-strategies-used-in-uncertain-times/mnzfykac",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-gratitude-can-be-good-for-your-finances/k11cl36q",
+   "status": 200,
+   "title": "Why Gratitude Can Be Good for Your Finances",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-gratitude-can-be-good-for-your-finances/k11cl36q",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-one-long-term-investor-stays-motivated/l41dzkxz",
+   "status": 200,
+   "title": "'I Want to See How Far I Can Take It': How One Investor Stays Motivated",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-one-long-term-investor-stays-motivated/l41dzkxz",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/the-classic-plus/kp1bu8s1/kp1bu8sl",
+   "status": 200,
+   "title": "Dashboard Style: The Classic – Plus",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/the-classic-plus/kp1bu8s1/kp1bu8sl",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-i-learned-investing-is-for-everyone/kp1buhu2",
+   "status": 200,
+   "title": "How I Learned Investing Is for Everyone #InvestingTruths",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-i-learned-investing-is-for-everyone/kp1buhu2",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-us-tran-fee-mean-on-my-trade-confirmation/kkr40fx1",
+   "status": 200,
+   "title": "What Does \"US TRAN FEE\" Mean on My Trade Confirmation?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-us-tran-fee-mean-on-my-trade-confirmation/kkr40fx1",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-logic-wins-out-over-emotion-for-frankie/kwe96bke",
+   "status": 200,
+   "title": "How Logic Wins Out Over Emotion for Frankie When Investing #InvestingTruths",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-logic-wins-out-over-emotion-for-frankie/kwe96bke",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/why-do-i-keep-hearing-about-10-year-treasury-yields/kkr40fac",
+   "status": 200,
+   "title": "Question of the Week: Why Do Markets Focus on the 10-Year Treasury Yield?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/why-do-i-keep-hearing-about-10-year-treasury-yields/kkr40fac",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/owning-a-non-qualified-investment-can-be-costly/j7sfxevb",
+   "status": 200,
+   "title": "Owning a Non-Qualified Investment Can Be Costly",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/start-investing-with-100000-practice-dollars/jk0dlonf",
+   "status": 200,
+   "title": "Not Sure Where to Start? Try Investing with 100,000 Practice Dollars",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/start-investing-with-100000-practice-dollars/jk0dlonf",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/djamilla-on-the-magic-of-talking-about-investing/kp1budmr",
+   "status": 200,
+   "title": "Djamilla on the Magic of Talking About Investing #InvestingTruths",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/djamilla-on-the-magic-of-talking-about-investing/kp1budmr",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/frankie-on-learning-to-put-his-money-to-work/kp1budjy",
+   "status": 200,
+   "title": "Frankie on Learning to Put His Money to Work #InvestingTruths",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/frankie-on-learning-to-put-his-money-to-work/kp1budjy",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/7-useful-things-found-on-a-company-website/jk0dlklz",
+   "status": 200,
+   "title": "7 Useful Things You'll Find On a Company's Website",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/7-useful-things-found-on-a-company-website/jk0dlklz",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/garp-growth-at-a-reasonable-price/ilsa7rck",
+   "status": 200,
+   "title": "Stock Selection Strategies: GARP (Growth at a Reasonable Price)",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/7-useful-things-found-on-a-company-website/jk0dlklz",
+   "status": 200,
+   "title": "7 Useful Things You'll Find On a Company's Website",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/7-useful-things-found-on-a-company-website/jk0dlklz",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-think-like-an-analyst/jx0r1ys4",
+   "status": 200,
+   "title": "How to Think Like an Analyst",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-think-like-an-analyst/jx0r1ys4",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/more-on-dividends/jc1z7hhh",
+   "status": 200,
+   "title": "More on Dividend Distributions",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/is-loss-aversion-hanging-in-your-closet/j14ds2fp",
+   "status": 200,
+   "title": "Is Loss Aversion Hanging in Your Closet?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/is-loss-aversion-hanging-in-your-closet/j14ds2fp",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-the-wealthy-barber-wont-act-as-executor-2/joxhd3e0",
+   "status": 200,
+   "title": "Why The Wealthy Barber Won't Act as Executor",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-the-wealthy-barber-wont-act-as-executor-2/joxhd3e0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/build-your-investment-plan/jv7atfjc/jv7atfto",
+   "status": 200,
+   "title": "Build Your Investment Plan",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/build-your-investment-plan/jv7atfjc/jv7atfto",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-find-investing-ideas/jv7atfsk/jv7atfto",
+   "status": 200,
+   "title": "How to Find Investing Ideas",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-find-investing-ideas/jv7atfsk/jv7atfto",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/from-nfts-to-blockchain-high-tech-in-retail/kkr40g87",
+   "status": 200,
+   "title": "From NFTs to Blockchain: High Tech in Retail",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/from-nfts-to-blockchain-high-tech-in-retail/kkr40g87",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/olympic-gold-tips-for-investors/kkr408md",
+   "status": 200,
+   "title": "“Olympic Gold\" Tips for Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/olympic-gold-tips-for-investors/kkr408md",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/a-look-at-innovation-in-fashion-and-sustainability/kkr40f9g",
+   "status": 200,
+   "title": "Retail Report: A Look at Innovation in Fashion and Sustainability",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/a-look-at-innovation-in-fashion-and-sustainability/kkr40f9g",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/index",
+   "status": 200,
+   "title": "Tech & Culture",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/did-your-pick-for-the-new-5-make-the-cut/ki58klsx",
+   "status": 200,
+   "title": "Did Your Pick for the New $5 Bill Make the Cut?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/did-your-pick-for-the-new-5-make-the-cut/ki58klsx",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/for-restaurants-uncertainty-fuels-innovation/kedfihj0",
+   "status": 200,
+   "title": "Necessity Breeds Creativity: A Look at Pandemic-Era Restaurant Innovation",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/for-restaurants-uncertainty-fuels-innovation/kedfihj0",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/canadian-entrepreneurs-share-top-lessons-from-2020/ki58kkja",
+   "status": 200,
+   "title": "Canadian Entrepreneurs Share Top Lessons from 2020 for the Year Ahead",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/canadian-entrepreneurs-share-top-lessons-from-2020/ki58kkja",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/bicycle-revolution-whats-in-store-for-cycling/ke3h4fz5",
+   "status": 200,
+   "title": "Bicycle Revolution: What's in Store for Cycling?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/bicycle-revolution-whats-in-store-for-cycling/ke3h4fz5",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/the-positive-potential-of-tech-on-mental-health/kedfim1z",
+   "status": 200,
+   "title": "The Positive Potential of Tech on Mental Health",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/the-positive-potential-of-tech-on-mental-health/kedfim1z",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/fixed-income-the-basics/ilsa7r4b",
+   "status": 200,
+   "title": "Fixed Income: The Basics",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/ive-placed-my-first-trade-now-what/kkr40bc1/kkr40bfa",
+   "status": 200,
+   "title": "I've Placed My First Trade – Now What?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/ive-placed-my-first-trade-now-what/kkr40bc1/kkr40bfa",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/2016/understanding-research-index",
+   "status": 200,
+   "title": "research-index",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/2016/understanding-account-types",
+   "status": 200,
+   "title": "account-types-high-level",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/eligible-securities-and-applicable-margin/imt5qgyz",
+   "status": 200,
+   "title": "Eligible Securities and Margin",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/level-up/index.page",
+   "status": 200,
+   "title": "Level Up",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-is-fixed-income/jnjhp6uv",
+   "status": 200,
+   "title": "What Fixed Income Means for Your Portfolio",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-is-fixed-income/jnjhp6uv",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanding-ipos/ilsa7r4i",
+   "status": 200,
+   "title": "IPOs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/nafta-to-usmca/jmlcpxyh",
+   "status": 200,
+   "title": "From NAFTA to USMCA: The Good, The Bad and…The Rest",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/nafta-to-usmca/jmlcpxyh",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/RBC:asaO5xoNXgu41G5-nKrT2AAAAEk//netaction/estatements-delivery.html",
+   "status": 200,
+   "title": "RBC Direct Investing",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-type-of-investor-are-you-campaign/jk0dlp30",
+   "status": 200,
+   "title": "What Type of Investor Are You?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-type-of-investor-are-you-campaign/jk0dlp30",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/start-investing-with-100000-practice-dollars/jk0dlonf",
+   "status": 200,
+   "title": "Not Sure Where to Start? Try Investing with 100,000 Practice Dollars",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/start-investing-with-100000-practice-dollars/jk0dlonf",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-access-your-portfolio/kp1bu667/kp1bu66o",
+   "status": 200,
+   "title": "How to Access Your Portfolio",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-access-your-portfolio/kp1bu667/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-open-and-view-an-index-fund/kp1bu65r/kp1bu66o",
+   "status": 200,
+   "title": "How to Open and View an Index Fund",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/how-to-open-and-view-an-index-fund/kp1bu65r/kp1bu66o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/is-loss-aversion-hanging-in-your-closet/j14ds2fp",
+   "status": 200,
+   "title": "Is Loss Aversion Hanging in Your Closet?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/is-loss-aversion-hanging-in-your-closet/j14ds2fp",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/is-this-investment-right-for-me/jeoz89yd",
+   "status": 200,
+   "title": "4 Questions to Ask Yourself Before You Buy",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/is-this-investment-right-for-me/jeoz89yd",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/inspired-investor-special-magazine/k57h3l2x",
+   "status": 200,
+   "title": "Inspired Investor's Special Magazine – Out Now!",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/inspired-investor-special-magazine/k57h3l2x",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/stop-treating-your-future-self-like-a-stranger/jxgvu1yg",
+   "status": 200,
+   "title": "Are You Treating Your Future Self Like a Stranger?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/stop-treating-your-future-self-like-a-stranger/jxgvu1yg",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/3-tips-for-direct-investing-success/jk0dlpqf",
+   "status": 200,
+   "title": "3 Tips to Set Yourself Up for Direct-Investing Success",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/3-tips-for-direct-investing-success/jk0dlpqf",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/cost-of-being-single/mj5kva0c",
+   "status": 200,
+   "title": "The Hidden Costs of Being Single",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/cost-of-being-single/mj5kva0c",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/want-to-live-better-focus-on-what-you-hate/joxhd5no",
+   "status": 200,
+   "title": "Want to Live Better? Focus on What You Hate",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/want-to-live-better-focus-on-what-you-hate/joxhd5no",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/can-you-trick-yourself-into-better-investing-decisions/k57h3lfs",
+   "status": 200,
+   "title": "Can You Trick Yourself Into Better Investing Decisions?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/can-you-trick-yourself-into-better-investing-decisions/k57h3lfs",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/investing-blind-spots/j1oj5nij",
+   "status": 200,
+   "title": "Understanding Investing Biases and How to Counter Them",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/investing-blind-spots/j1oj5nij",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/significance-of-the-pause/jcz6kair",
+   "status": 200,
+   "title": "How a Split-Second Pause Can Benefit Your Brain",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/significance-of-the-pause/jcz6kair",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-we-make-inconsistent-choices/k11cl167",
+   "status": 200,
+   "title": "Why We Make Inconsistent Choices (and What to Do About It)",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-we-make-inconsistent-choices/k11cl167",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/technical-analysis-lab/kp1bu8rs/kp1bu8sl",
+   "status": 200,
+   "title": "Dashboard Style: Technical Analysis Lab",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/technical-analysis-lab/kp1bu8rs/kp1bu8sl",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/conquering-your-investment-fears/j14ds2hd",
+   "status": 200,
+   "title": "5 Ways to Conquer Your Investing Fears",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/conquering-your-investment-fears/j14ds2hd",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/earnings-season-101/j535onba",
+   "status": 200,
+   "title": "Earnings Season 101: What You Need to Know",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/earnings-season-101/j535onba",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-know-if-di-is-right-for-you/jlra68xs",
+   "status": 200,
+   "title": "Know Yourself: 5 Qualities Direct Investors Share",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-know-if-di-is-right-for-you/jlra68xs",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/personal-story-finding-confidence-to-invest/jk0dlozn",
+   "status": 200,
+   "title": "Investing Truths: Finding the Confidence to Invest My Savings",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/personal-story-finding-confidence-to-invest/jk0dlozn",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/watchlist-special/kp1bu8sa/kp1bu8sl",
+   "status": 200,
+   "title": "Dashboard Style: Watchlist Special",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/watchlist-special/kp1bu8sa/kp1bu8sl",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/i-spy-options/kp1bu8rk/kp1bu8sl",
+   "status": 200,
+   "title": "Dashboard Style: I SPY Options",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/chapter/i-spy-options/kp1bu8rk/kp1bu8sl",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/can-a-bullet-journal-help-you-invest/jeoz829g",
+   "status": 200,
+   "title": "Can a Bullet Journal Help You Invest?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/can-a-bullet-journal-help-you-invest/jeoz829g",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/its-spring-a-good-time-to-detox-your-finances/jwcq62kn",
+   "status": 200,
+   "title": "How to Detox Your Finances",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/its-spring-a-good-time-to-detox-your-finances/jwcq62kn",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-a-master-list-can-help-you-prepare-your-goals/jy4l8sm2",
+   "status": 200,
+   "title": "How a Master List Can Help You Prioritize Your Goals",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-a-master-list-can-help-you-prepare-your-goals/jy4l8sm2",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanding-rrifs/imt5qgzr",
+   "status": 200,
+   "title": "Understanding Registered Retirement Income Funds (RRIFs)",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/rrsp-key-benefits/inv88vdx",
+   "status": 200,
+   "title": "RRSPs: Key Benefits",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/rrifs-faqs/imt5qgzo",
+   "status": 200,
+   "title": "Registered Retirement Income Funds (RRIF) FAQs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/quantitative-qualitative-research/ilsa7rtg",
+   "status": 200,
+   "title": "Qualitative and Quantitative: Two Complementary Approaches to Research",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/technical-analysis/ilsa7rtm",
+   "status": 200,
+   "title": "How to use Technical Analysis Research",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/who-gets-the-corvette/j37aa5h5",
+   "status": 200,
+   "title": "Who Gets The Corvette? The Importance of Beneficiary Planning",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/who-gets-the-corvette/j37aa5h5",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/non-registered-investment-cash-accounts/imi56yl5",
+   "status": 200,
+   "title": "Non-Registered Investment Cash Accounts (CDN/U.S.)",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-does-us-mexico-deal-mean-for-canada/jk0dlow3",
+   "status": 200,
+   "title": "What Does the U.S.-Mexico Trade Deal Mean for Canada?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-does-us-mexico-deal-mean-for-canada/jk0dlow3",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/dear-money-its-not-you-its-me/k57h3kdd",
+   "status": 200,
+   "title": "Dear Money, It's Not You, It's Me",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/dear-money-its-not-you-its-me/k57h3kdd",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/fixed-income-key-benefits/ilsa7r4a",
+   "status": 200,
+   "title": "Fixed Income: Key Benefits",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/fixed-income-risk-vs-reward/j6h46n5x",
+   "status": 200,
+   "title": "Fixed Income: Risk vs. Return",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/inspired-by-you/k57h3l99",
+   "status": 200,
+   "title": "Inspired by You: Stories About Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/inspired-by-you/k57h3l99",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-the-wealthy-barber-manages-emotions/k57h3kig",
+   "status": 200,
+   "title": "How the Wealthy Barber Manages Emotions",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-the-wealthy-barber-manages-emotions/k57h3kig",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-sleep-move-eat-your-way-to-savvier-decisions/k57h3l3r",
+   "status": 200,
+   "title": "How to Sleep, Move and Eat Your Way to Savvier Decisions",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-sleep-move-eat-your-way-to-savvier-decisions/k57h3l3r",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/recipes-for-success/k57h3lho",
+   "status": 200,
+   "title": "Recipes for Success",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/recipes-for-success/k57h3lho",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/getting-to-the-root-of-procrastination/jym6mfpe",
+   "status": 200,
+   "title": "Stop Procrastinating: An Expert Tells Us How",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/getting-to-the-root-of-procrastination/jym6mfpe",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/10-smart-money-hacks/k57h3k8o",
+   "status": 200,
+   "title": "10 Smart Money Hacks",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/10-smart-money-hacks/k57h3k8o",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/lessons-from-gladwell/k57h3lel",
+   "status": 200,
+   "title": "Lessons from Gladwell",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/lessons-from-gladwell/k57h3lel",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/your-sources-of-retirement-income/jeoz806r",
+   "status": 200,
+   "title": "Your Sources of Retirement Income",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/canadians-beleive-they-need-this-much-to-retire/jvn0epd4",
+   "status": 200,
+   "title": "How Much? Canadians Believe They Need THIS Much to Retire",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/canadians-beleive-they-need-this-much-to-retire/jvn0epd4",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/inside-six-innovative-minds/k57h3l4b",
+   "status": 200,
+   "title": "Inside Six Innovative Minds",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/inside-six-innovative-minds/k57h3l4b",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/you-investing-questions-answered/k57h3ld6",
+   "status": 200,
+   "title": "Your Investing Questions Answered",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/you-investing-questions-answered/k57h3ld6",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/quiz-investing-101/j6h46mw7",
+   "status": 200,
+   "title": "Test Your Investing IQ",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/quiz-investing-101/j6h46mw7",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/the-art-and-joy-of-saving/j14ds2hx",
+   "status": 200,
+   "title": "The Art and Joy of Saving",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/the-art-and-joy-of-saving/j14ds2hx",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/should-i-stay-or-should-i-sell/jiuytw5x",
+   "status": 200,
+   "title": "Should I Stay or Should I Sell?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/should-i-stay-or-should-i-sell/jiuytw5x",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/Dual-currency-FAQs/j6h46nvm",
+   "status": 200,
+   "title": "Dual Currency FAQs",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/why-designate-beneficiary/imi56yix",
+   "status": 200,
+   "title": "Why Designate a Beneficiary?",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/focus-on-habits-not-goals-to-reach-your-goals/j7sfxeef",
+   "status": 200,
+   "title": "Focus on Habits Instead of Goals to Reach Your, Um, Goals",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/focus-on-habits-not-goals-to-reach-your-goals/j7sfxeef",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/nafta-2-scenerios-for-canada/j7sfxan4",
+   "status": 200,
+   "title": "NAFTA: A Look at 2 Scenarios for Canada",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/nafta-2-scenerios-for-canada/j7sfxan4",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/am-i-weird-about-money/jym6mfz5",
+   "status": 200,
+   "title": "On Our Minds: Am I Weird About Money?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/am-i-weird-about-money/jym6mfz5",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/summertime-chats-raising-savvy-investors/jxgvu1u7",
+   "status": 200,
+   "title": "Talk to Your Teen About Money: 5 Foolproof Conversation Starters",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/summertime-chats-raising-savvy-investors/jxgvu1u7",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/fixed-income-types/j7cypocm",
+   "status": 200,
+   "title": "Types of Fixed Income",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/brandon-investing-truth/jr5b6cq7",
+   "status": 200,
+   "title": "Making My Plan Work: “I'm not a finance guy—but I'm a self-directed investor”",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/brandon-investing-truth/jr5b6cq7",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/myan-on-cutting-losses-and-lessons-from-mom/jv7atgkp",
+   "status": 200,
+   "title": "Investing Truths: MyAn Shares Strategies Learned from Her Mom",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/myan-on-cutting-losses-and-lessons-from-mom/jv7atgkp",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/milene-investing-truths-article/jnjhp87p",
+   "status": 200,
+   "title": "Investing Truths: Milene Shares Her Investment Secret",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/milene-investing-truths-article/jnjhp87p",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-economic-cycles-mean-for-you/jnjhp7n8",
+   "status": 200,
+   "title": "Just a Phase? What the Economic Cycle Means for Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-economic-cycles-mean-for-you/jnjhp7n8",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-know-if-di-is-right-for-you/jlra68xs",
+   "status": 200,
+   "title": "Know Yourself: 5 Qualities Direct Investors Share",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/how-to-know-if-di-is-right-for-you/jlra68xs",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-overconfidence-can-hurt-investors/jvviy2ea",
+   "status": 200,
+   "title": "Why Overconfidence Can Hurt Investors",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/why-overconfidence-can-hurt-investors/jvviy2ea",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/a-look-at-investing-through-a-hikers-lens/j2in76yo",
+   "status": 200,
+   "title": "How's the View? A Look at Investing Through a Hiker's Lens",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/a-look-at-investing-through-a-hikers-lens/j2in76yo",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/for-tough-decisions-think-of-helping-a-friend/jk0dlln7",
+   "status": 200,
+   "title": "For Tough Portfolio Decisions, Think of Helping a Friend",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/for-tough-decisions-think-of-helping-a-friend/jk0dlln7",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-marathon-training-can-help-investors/joase3cf",
+   "status": 200,
+   "title": "Marathon Training Can Help Investors Meet the Finish Line",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-marathon-training-can-help-investors/joase3cf",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/3-steps-to-planning-retirement/imi56xej",
+   "status": 200,
+   "title": "Three Steps to Planning Your Retirement",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-compound-interest-and-why-should-i-care/jsxbo41m",
+   "status": 200,
+   "title": "Compound Interest: How It Works and Why It's Amazing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-is-compound-interest-and-why-should-i-care/jsxbo41m",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-save-for-your-dream-vacation/j14ds2g9",
+   "status": 200,
+   "title": "Bon Voyage! Investing for Your Ultimate Vacation",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-save-for-your-dream-vacation/j14ds2g9",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-it-means-to-pay-yourself-first/j7sfxcyi",
+   "status": 200,
+   "title": "Pay Yourself First: What Does it Really Mean?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-it-means-to-pay-yourself-first/j7sfxcyi",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/style-is-personal-whether-travelling-or-investing/jiuytw4w",
+   "status": 200,
+   "title": "Style is Personal, Whether Travelling or Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/style-is-personal-whether-travelling-or-investing/jiuytw4w",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/an-inside-look-at-how-5-investors-research/jvviy1sk",
+   "status": 200,
+   "title": "Investing Truths: An Inside Look at How 5 Investors Research",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/an-inside-look-at-how-5-investors-research/jvviy1sk",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/eight-tips-for-making-it-as-a-young-entrepreneur/k11cl14x",
+   "status": 200,
+   "title": "Two 20-Something CEOs Share Their Tips on Entrepreneurship",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/eight-tips-for-making-it-as-a-young-entrepreneur/k11cl14x",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/take-stock-of-your-day-for-investing-inspiration/j2in77qc",
+   "status": 200,
+   "title": "How Your Daily Routine Can Inspire Investing Ideas",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/take-stock-of-your-day-for-investing-inspiration/j2in77qc",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-benefit-from-self-talk/jtdhapqp",
+   "status": 200,
+   "title": "The Magic of Self-Talk: You Know More Than You Think",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-benefit-from-self-talk/jtdhapqp",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/human-skills-key-to-tackling-workforce-disruption/jeoz7yh3",
+   "status": 200,
+   "title": "\"Human Skills\" Key to Tackling Workforce Disruption: RBC Report",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/now-and-noteworthy/article/human-skills-key-to-tackling-workforce-disruption/jeoz7yh3",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/leadership-lessons-1-800-got-junk/jsxbo496",
+   "status": 200,
+   "title": "Leadership Lessons from a Lifelong Entrepreneur",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/leadership-lessons-1-800-got-junk/jsxbo496",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/this-number-changed-how-i-look-at-my-investments/jnjhp9w4",
+   "status": 200,
+   "title": "The Number That's Changed How I Look at My Investments",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/this-number-changed-how-i-look-at-my-investments/jnjhp9w4",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/earnings-season-101/j535onba",
+   "status": 200,
+   "title": "Earnings Season 101: What You Need to Know",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/earnings-season-101/j535onba",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/know-a-bull-market-to-be-bear-market-ready/j7sfxcfe",
+   "status": 200,
+   "title": "Understanding a Bull Market Can Help You Be Bear-Market Ready",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/know-a-bull-market-to-be-bear-market-ready/j7sfxcfe",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/a-look-at-socially-responsible-investing/j14ds2gt",
+   "status": 200,
+   "title": "Finding Inspiration When It Comes To Socially Responsible Investing",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/a-look-at-socially-responsible-investing/j14ds2gt",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/inspired-investor-about-us/ju94s3y0",
+   "status": 200,
+   "title": "Inspired Investor Trade: About Us",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/linking-the-lingo-of-fashion-and-finance/j1oj5o3t",
+   "status": 200,
+   "title": "Linking the Lingo of Fashion and Finance",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/linking-the-lingo-of-fashion-and-finance/j1oj5o3t",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/fundamental-analysis/ilsa7rch",
+   "status": 200,
+   "title": "Stock Selection Strategies: Fundamental Analysis",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/stock-selection-strategies-overview/imi56xs1",
+   "status": 200,
+   "title": "Stock Selection Strategies: Overview",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/a-look-at-personal-biases-and-investing-decisions/j6h46o40",
+   "status": 200,
+   "title": "How Personal Biases May Be Hurting Your Investing Decisions",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/travel-and-style/article/a-look-at-personal-biases-and-investing-decisions/j6h46o40",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/grow-your-savings/imi56xmx",
+   "status": 200,
+   "title": "Grow your Savings",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/food/article/understanding-industries-lessons-from-a-game-show/j14ds2d2",
+   "status": 200,
+   "title": "A Dinner-Game Loss Taught Me the Importance of Understanding Industries",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/food/article/understanding-industries-lessons-from-a-game-show/j14ds2d2",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-it-means-when-a-company-goes-private/jlxqhh05",
+   "status": 200,
+   "title": "Private Property: What It Means When a Company Goes Private",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-it-means-when-a-company-goes-private/jlxqhh05",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-achieve-a-mindset-for-success/jeoz80cf",
+   "status": 200,
+   "title": "How To Achieve a Mindset for Success",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-achieve-a-mindset-for-success/jeoz80cf",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-does-it-mean-to-be-a-shareholder/jk0dlkvw",
+   "status": 200,
+   "title": "What Does It Mean To Be a Shareholder?",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-does-it-mean-to-be-a-shareholder/jk0dlkvw",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/technical-analysis/ilsa7rcj",
+   "status": 200,
+   "title": "Stock Selection Strategies: Technical Analysis",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/stock-market-sectors-and-sector-rotation/ilsa7rci",
+   "status": 200,
+   "title": "Stock Selection Strategies: Stock Market Sectors and Sector Rotation",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/3-qualities-of-a-successful-investing-attitude/j9jdmxtg",
+   "status": 200,
+   "title": "3 Qualities of a Successful Investing Attitude",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/3-qualities-of-a-successful-investing-attitude/j9jdmxtg",
+   "robots": null,
+   "inSitemap": false
+  }
+ ],
+ "redirects": [
+  {
+   "url": "https://www.rbcdirectinvesting.com/drip-list.html",
+   "to": "https://www.rbcdirectinvesting.com/trading-tools-research/dividend-reinvestment-plan-drip.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/downloadable-forms.html",
+   "to": "https://www.rbcdirectinvesting.com/manage/download-forms.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/royal-circle.html",
+   "to": "https://www.rbcdirectinvesting.com/client-privileges/royal-circle-membership.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing",
+   "to": "https://www.rbcdirectinvesting.com/pricing/",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/ipos",
+   "to": "https://www.rbcdirectinvesting.com/accounts-investments/ipos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/how-to-videos.html",
+   "to": "https://www.rbcdirectinvesting.com/manage/trading-platform-tutorials.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pre-authorized-contribution-plan.html",
+   "to": "https://www.rbcdirectinvesting.com/manage/pre-authorized-contribution-plan.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/avionrewards.html",
+   "to": "https://www.rbcdirectinvesting.com/client-privileges/trade-with-points.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/investment-choices/mutual-funds.html",
+   "to": "https://www.rbcdirectinvesting.com/accounts-investments/mutual-funds.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/investment-tools-research/index.html",
+   "to": "https://www.rbcdirectinvesting.com/trading-tools-research/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/practice-accounts.html",
+   "to": "https://www.rbcdirectinvesting.com/learn/practice-accounts.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/investment-choices/stocks.html",
+   "to": "https://www.rbcdirectinvesting.com/accounts-investments/stocks.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-perks/active-trader-program.html",
+   "to": "https://www.rbcdirectinvesting.com/client-privileges/active-trader-program.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/account-types/rrsp.html",
+   "to": "https://www.rbcdirectinvesting.com/accounts-investments/rrsp.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/investing-for-beginners.html",
+   "to": "https://www.rbcdirectinvesting.com/learn/investing-for-beginners.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-perks/royal-circle-membership.html",
+   "to": "https://www.rbcdirectinvesting.com/client-privileges/royal-circle-membership.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/top10.html",
+   "to": "https://www.rbcdirectinvesting.com/learn/faqs.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/client-perks/trade-with-points.html",
+   "to": "https://www.rbcdirectinvesting.com/client-privileges/trade-with-points.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/transfer-an-account.html",
+   "to": "https://www.rbcdirectinvesting.com/manage/transfer-from-another-brokerage.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/access-to-accounts.html",
+   "to": "https://www.rbcdirectinvesting.com/trading-platforms/",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/special-client-privileges.html",
+   "to": "https://www.rbcdirectinvesting.com/client-privileges/",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/fees.html",
+   "to": "https://www.rbcdirectinvesting.com/pricing/",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/interest-rates.html",
+   "to": "https://www.rbcdirectinvesting.com/pricing/",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/tfsa.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/ClientProfile_TFSA_EN.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/eia.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/eia.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/jca.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/CoApplicantCP_EN.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/ejoint3or4.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/investment-joint.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/erif.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/erif.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/erespip.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/erespip.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/ersp.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/ersp.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/template/apply/redirects/erespfp.html",
+   "to": "https://www.rbcdirectinvesting.com/pdf/erespfp.pdf",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/en/di/hubs/series/question-of-the-week/index",
+   "to": "https://www.rbcdirectinvesting.com/index.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/en/di/hubs/series/investing-guides/index",
+   "to": "https://www.rbcdirectinvesting.com/index.html",
+   "status": 200
+  }
+ ],
+ "errors": [
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/sharpen-your-investing-skills-with-a-practice-account/imt5qhcz",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/comparing-tfsas-rrsps-and-resps/ki58klvt/ki58km3u",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-investments-can-i-hold-in-my-tfsa/jeoz86ou/ki58km3u",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/what-does-ex-dividend-mean/jeoz883v/kk8h6bry",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/5-things-to-know-about-rrif-withdrawals/k72133op/ki58kjqy",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/comparing-tfsas-rrsps-and-resps/ki58klvt/kwe96au3",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/myan-on-cutting-losses-and-lessons-from-mom/jv7atgkp/jv7atg1j",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/understanding-margin-accounts/kkr406jb/jv7atg0t",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/orions-options-strategy/ju94s3ly/jv7atg0t",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/when-will-i-get-my-rrsp-contribution-tax-receipt/k57h3js5/ki58ki3a",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/pop-quiz-tax-time/k57h3ias/ki58ki3a",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/life-stage-investing-can-get-turned-on-its-head/j14ds2hn/jv7atfto",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/understanding-margin-accounts/kkr406jb/kwe96aic",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/spousal-rrsps/imt5qgzn",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/understanding-options-the-basics/ilsa7r0h",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/six-steps-to-investing-step-1-goals/imt5qhhx",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/six-steps-to-investing-step-6-monitor-your-portfolio/imt5qhia",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/benefits-of-diversification/ilsa7rcq",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs//index.page",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/six-steps-to-investing-step-2-investor-profile/imt5qhi9",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/six-steps-to-investing-step-3-investment-choices/imt5qhi6",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/what-is-a-mutual-fund/ilsa7r1u",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/2016/six-steps-to-investing-ref-index-page",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/types-of-stocks-or-equities/ilsa7qxw",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/what-is-an-etf/ilsa7r1f",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/8-essential-direct-investing-self-serve-tips/k721360n/kjqa5y8q",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/investing-in-all-types-of-markets/ilsa7rcn",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/youve-opened-your-investing-account-now-what/jc1z7i00/kjqa5y8q",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/5-takeaways-on-interest-rates-and-foreign-exchange/j7sfxd41",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/planning-for-financial-and-emotional-peace-of-mind/imi56y39",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/2017/whats-so-great-ref-index",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/your-investor-profile-where-do-you-fit/imt5qhi5",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/investing-academy/article/a-better-world/k57h3l6p",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/summer-reads-money-books-perfect-for-poolside/jiuytud6",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/how-to-connect-with-other-direct-investors/joxhcz1u",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/how-to-build-a-portfolio-and-manage-risk/jmlcpx40",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/navigating-equity-trade-types/ilsa7qxz",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/six-steps-to-investing-step-2-investor-profile/",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/when-investing-learn-from-the-locals/j14ds2gj",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/fundamental-analysis/ilsa7rqx",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/food/article/a-grilling-on-meat-cuts-and-investor-styles/j535okhl",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/ideas-and-motivation/article/what-do-highter-interest-rates-mean-for-investors/j6h46mak",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/the-community-a-source-for-investment-ideas-from-fellow-investors/ipulb27m",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/planning-for-retirement/imt5qhi8",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/naming-a-beneficiary/jmlcpz04",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/reference/article/equity-basics/ilsa7qxx",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/en/di/hubs/tech-and-culture/article/5-qualities-good-investors-and-entrepreneurs-share/j535olmj",
+   "status": 404
+  }
+ ],
+ "canonicalDuplicates": [
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-tools-research/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/trading-tools-research/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/pricing/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/pricing/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/gosmart-for-new-investors/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/trading-platforms/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/trading-platforms/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/investment-seminars/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/investment-seminars/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/learn/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/learn/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/manage/index.html",
+   "canonical": "https://www.rbcdirectinvesting.com/manage/"
+  },
+  {
+   "url": "https://www.rbcdirectinvesting.com/accounts-investments/ipos/",
+   "canonical": "https://www.rbcdirectinvesting.com/accounts-investments/ipos.html"
+  }
+ ],
+ "capped": false,
+ "sitemapUrls": 191
+}

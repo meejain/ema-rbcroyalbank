@@ -1,0 +1,392 @@
+{
+ "cohort": "investments",
+ "host": "www.rbcroyalbank.com",
+ "prefixes": [
+  "/investments/"
+ ],
+ "sheetCount": 36,
+ "crawledAt": "2026-10-07T18:25:37.208Z",
+ "pages": [
+  {
+   "url": "https://www.rbcroyalbank.com/investments/index.html",
+   "status": 200,
+   "title": "Investments - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/investments/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rrsp.html",
+   "status": 200,
+   "title": "Registered Retirement Savings Plan (RRSP) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/gics.html",
+   "status": 200,
+   "title": "Guaranteed Investment Certificates (GICs) - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/investments/gics.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/resp.html",
+   "status": 200,
+   "title": "Registered Education Savings Plan (RESP) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/fhsa.html",
+   "status": 200,
+   "title": "First Home Savings Account (FHSA) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/tfsa.html",
+   "status": 200,
+   "title": "Tax-Free Savings Account (TFSA) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/mutual-funds.html",
+   "status": 200,
+   "title": "Mutual Funds - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/invest-now.html",
+   "status": 200,
+   "title": "Purchase Investments - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/investments/invest-now.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/etfs.html",
+   "status": 200,
+   "title": "Exchange-Traded Funds (ETFs) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/investments-savings-accounts.html",
+   "status": 200,
+   "title": "Investments and Savings Accounts - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/esg.html",
+   "status": 200,
+   "title": "ESG Investing - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/myadvisor.html",
+   "status": 200,
+   "title": "MyAdvisor - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/ways-to-invest.html",
+   "status": 200,
+   "title": "Ways to Invest- RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/investments/ways-to-invest.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/investment-calculators-tools.html",
+   "status": 200,
+   "title": "Investment Calculators and Tools - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/gic-rates.html",
+   "status": 200,
+   "title": "GIC Rates - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/tfsa/tfsa-calculator.html",
+   "status": 200,
+   "title": "TFSA Calculator - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rrsp/rrsp-calculator.html",
+   "status": 200,
+   "title": "RRSP Calculator - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/goals-overview.html",
+   "status": 200,
+   "title": "Investments - Saving for Specific Goals - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/compare-gics.html",
+   "status": 200,
+   "title": "Compare GICs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/investment-faqs.html",
+   "status": 200,
+   "title": "Investment FAQs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/55advantage.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/how-to-save-money.html",
+   "status": 200,
+   "title": "How to Save Money (Just Because) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/how-to-save-for-big-purchase.html",
+   "status": 200,
+   "title": "How to Save Up for a Big-Ticket Item - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/compare-ways-to-invest.html",
+   "status": 200,
+   "title": "Compare Ways to Invest - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rrif.html",
+   "status": 200,
+   "title": "Registered Retirement Income Fund (RRIF) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/savings-deposits.html",
+   "status": 200,
+   "title": "Savings Deposits - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/how-to-save-for-childs-education.html",
+   "status": 200,
+   "title": "How to Save for a Child’s Education - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/how-to-save-for-retirement.html",
+   "status": 200,
+   "title": "How to Save for Retirement - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/how-to-save-for-a-house.html",
+   "status": 200,
+   "title": "How to Save for a House - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/automatic-savings.html",
+   "status": 200,
+   "title": "Automatic Contributions – RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rrsp-rules-contribution-limits.html",
+   "status": 200,
+   "title": "RRSP Rules and Contribution Limits - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/tfsa-vs-rrsp-fhsa.html",
+   "status": 200,
+   "title": "Compare TFSA vs RRSP vs FHSA - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/resp-grants-bonds.html",
+   "status": 200,
+   "title": "RESP Grants and Bonds - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/resp-rules-contribution-limits.html",
+   "status": 200,
+   "title": "RESP Rules and Contribution Limits - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/guaranteed-return-gics.html",
+   "status": 200,
+   "title": "Guaranteed-Return GICs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/marketsmart-gics.html",
+   "status": 200,
+   "title": "RBC Equity-Linked GICs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/interest-linked-gics.html",
+   "status": 200,
+   "title": "Interest-Linked GICs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/portfolio-solutions.html",
+   "status": 200,
+   "title": "Portfolio Solutions - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rdsp.html",
+   "status": 200,
+   "title": "Registered Disability Savings Plan (RDSP) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/tfsa-rules-contribution-limits.html",
+   "status": 200,
+   "title": "TFSA Rules and Contribution Limits - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/mf-unclaimed-property-popup.html",
+   "status": 200,
+   "title": "Unclaimed Property - RBC",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/fhsa-right-for-me.html",
+   "status": 200,
+   "title": "Is an FHSA Right for Me? - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rrif-rules-withdrawals.html",
+   "status": 200,
+   "title": "RRIF Rules and Withdrawals - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/gic-laddering.html",
+   "status": 200,
+   "title": "GIC Laddering Strategy - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rdsp-rules-eligibility.html",
+   "status": 200,
+   "title": "RDSP Rules and Eligibility - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/rdsp-grants-bonds.html",
+   "status": 200,
+   "title": "RDSP Grants and Bonds - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/investments/tfsa-vs-rrsp-esavings.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  }
+ ],
+ "redirects": [],
+ "errors": [],
+ "canonicalDuplicates": [],
+ "capped": false,
+ "sitemapUrls": 1
+}

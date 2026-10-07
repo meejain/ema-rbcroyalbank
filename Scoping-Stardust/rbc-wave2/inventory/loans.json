@@ -1,0 +1,198 @@
+{
+ "cohort": "loans",
+ "host": "www.rbcroyalbank.com",
+ "prefixes": [
+  "/loans-line-of-credit/"
+ ],
+ "sheetCount": 46,
+ "crawledAt": "2026-10-07T18:25:33.718Z",
+ "pages": [
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/index.html",
+   "status": 200,
+   "title": "RBC Personal Loans & Lines of Credit | Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/personal-loans.html",
+   "status": 200,
+   "title": "Personal Loans | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/personal-loans.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/rrsp-loans.html",
+   "status": 200,
+   "title": "RRSP Loans - Borrowing for RRSP | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/rrsp-loans.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/overview.html",
+   "status": 200,
+   "title": "Student Line of Credit - Royal Credit Line for Students | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/overview.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/line-of-credit.html",
+   "status": 200,
+   "title": "Personal Line of Credit - Royal Credit Line | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/line-of-credit.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/compare-loans.html",
+   "status": 200,
+   "title": "Compare Personal Loans & Lines of Credit Borrowing Solutions | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/compare-loans.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/home-improvement-loans.html",
+   "status": 200,
+   "title": "Home Improvement Loans - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/home-improvement-loans.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/cash-flow-calculator.html",
+   "status": 200,
+   "title": "Monthly Cash Flow Calculator - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/cash-flow-calculator.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/loan-calculators.html",
+   "status": 200,
+   "title": "Loan Calculators and Tools | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/loan-calculators.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/pay-down-debt.html",
+   "status": 200,
+   "title": "Debt Consolidation - Help Pay Down Debt Faster | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/pay-down-debt.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/undergrad-grad-students.html",
+   "status": 200,
+   "title": "Student Line of Credit for Undergraduates | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/undergrad-grad-students.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/loanprotector-insurance.html",
+   "status": 200,
+   "title": "LoanProtector Insurance - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/loanprotector-insurance.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/professional-programs.html",
+   "status": 200,
+   "title": "Student Line of Credit for Professional Studies | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/professional-programs.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/product-advice/how-do-student-loans-work-in-canada.html",
+   "status": 200,
+   "title": "What is a Student Loan and How Does It Work | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/loans-line-of-credit/product-advice/how-do-student-loans-work-in-canada.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/study-abroad-program.html",
+   "status": 200,
+   "title": "Student Line of Credit for Studying Abroad | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/manage-my-rcl.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/energy-saver-loan.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/loan-calculators/personal-loan-line-of-credit-calculator.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/manage-rbc-loan.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/index.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/online-banking-services.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/personal-loans.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/lines-of-credit.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/student-loans/overview.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/my-line-of-credit.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/loans-line-of-credit/manage-my-rcl.html"
+  }
+ ],
+ "redirects": [],
+ "errors": [
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/home-inprovement-loans.html",
+   "status": 404,
+   "foundBy": "rendered"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/undergrad-grad-students.html",
+   "status": 404,
+   "foundBy": "rendered"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/loans-line-of-credit/professional-programs.html",
+   "status": 404,
+   "foundBy": "rendered"
+  }
+ ],
+ "canonicalDuplicates": [],
+ "capped": false,
+ "sitemapUrls": 1,
+ "rendered": {
+  "at": "2026-10-07T18:33:16.245Z",
+  "newPages": 7
+ }
+}

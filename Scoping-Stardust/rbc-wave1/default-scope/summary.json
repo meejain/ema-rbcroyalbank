@@ -1,0 +1,38 @@
+{
+  "analysis-summary": {
+    "status": "complete",
+    "metadata": {
+      "siteUrl": "https://www.rbcroyalbank.com",
+      "siteName": "rbcroyalbank-com",
+      "analysisDate": "2026-10-05",
+      "rootPageTitle": "Welcome to RBC Personal Banking - RBC Royal Bank"
+    },
+    "metrics": {
+      "urlDiscoveryMethod": "unknown",
+      "totalPages": 181,
+      "localeCount": 2,
+      "locales": [
+        {
+          "locale": "en",
+          "pages": 90
+        },
+        {
+          "locale": "fr",
+          "pages": 91
+        }
+      ],
+      "totalTemplates": 11,
+      "totalBlockTypes": 220,
+      "unknownBlockVariants": 58,
+      "edsBlockVariants": 162,
+      "pagesAnalyzed": 181,
+      "percentAnalyzed": 100,
+      "pagesPending": 0,
+      "pagesFailed": 0,
+      "blockDetectionCrashes": 0
+    },
+    "errors": {
+      "totalCount": 33
+    }
+  }
+}

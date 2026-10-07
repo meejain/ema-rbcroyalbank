@@ -1,0 +1,12 @@
+{
+  "sites": {
+    "ema-rbcroyalbank": {
+      "previewOrg": "meejain",
+      "previewSite": "ema-rbcroyalbank",
+      "contentHostUrl": "https://content.da.live/meejain/ema-rbcroyalbank/"
+    }
+  },
+  "features": [
+    "site-planning"
+  ]
+}

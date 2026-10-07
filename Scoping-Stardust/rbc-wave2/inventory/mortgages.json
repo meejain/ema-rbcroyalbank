@@ -1,0 +1,1087 @@
+{
+ "cohort": "mortgages",
+ "host": "www.rbcroyalbank.com",
+ "prefixes": [
+  "/mortgages/"
+ ],
+ "sheetCount": 149,
+ "crawledAt": "2026-10-07T18:25:32.178Z",
+ "pages": [
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/index.html",
+   "status": 200,
+   "title": "Mortgages - Loans & Home Financing | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/",
+   "status": 200,
+   "title": "Mortgages - Loans & Home Financing | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/amortization.html",
+   "status": 200,
+   "title": "Mortgage Amortization - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html",
+   "status": 200,
+   "title": "Buying your new construction home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/cash-back-mortgage.html",
+   "status": 200,
+   "title": "Cash Back Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/current-mortgage-options.html",
+   "status": 200,
+   "title": "Mortgage Options for Your Current Property - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/customer_service.html",
+   "status": 200,
+   "title": "",
+   "canonical": "https://www.rbcroyalbank.com/customer-service/index.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/down-payment-options.html",
+   "status": 200,
+   "title": "Mortgage Down Payment Options - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/getting-preapproved.html",
+   "status": 200,
+   "title": "Getting a Mortgage Pre-Approval | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/energy-saver-mortgage.html",
+   "status": 200,
+   "title": "Energy Saver Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/fixed-rate-mortgage.html",
+   "status": 200,
+   "title": "Fixed Rate Mortgage | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home_protector_insurance.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": "noindex",
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/how-much-can-you-afford.html",
+   "status": 200,
+   "title": "Know How Much Home You Can Afford - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-rates.html",
+   "status": 200,
+   "title": "Current Mortgage Rates | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-types.html",
+   "status": 200,
+   "title": "Different Types of Mortgages | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-prepayment-charges.html",
+   "status": 200,
+   "title": "Mortgage Prepayment Charges - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_liferate.html",
+   "status": 200,
+   "title": "Life Insurance Premium Rate Chart - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_mortgage-prepayment-charges.html",
+   "status": 200,
+   "title": "Prepayment Charge Example: Helen and Henry - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_disrate.html",
+   "status": 200,
+   "title": "Disability Insurance Premium Rate Chart - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_eligible.html",
+   "status": 200,
+   "title": "Eligible Mortgage - Residential Mortgages by RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_refinance.html",
+   "status": 200,
+   "title": "What is a refinanced mortgage? - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_working.html",
+   "status": 200,
+   "title": "Actively Working - Residential Mortgages by RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/rbc-homeline-plan.html",
+   "status": 200,
+   "title": "RBC Homeline Plan - Mortgage & Home Equity Line - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/self-employed-mortgage.html",
+   "status": 200,
+   "title": "Self-Employed Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/variable-rate-mortgage.html",
+   "status": 200,
+   "title": "Variable Rate Mortgage | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/using-home-equity.html",
+   "status": 200,
+   "title": "Home Equity Line of Credit or Loan - RBC Royal Bank",
+   "canonical": "https://www.rbcroyalbank.com/mortgages/using-home-equity.html",
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/vacation-home-mortgage.html",
+   "status": 200,
+   "title": "Buying a Vacation/Second Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/managing-your-mortgage.html",
+   "status": 200,
+   "title": "Manage Your Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/first-time-home-buyers.html",
+   "status": 200,
+   "title": "First-Time Home Buyer Complete Guide | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/specialist-locator/index.html",
+   "status": 200,
+   "title": "Mortgage Specialist Locator - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/special-mortgage-offers.html",
+   "status": 200,
+   "title": "Special Mortgage Offers - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/view-mortgages.html",
+   "status": 200,
+   "title": "View All Mortgages - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": true
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/managing-higher-interest-rates.html",
+   "status": 200,
+   "title": "Managing the Impact of Higher Interest Rates - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-refinancing.html",
+   "status": 200,
+   "title": "Refinancing & Using Your Home Equity - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/renewing-your-mortgage.html",
+   "status": 200,
+   "title": "Renewing Your Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/new-home-build.html",
+   "status": 200,
+   "title": "Building a Brand New Home or Units - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/switch-to-rbc.html",
+   "status": 200,
+   "title": "Switch Your Mortgage to RBC - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/renovating-your-home.html",
+   "status": 200,
+   "title": "Financing Your Home Renovation - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/buying-next-home.html",
+   "status": 200,
+   "title": "Buying Your Next Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/tools/mortgage-affordability-calculator/index.html",
+   "status": 200,
+   "title": "Mortgage Affordability Calculator – Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/mortgages/tools/mortgage-affordability-calculator/index.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-calculators.html",
+   "status": 200,
+   "title": "Mortgage Calculators and Tools - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/messaging/public/index.html",
+   "status": 200,
+   "title": "Understanding Interest Rate Changes",
+   "canonical": null,
+   "robots": "noindex, nofollow",
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/investment-property-mortgage.html",
+   "status": 200,
+   "title": "Buying an Investment Property - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector-mortgage-insurance.html",
+   "status": 200,
+   "title": "HomeProtector Insurance - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/fixed-vs-variable-rates.html",
+   "status": 200,
+   "title": "Fixed vs. Variable Rate Mortgages - Key Differences | RBC Royal Bank of Canada",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/how-to-pay-down-mortgage-faster.html",
+   "status": 200,
+   "title": "How to Pay Down a Mortgage Faster - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/traditional-collateral-mortgages.html",
+   "status": 200,
+   "title": "Traditional and Collateral Mortgages - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/accelerate-mortgage-payment.html",
+   "status": 200,
+   "title": "Accelerate Your Mortgage Payment - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/double-up-payments.html",
+   "status": 200,
+   "title": "Double-Up Mortgage Payments - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/rbc-green-home-mortgage-program.html",
+   "status": 200,
+   "title": "Green Home Mortgages - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/mortgage-prepayment.html",
+   "status": 200,
+   "title": "Making a Mortgage Prepayment - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/increasing-mortgage-payments.html",
+   "status": 200,
+   "title": "Increasing Your Mortgage Payments - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/bridge-financing.html",
+   "status": 200,
+   "title": "Bridge Financing - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/selling-buying-home.html",
+   "status": 200,
+   "title": "Selling and Buying a Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/mortgage-payment-deferral.html",
+   "status": 200,
+   "title": "Mortgage Payment Deferral Options - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/sellers-vs-buyers-market.html",
+   "status": 200,
+   "title": "Seller's Market vs. Buyer's Market - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/closing-costs.html",
+   "status": 200,
+   "title": "Closing Costs When Buying a Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/breaking-a-mortgage.html",
+   "status": 200,
+   "title": "Breaking a Fixed Rate Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/building-your-own-house.html",
+   "status": 200,
+   "title": "Mortgages for Building Your Own Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-a-mortgage-and-how-it-works.html",
+   "status": 200,
+   "title": "What is a Mortgage and How Does it Work? | RBC Royal Bank of Canada",
+   "canonical": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-a-mortgage-and-how-it-works.html",
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/essential-mortgage-information-for-newcomers.html",
+   "status": 200,
+   "title": "",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/buying-a-condo.html",
+   "status": 200,
+   "title": "Buying a Condo - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/first-time-home-buyers-tax-credit.html",
+   "status": 200,
+   "title": "First-Time Home Buyer's Tax Credit (HBTC) - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/compare-mortgages.html",
+   "status": 200,
+   "title": "Mortgages Overview - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/understanding-mortgage-prepayment-charges.html",
+   "status": 200,
+   "title": "Understanding Mortgage Prepayment Charges - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/buying-a-home-you-can-afford.html",
+   "status": 200,
+   "title": "Buying a Home You Can Afford Now and in the Future - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/prepayment-charges-2024-migrated-clients.html",
+   "status": 200,
+   "title": "Understanding Mortgage Prepayment Charges for Clients Who Migrated in 2024 – RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/saving-for-down-payment.html",
+   "status": 200,
+   "title": "Saving for a Down Payment on a Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-title-insurance.html",
+   "status": 200,
+   "title": "What is Title Insurance - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/budgeting-for-closing-costs.html",
+   "status": 200,
+   "title": "Budgeting for Closing and Moving Costs - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/rrsp-home-buyers-plan.html",
+   "status": 200,
+   "title": "RRSP Home Buyers' Plan for First-Time Home Buyers - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/make-the-most-of-renewal.html",
+   "status": 200,
+   "title": "Mortgage Renewal Tips and Advice - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/get-the-best-price.html",
+   "status": 200,
+   "title": "Getting the Best Price for Your Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-seller-tips.html",
+   "status": 200,
+   "title": "Before Selling Your First Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/understanding-mortgage-renewal-options.html",
+   "status": 200,
+   "title": "Understand Mortgage Renewal Rates - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/multi-units-construction-program.html",
+   "status": 200,
+   "title": "RBC Multi-Unit Construction Mortgage Program - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/next-mortgage-options.html",
+   "status": 200,
+   "title": "Mortgage Options for Your Next Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/porting-a-mortgage.html",
+   "status": 200,
+   "title": "Porting A Mortgage - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/before-moving-day.html",
+   "status": 200,
+   "title": "Before Moving Day - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-improvement-financing.html",
+   "status": 200,
+   "title": "Home Improvement Financing - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-closing-documents.html",
+   "status": 200,
+   "title": "Buyer's Home Closing Documents - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/right-neighbourhood-for-your-rental.html",
+   "status": 200,
+   "title": "Choosing The Right Neighbourhood For Rental Property - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/renting-out-your-house.html",
+   "status": 200,
+   "title": "Renting Out Your House - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/types-of-rental-properties.html",
+   "status": 200,
+   "title": "Types Of Rental Properties - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-mortgage-default-insurance.html",
+   "status": 200,
+   "title": "What is Mortgage Default Insurance - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/evaluating-rental-property.html",
+   "status": 200,
+   "title": "Evaluating rental property - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/how-to-make-an-offer-on-a-house.html",
+   "status": 200,
+   "title": "How to Make an Offer to Purchase a House - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/widgets/skip-a-payment/index.html",
+   "status": 200,
+   "title": "Skip A Payment® Mortgage Deferral Calculator - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/what-to-know-before-buying-a-rental-property.html",
+   "status": 200,
+   "title": "What To Know Before Buying A Rental Property  - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/selling-your-first-home.html",
+   "status": 200,
+   "title": "Selling Your First Home - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/condo-vs-house.html",
+   "status": 200,
+   "title": "Condo vs. House Owernership - RBC Royal Bank",
+   "canonical": null,
+   "robots": null,
+   "inSitemap": false
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/finding-a-home.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-buying-process.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-ownership.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/rbc-mortgage-benefits.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/transferring-mortgage-to-rbc.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/understanding-mortgage-switch-options.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/buying-from-a-builder.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/index.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-a-mortgage-and-how-it-works.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/first-time-homebuyer-programs.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-a-mortgage-and-how-it-works.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/should-you-buy-or-sell-your-home-first.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-a-mortgage-and-how-it-works.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/specialist-locator/",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/essential-mortgage-information-for-newcomers.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/choosing-the-right-house.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/finding-a-home.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/first-time-home-buyer-benefits.html",
+   "status": 200,
+   "foundBy": "rendered",
+   "from": "https://www.rbcroyalbank.com/mortgages/finding-a-home.html"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/product-advice/budgeting-home-ownership-costs.html",
+   "status": 200,
+   "foundBy": "rendered"
+  }
+ ],
+ "redirects": [
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/closing-costs.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/closing-costs.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/pay-down-mortgage.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/how-to-pay-down-mortgage-faster.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/fixed-vs-variable-rates.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/fixed-vs-variable-rates.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/title-insurance.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-title-insurance.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/what-to-know-before-buying-a-rental-property.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/what-to-know-before-buying-a-rental-property.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/making-an-offer-to-purchase.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/how-to-make-an-offer-on-a-house.html",
+   "status": 200
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-default-insurance.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-mortgage-default-insurance.html",
+   "status": 200,
+   "foundBy": "rendered"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/budgeting-home-ownership-costs.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/budgeting-home-ownership-costs.html",
+   "status": 200,
+   "foundBy": "rendered"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/condo-vs-house.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/condo-vs-house.html",
+   "status": 200,
+   "foundBy": "rendered"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/understanding-mortgages.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/what-is-a-mortgage-and-how-it-works.html",
+   "status": 200,
+   "foundBy": "rendered"
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/bridge-financing.html",
+   "to": "https://www.rbcroyalbank.com/mortgages/product-advice/bridge-financing.html",
+   "status": 200,
+   "foundBy": "rendered"
+  }
+ ],
+ "errors": [
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/accelerated_payment_schedules.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/are_you_ready.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/_assets-custom/terms.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/assumable-mortgage.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/building-a-home.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/campaign/hp_apply_online.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/avg-canadian-housing-prices.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/choosing-home-inspector.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/double-up_payments.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/frequently_asked_questions.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/first_time_home_buyers.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/early-mortgage-payoff.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home_refinancing.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/home-buyer-resources.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/cost.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/coverage.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/claim.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/health_questions.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/limitations.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/eligible.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/refinancing.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/how_to_apply.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/q_and_a.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/increasing_your_payment.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/lump-sum_prepayments.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/managing_your_mortgage.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/homeprotector/what_is_it.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/money_saving_options.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/month_exp.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-rates-overview.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage-glossary.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage_add-on.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup-compare-prepayment-options.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/pop-up-closed-open-mort-overview.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/online-banking.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/mortgage_calculators.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/peace_of_mind.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_amort_comp_chart.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup-home-energy-audit-rebate.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/popup_treatment.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/protecting_your_home.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/pre-app.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/purchasing_your_next_home.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/renewing_your_mortgage.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/skip_a_payment.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/shorter_amortization.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/title_insurance.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/transfer_to_rbc_today.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/variable-rate-advantage.html",
+   "status": 404
+  },
+  {
+   "url": "https://www.rbcroyalbank.com/mortgages/understanding-mortgage-basics.html",
+   "status": 404
+  }
+ ],
+ "canonicalDuplicates": [],
+ "capped": false,
+ "sitemapUrls": 79,
+ "rendered": {
+  "at": "2026-10-07T18:45:24.507Z",
+  "newPages": 13
+ }
+}
