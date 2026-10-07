@@ -1,6 +1,6 @@
 # RBC scoping: handoff for the next session
 
-**Start here in a new session.** This file holds:
+**Start here in a new session.** The ready-to-paste kickoff message is in [`NEW-SESSION-PROMPT.md`](NEW-SESSION-PROMPT.md). This file holds:
 - where the work stands;
 - the wave-1 baseline that must be preserved (credit cards + homepage);
 - what to do next, step by step.
